@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="GameOverMusicGRAVE_data" version="1.3.0" audacityversion="2.1.2" sel0="0.0000000000" sel1="12.3256916100" vpos="0" h="0.0000000000" zoom="32.2902851456" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="major_brand" value="mp42"/>
+		<tag name="Encoding time" value="2011-09-02 21:38:20"/>
+		<tag name="Software" value="Lavf52.87.1"/>
+		<tag name="compatible_brands" value="isommp42"/>
+		<tag name="minor_version" value="0"/>
+	</tags>
+	<wavetrack name="Red Army Choir- Dark Eyes." channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="543563">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007bf.au" len="262144" min="-0.987813" max="1.002116" rms="0.255862"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000c62.au" len="140709" min="-1.008477" max="0.965836" rms="0.199323"/>
+				</waveblock>
+				<waveblock start="402853">
+					<simpleblockfile filename="e0000784.au" len="140710" min="-1.009394" max="0.969463" rms="0.20966"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="12.325668934240" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="12.32569161">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="324">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000418.au" len="324" min="-0.049864" max="0.023651" rms="0.000882"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Red Army Choir- Dark Eyes." channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="543563">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e13.au" len="262144" min="-1.016526" max="0.948915" rms="0.210622"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000680.au" len="140709" min="-0.801411" max="0.840035" rms="0.149498"/>
+				</waveblock>
+				<waveblock start="402853">
+					<simpleblockfile filename="e00008b6.au" len="140710" min="-0.920672" max="0.931417" rms="0.175482"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="12.325668934240" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="12.32569161">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="324">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000846.au" len="324" min="-0.028236" max="0.012464" rms="0.000562"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
