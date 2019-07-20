@@ -54,8 +54,8 @@ function ASAInterfaceMessengerCHROME()
       ++kiwi;\
       main[0].style.backgroundSize = "cover";\
       main[0].style.backgroundPosition = "center";\
-      var textEditor = document.getElementsByClassName("_1mf");\
-      textEditor[0].style.color = "rgba(0,0,0,1)";\
+      var textEditorBackground = document.getElementsByClassName("_5irm _7mkm");\
+      textEditorBackground[0].style.background = "transparent";\
       var core = document.getElementsByClassName("_4sp8");\
       core[0].style.backgroundColor = "rgba(0,0,0,0.5)";\
       core[0].style.color = "rgba(255,255,255,0.3)";\
@@ -119,10 +119,8 @@ function ASAInterfaceMessenger()
   ++kiwi;
   main[0].style.backgroundSize = "cover";
   main[0].style.backgroundPosition = "center";
-
-  var textEditor = document.getElementsByClassName("_1mf");
-  textEditor[0].style.color = "rgba(0,0,0,1)";
-
+var textEditorBackground = document.getElementsByClassName("_5irm _7mkm");\
+      textEditorBackground[0].style.background = "transparent";\
   var core = document.getElementsByClassName("_4sp8");
   core[0].style.backgroundColor = "rgba(0,0,0,0.5)";
   core[0].style.color = "rgba(255,255,255,0.3)";
