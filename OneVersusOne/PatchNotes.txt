@@ -1,0 +1,8 @@
+Back Stabbers - Beta 1.0.2 :
++ "+1" "-1" buttons in the Duel Settings become simple "+" and "-" buttons.
++ "Speed - Strengh" display. In accordance with each character stats.
++ "How To Play" scene now explains how to pause the game.
++ New sound pitch for lifted throws.
++ Canadian Map Reworked. When a goal is scored, the looser now gains a frozen wall.
+- French translation to the Google Play page (to avoid the automatic totally accurate google translation).
+- New "Left" "Right" buttons when the character has the disc
