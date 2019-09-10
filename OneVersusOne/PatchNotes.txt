@@ -4,5 +4,7 @@ Back Stabbers - Beta 1.0.2 :
 + "How To Play" scene now explains how to pause the game.
 + New sound pitch for lifted throws.
 + Canadian Map Reworked. When a goal is scored, the looser now gains a frozen wall.
++ New "Left" "Right" buttons when the character has the disc
++ Lift Reworked. More Gravity Added.
++ New Frozen Goal Effect.
 - French translation to the Google Play page (to avoid the automatic totally accurate google translation).
-- New "Left" "Right" buttons when the character has the disc
