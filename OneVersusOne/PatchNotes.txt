@@ -7,4 +7,6 @@ Back Stabbers - Beta 1.0.2 :
 + New "Left" "Right" buttons when the character has the disc
 + Lift Reworked. More Gravity Added.
 + New Frozen Goal Effect.
++ Links to my social networs in the About Page
++ Minor Bug Fixes
 - French translation to the Google Play page (to avoid the automatic totally accurate google translation).
