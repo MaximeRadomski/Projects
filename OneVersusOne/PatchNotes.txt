@@ -1,12 +1,25 @@
 Back Stabbers - Beta 1.0.2 :
 + "+1" "-1" buttons in the Duel Settings become simple "+" and "-" buttons.
 + "Speed - Strengh" display. In accordance with each character stats.
-+ "How To Play" scene now explains how to pause the game.
++ "How To Play" tutorial now explains how to pause the game.
 + New sound pitch for lifted throws.
 + Canadian Map Reworked. When a goal is scored, the looser now gains a frozen wall.
 + New "Left" "Right" buttons when the character has the disc
 + Lift Reworked. More Gravity Added.
 + New Frozen Goal Effect.
-+ Links to my social networs in the About Page
-+ Minor Bug Fixes
-- French translation to the Google Play page (to avoid the automatic totally accurate google translation).
++ Links to my social networks in the "About" Page.
++ Minor Bug Fixes.
++ French translation to the Google Play page (to avoid the automatic "totally accurate" google translation).
+
+Back Stabbers - Beta 1.0.2 :
++ Les boutons "+1" "-1" dans la config d'un duel deviennent de simples boutons "+" et "-".
++ L'affichage des statistiques "Speed - Strengh" se fait maintenant en accord avec les stats de chaque personnage
++ Le tutotiel "How To Play" explique maintenant comment mettre le jeu en pause.
++ Différent son pour les lifts.
++ Terrain canadien retravaillé. Quand un but est marqué, le perdant gagne maintenant un but gelé.
++ Nouveaux boutons "Gauche" "Droite" quand un personnage a le disque.
++ Lift retravaillé. Ajout de gravité.
++ Nouvel effet lors du gel d'un but.
++ Ajout de liens vers mes réseaux sociaux dans la page "About".
++ Corrections de petits bugs.
++ Ajout d'une traduction en français de la page Google Play (pour éviter la traduction automatique "de précision").
