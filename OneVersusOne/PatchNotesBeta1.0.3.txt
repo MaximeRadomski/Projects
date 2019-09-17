@@ -1,6 +1,8 @@
 Back Stabbers - Beta 1.0.2 :
 + New "Left" "Right" buttons for the "How to play" tutorial
 + Dash to net gameplay enhancement
++ Bigger window to do a Double left/right Quick Throw
++ 
 
 Back Stabbers - Beta 1.0.2 :
 + 
