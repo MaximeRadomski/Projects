@@ -1,8 +1,10 @@
 Back Stabbers - Beta 1.0.2 :
 + New "Left" "Right" buttons for the "How to play" tutorial
-+ Dash to net gameplay enhancement
++ New Dash and rotation system
+- New Tutorial to explain it
++ Shadow bug fix
 + Bigger window to do a Double left/right Quick Throw
-+ 
++ Bigger buttons hitboxes
 
 Back Stabbers - Beta 1.0.2 :
 + 
