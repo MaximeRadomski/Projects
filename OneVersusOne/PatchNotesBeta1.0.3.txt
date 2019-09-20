@@ -1,14 +1,29 @@
-Back Stabbers - Beta 1.0.2 :
-+ Fixed "Left" "Right" buttons for the tutorial
-- Better arrows buttons in tutorial
-+ New Dash and rotation system
-+ New Tutorial to explain it
-+ Catch game mode's Thrower throwing speed fixed
-+ Shadow's bug fixed
-+ Bigger window to do a Double left/right Quick Throw
-+ Bigger buttons hitboxes
-+ Possibility to launch back super throws
-+ Super throws bugs fixed
+Back Stabbers - Beta 1.0.3 :
+Gameplay:
++ New dash system.
++ Longer delay to do a quick throw.
++ Catch game mode throwing speed fixed.
++ Bigger buttons hitboxes.
++ Possibility to throw back super throws.
++ Super throws bugs fixed.
+Tutorial:
++ Explanations of the new dash system.
++ Fixed "Left" "Right" buttons.
++ More visible "Previous" "Next" buttons.
+Visuals:
++ Shadow bug fixed.
 
-Back Stabbers - Beta 1.0.2 :
-+ 
+Back Stabbers - Beta 1.0.3 :
+Gameplay:
++ Nouveau système de dash.
++ Délais plus long pour faire un tir rapide.
++ Vitesse de lancer du mode de jeu Catch corrigée.
++ Plus grosses hitboxes des boutons.
++ Possibilité de relancer un super lancer.
++ Bugs sur les super lancers .
+Tutoriel:
++ Explication du nouveau système de dash.
++ Boutons "Gauche" "Droite" corrigés.
++ Boutons "Avant" "Après" plus visibles.
+Visuels:
++ Bug d'ombre corrigé.
