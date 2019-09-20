@@ -14,16 +14,16 @@ Visuals:
 + Shadow bug fixed.
 
 Back Stabbers - Beta 1.0.3 :
-Gameplay:
+Gameplay :
 + Nouveau système de dash.
 + Délais plus long pour faire un tir rapide.
 + Vitesse de lancer du mode de jeu Catch corrigée.
 + Plus grosses hitboxes des boutons.
 + Possibilité de relancer un super lancer.
 + Bugs sur les super lancers .
-Tutoriel:
+Tutoriel :
 + Explication du nouveau système de dash.
 + Boutons "Gauche" "Droite" corrigés.
 + Boutons "Avant" "Après" plus visibles.
-Visuels:
+Visuels :
 + Bug d'ombre corrigé.
