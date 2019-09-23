@@ -1,6 +1,7 @@
 Back Stabbers - Beta 1.0.4 :
 Gameplay:
-+ Holding Arrows controls and specific delay
+- Holding Arrows controls and specific delay
+- Invert all Player Two controls sprites 
 
 Back Stabbers - Beta 1.0.4 :
 +
