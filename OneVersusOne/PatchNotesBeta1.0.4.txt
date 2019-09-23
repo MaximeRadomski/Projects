@@ -1,0 +1,7 @@
+Back Stabbers - Beta 1.0.4 :
+Hot Fix :
++ Animation bug on the English character fixed
+
+Back Stabbers - Beta 1.0.4 :
+Patch à chaud :
++ Correction d'un bug d'animation sur le personnage anglais
