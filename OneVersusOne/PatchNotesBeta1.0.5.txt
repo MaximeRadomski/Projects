@@ -1,7 +1,12 @@
-Back Stabbers - Beta 1.0.4 :
+Back Stabbers - Beta 1.0.5 :
 Gameplay:
-- Holding Arrows controls and specific delay
-- Invert all Player Two controls sprites 
++ You can now hold Left or Right to change the throwing direction.
++ New AI
+Visuals:
++ Lots of Player 2 moves and controls had inverted sprites, it's now fixed.
 
-Back Stabbers - Beta 1.0.4 :
-+
+Back Stabbers - Beta 1.0.5 :
+Gameplay :
++ Vous pouvez maintenant maintenir Gauche ou Droite pour changer la direction du lancer.
+Visuels :
++ Beaucoup de mouvements et de contrôles du joueur 2 avaient des sprites inversés, c'est maintenant corrigé.
