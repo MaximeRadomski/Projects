@@ -1,4 +1,6 @@
 Back Stabbers - Beta 1.0.5 :
+New Feature:
++ You can now save games
 Gameplay:
 + You can now hold Left or Right to change the throwing direction.
 + New AI
