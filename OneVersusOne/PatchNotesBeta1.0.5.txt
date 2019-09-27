@@ -1,14 +1,15 @@
 Back Stabbers - Beta 1.0.5 :
 New Feature:
-+ You can now save games
++ Any Duel or Tournament game progression is now auto-saved.
 Gameplay:
 + You can now hold Left or Right to change the throwing direction.
-+ New AI
 Visuals:
 + Lots of Player 2 moves and controls had inverted sprites, it's now fixed.
 
 Back Stabbers - Beta 1.0.5 :
-Gameplay :
+Nouvelle fonctionnalité:
++ Toute progression d'une partie de Duel ou de tournoi est maintenant enregistrée automatiquement.
+Gameplay:
 + Vous pouvez maintenant maintenir Gauche ou Droite pour changer la direction du lancer.
-Visuels :
+Visuels:
 + Beaucoup de mouvements et de contrôles du joueur 2 avaient des sprites inversés, c'est maintenant corrigé.
