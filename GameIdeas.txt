@@ -1,0 +1,43 @@
+For Honer !
+
+Tinder Like
+- Monter son équipe, devenir le meilleur recruteur
+	- Swiper les trop faibles ou trop forts
+	- Nombre de match limité par jour
+- Malus quand swipe left (perdre un pv par emple)
+- profils générés procéduralement
+- Action en même temps 
+- Tu récupère dans ton équipe le vaincu
+- Tu perds ton personnage si vaincu et recommence au début du "niveau"
+- Armes commes dans dofus
+
+
+Contraintes :
+- Gameplay à une main
+- Tactical grid based
+
+
+Scénario type :
+- On a un nombre de like pré-défini
+- Un like peut être gaspillé si jamais il n'y a pas match 
+	- Donc taille de l'équipe varie
+- Un personnage trop nul n'acceptera pas de se battre
+- Un trop fort non plus
+
+
+o-----------------o
+| o-------------o |
+| |             | |
+| |             | |
+| |             | |
+| |             | |
+| |             | |
+| |             | |
+| |             | |
+| o-------------o |
+| | bla bla bla | |
+| o-------------o |
+|   ___     ___   |
+|  /   \   /   \  |
+|  \___/   \___/  |
+o-----------------o
