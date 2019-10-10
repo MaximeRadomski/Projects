@@ -1,7 +1,12 @@
-Back Stabbers - Beta 1.0.5 :
+Back Stabbers - Beta 1.0.6 :
 Gameplay:
-+ New AI
++ New AI (harder and more aggressive).
+Bugs:
++ Fixed bugs linked to the new auto-save feature.
 
-Back Stabbers - Beta 1.0.5 :
-Gameplay:
-+ Nouvelle IA
+
+Back Stabbers - Beta 1.0.6 :
+Gameplay :
++ Nouvelle IA (plus dure et plus agressive).
+Bugs :
++ Correction de bugs liés à la nouvelle fonctionnalité de sauvegarde automatique.

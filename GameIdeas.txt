@@ -1,26 +1,28 @@
-For Honer !
-
 Tinder Like
-- Monter son équipe, devenir le meilleur recruteur
-	- Swiper les trop faibles ou trop forts
-	- Nombre de match limité par jour
+- Swiper les trop faibles ou trop forts
+- Nombre de match limité par jour
 - Malus quand swipe left (perdre un pv par emple)
 - profils générés procéduralement
-- Action en même temps 
-- Tu récupère dans ton équipe le vaincu
-- Tu perds ton personnage si vaincu et recommence au début du "niveau"
-- Armes commes dans dofus
+- Chaque nuit tu récupère plus ou moins tes capacités en fonction de ta classe
+- Chaque nuit les ennemis deviennent plus forts
+- Humain -> Gobelins -> Elfes -> Nains -> Orcs ->
 
+[RACES]
+- Humain : 
+	- Arme : épée, lance
+	- PM : 2
+	- PV : 10
 
-Contraintes :
-- Gameplay à une main
-- Tactical grid based
-
+[ARMES]
+- Épée Courte :
+	- Dégats : 2-3
+	- Portée : 1
+	- Recovery : 0
 
 Scénario type :
 - On a un nombre de like pré-défini
 - Un like peut être gaspillé si jamais il n'y a pas match 
-	- Donc taille de l'équipe varie
+	- Donc possible de ne pas xp de la journée
 - Un personnage trop nul n'acceptera pas de se battre
 - Un trop fort non plus
 
