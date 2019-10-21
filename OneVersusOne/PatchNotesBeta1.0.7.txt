@@ -3,6 +3,8 @@ Menu:
 + Fixed numbers display in popup.
 Gameplay:
 + Player 2 back dash correct orientation.
+Visuals:
++ Square displays
 
 
 Back Stabbers - Beta 1.0.7 :
