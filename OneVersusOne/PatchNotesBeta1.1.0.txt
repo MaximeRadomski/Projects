@@ -1,4 +1,4 @@
-Back Stabbers - Beta 1.0.7 :
+Back Stabbers - Beta 1.1.0 :
 Menu:
 + Fixed the numbers display in popup.
 Gameplay:
@@ -7,10 +7,10 @@ Visuals:
 + Added the 4:3 support.
 
 
-Back Stabbers - Beta 1.0.7 :
-Menu:
+Back Stabbers - Beta 1.1.0 :
+Menu :
 + Correction de l'affichage des nombres dans les popup.
-Gameplay:
+Gameplay :
 + Correction de l'orientation du dash arrière du joueur 2.
-Visuals:
+Visuels :
 + Ajout du support 4:3.
