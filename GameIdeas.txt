@@ -27,6 +27,9 @@ Scénario type :
 - Un trop fort non plus
 
 
+[EVENT]
+- PNJ qui achète tout notre inventaire
+
 o-----------------o
 | o-------------o |
 | |             | |
