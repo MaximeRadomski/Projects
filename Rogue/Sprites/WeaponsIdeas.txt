@@ -9,3 +9,7 @@ Items:
 - Increase max Inventory capacity (sort of bag)
 - Increase max Weight carry limit (meat)
 - Decrease needed sleep by one hour (vegetables)
+- Remove 1 Needed PA to a weapon but reduce damages
+
+Skill:
+- Ralentissement : Remove 2PA to the target
