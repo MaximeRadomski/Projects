@@ -2,6 +2,8 @@ bapts.neyron@gmail.com
 L8plGfem
 2203
 
+adb logcat | findstr -i unity
+
 Items:
 - Randomize Pref Weapons
 - Better Pref Weapons but lesser others
