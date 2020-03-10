@@ -1,0 +1,3 @@
+http://[w/snowboard].phpnet.org/wp-admin/
+id : [w/snowboard]
+mdp : [w/snowboard][department]

@@ -1,3 +1,21 @@
+bapts.neyron@gmail.com
+L8plGfem
+2203
+
+adb logcat | findstr -i unity
+
+Items:
+- Randomize Pref Weapons
+- Better Pref Weapons but lesser others
+- Lesser Pref Weapons but better others
+- Increase max Inventory capacity (sort of bag)
+- Increase max Weight carry limit (meat)
+- Decrease needed sleep by one hour (vegetables)
+- Remove 1 Needed PA to a weapon but reduce damages
+
+Skill:
+- Ralentissement : Remove 2PA to the target
+
 Tinder Like
 - Swiper les trop faibles ou trop forts
 - Nombre de match limité par jour
