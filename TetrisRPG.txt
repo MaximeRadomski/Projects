@@ -1,0 +1,4 @@
+Tetris RPG
+- 1, 2, 3, 4 line break to damages
+- 10, 15 total lines to damage
+- 2, 3, 4 combo to damage
