@@ -1,0 +1,24 @@
+MVVM Cross
+- Fonctionne un peu comme Fresh
+	- Naming convention pour le binding de la View au ViewModel
+	- Navigation de ViewModel à ViewModel
+	- Injection de dépendance
+	- Ses propres Events LifeCycle (view is appearing, disapearing, etc...)
+	- etc...
+
+Abstract Class
+	Abtraction, classe non instanciable
+	Fields , properties , methods
+
+Interface
+	Abstraction, contract passé pour un service, factory
+	Methods only
+
+Factory
+	injection dépendance, toussa toussa
+
+Protected
+	accessible classes dérivées
+
+Methode d'extension
+	Methode(this object, parameter)
