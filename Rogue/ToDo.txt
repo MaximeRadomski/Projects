@@ -2,8 +2,10 @@ TODO:
 - Merchant Deals
 + Add a "Soul" button while in the pause menu in order to see the soul tree and the XpKept + Xp of the run
 	- Remember the current Journey Card
+	- SAVE AT TAVERN
 - RaceData : GetWeaponFromType -> gérer les cas d'épées à deux main qui ne doivent pas être couplées à des armes trop grosses
 - AI fuit trop rapidement (maybe bellow 10% max-life)
+
 
 adb logcat | findstr -i unity
 
@@ -17,4 +19,5 @@ Items:
 - Remove 1 Needed PA to a weapon but reduce damages
 
 Skill:
-- Ralentissement : Remove 2PA to the target
+- (1PA) Ralentissement : Remove 2PA to the target
+- (2PA) Step : Move to one of the adjacent cells
