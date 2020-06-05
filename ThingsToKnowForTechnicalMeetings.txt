@@ -22,3 +22,6 @@ Protected
 
 Methode d'extension
 	Methode(this object, parameter)
+
+Différence entre Git Merge et Git Rebase
+	
