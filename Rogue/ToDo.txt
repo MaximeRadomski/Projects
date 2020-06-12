@@ -1,10 +1,16 @@
 TODO:
-- Merchant Deals
++ Merchant Deals
 + Add a "Soul" button while in the pause menu in order to see the soul tree and the XpKept + Xp of the run
-- RaceData : GetWeaponFromType -> gérer les cas d'épées à deux main qui ne doivent pas être couplées à des armes trop grosses
-- AI fuit trop rapidement (maybe bellow 10% max-life)
-- Handle Death
++ RaceData : GetWeaponFromType -> gérer les cas d'épées à deux main qui ne doivent pas être couplées à des armes trop grosses
++ AI fuit trop rapidement (maybe bellow 10% max-life)
++ Code Avarice skill
++ Elf dashing in anot valid cell
++ Handle Death
+- Adding Races Assets
 
+
+Musiques :
+- 30 OST de Benzaie : https://www.youtube.com/watch?v=WUmV-U-yGmo
 
 adb logcat | findstr -i unity
 

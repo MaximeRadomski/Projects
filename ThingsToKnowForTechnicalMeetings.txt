@@ -20,8 +20,12 @@ Factory
 Protected
 	accessible classes dérivées
 
+Internal
+	interne au binaire
+
 Methode d'extension
 	Methode(this object, parameter)
 
 Différence entre Git Merge et Git Rebase
-	
+	Git rebase -> branche temporaire à la suite de amster, réécrire l'historique
+	Git merge -> branches non détruites
