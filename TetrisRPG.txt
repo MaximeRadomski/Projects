@@ -24,7 +24,7 @@ Progression:
 - Hell:
 	- Enemies: Sinners, undeads, demons, etc
 	- Semi Bosses: By combos
-	- Boss: Stan (x8+ Combo to Hard Damage)
+	- Boss: Stan (x5+ Combo to Hard Damage)
 	- Speed: Slow
 - Earth:
 	- Enemies: Nuns, monks, cardinals, etc
@@ -33,7 +33,7 @@ Progression:
 	- Speed: Medium
 - Hell:
 	- Enemies: angels, archangels, council members, etc
-	- Semi Bosses: By Chained multiple lines
+	- Semi Bosses: By consecutive multiple lines
 	- Boss: Dog (Chained T spins to Hard Damage)
 	- Speed: Fast
 
@@ -44,7 +44,7 @@ Map:
 
 Enemy Weekness:
 - single lines to damage
-- 2, 3, 4, or more combo to damage
+- 2, 3, 4, or more combo to damage 
 - 2, 3, 4 line break to damages
 - T Spins to damage
 - Perfect remove many HP
@@ -58,6 +58,7 @@ Enemy Strength:
 - Will attack if no lines after a delay
 - Will create grey lines with 1 or more holes
 - Will create 1 or more grey lines
+- Will create black plain lines. You must clear more than one line to destroy one black line
 
 Game Purchasable Mechanics:
 - Start with only 10 playfield lines (instead of 20)
@@ -97,6 +98,7 @@ Game Lootable Mechanics (Tattoos):
 	- Change your nature to a Human one
 	- Change your nature to a Holy one
 - Legendary:
+	- You can die once, but it resets the room
 	- You can resurect once
 	- You can't get more than one grey line at a time
 - Cursed:
