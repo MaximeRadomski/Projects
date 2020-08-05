@@ -121,7 +121,7 @@ Items (one use only):
 
 Characters:
 - Sinful:
-	- Succubus -> Whip hits : Three single cubes
+	- Succubus -> Whip hits : transforms the next 3 pieces into 3 single cubes fitting anywhere
 		- 10 Attack
 		- 10 Cooldown
 	- Incubus -> Yes Master : Remove the last first and third lines
