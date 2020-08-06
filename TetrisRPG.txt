@@ -60,7 +60,7 @@ Enemy Strength:
 - Will create 1 or more grey lines
 - Will create black plain lines. You must clear more than one line to destroy one black line
 
-Game Purchasable Mechanics:
+Game Purchasable Mechanics: (not what I want anymore, but can be enemy strength)
 - Start with only 10 playfield lines (instead of 20)
 - No DAS at first (https://tetris.wiki/DAS)
 - No Lock Delay at first
