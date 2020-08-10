@@ -121,46 +121,46 @@ Items (one use only):
 
 Characters:
 - Sinful:
-	- Succubus -> Whip hits : transforms the next 3 pieces into 3 single cubes fitting anywhere
+	- Succubus -> whip hits : transforms the next 3 pieces into 3 single cubes fitting anywhere
 		- 10 Attack
 		- 10 Cooldown
-	- Incubus -> Yes Master : Remove the last first and third lines
+	- Incubus -> catharsis : double your damages for the next 4 seconds
 		- 10 Attack
 		- 10 Cooldown
-	- Slave Demon -> Again please : Replace the next 3 pieces by the current one
+	- Harpy -> mine : switch current piece with the last of the piece preview
+		- 8 Attack
+		- 5 Cooldown
+	- Slave Demon -> again : replace the next 3 pieces by the current one
 		- 12 Attack
 		- 20 Cooldown
-	- Harpy -> You're mine : Switch current piece with the last of the piece preview
-		- 8 Attack
-		- 10 Cooldown
 - Human:
-	- Which -> Time drop : Next three pieces don't drop
+	- Which -> time drop : the next 5 pieces aren't affected by gravity
 		- 12 Attack
 		- 15 Cooldown
-	- Dark Templar -> Deus Vult : Remove the last 4 lines
+	- Dark Templar -> deus vult : remove the last 4 lines
 		- 12 Attack
 		- 20 Cooldown
-	- Perverted Nun -> Penitence : Remove last line for a grey one
+	- Perverted Nun -> penitence : remove the last 2 lines for a grey one
 		- 8 Attack
 		- 10 Cooldown
-	- Corrupted Monk -> Resilience : Cancel next enemy attack
+	- Corrupted Monk -> resilience : cancel next enemy attack
 		- 8 Attack
 		- 20 Cooldown
 - Holy
-	- Seraphim -> Pride : Randomize all piece preview
+	- Seraphim -> pride : randomize all piece preview
 		- 6 Attack
 		- 15 Cooldown
-	- Fallen Angel -> Wisdom : Replenish 10% of enemy HP but remove two grey lines from the top ones
+	- Fallen Angel -> wisdom : peplenish 10% of enemy HP but remove two grey lines from the top ones
 		- 10 Attack
 		- 10 Cooldown
-	- Seduced Archangel -> Punishment : Remove one random half of the collumns
+	- Seduced Archangel -> punishment : remove one random half of the collumns
 		- 12 Attack
 		- 30 Cooldown
-	- Divine Betrayer -> Sky Down : Apply Gravity (no bonuses)
+	- Divine Betrayer -> sky down : apply gravity on all current blocks in the play field (no bonuses)
 		- 14 Attack
 		- 40 Cooldown
 
-Nature:
+Realms:
 - Sinful -> Human
 	- Red
 	- Each combo adds an attack point
@@ -169,7 +169,7 @@ Nature:
 	- Quadruple Lines remove one grey line
 - Holy -> Sinful
 	- Blue
-	- Chained multiple lines lower your Cooldown
+	- Consecutive multiple lines lower your Cooldown
 - You deal 20% more damage to your inferior nature
 - You take 50% more grey lines from your superior nature
 
