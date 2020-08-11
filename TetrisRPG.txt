@@ -90,6 +90,7 @@ Game Lootable Mechanics (Tattoos):
 	- You get 10% more O
 	- You get 10% less I
 	- You get 10% more I
+	- Longer opponent attack delay
 - Rare:
 	- Your triple lines count for quadruple lines
 	- You gain one combo bonus from a x3 combo
@@ -116,6 +117,7 @@ Items (one use only):
 	- Holy Bible : Your next 4 single lines inflict +20 damage.
 	- Sinful Bible : Your next weakness attack deals double damage.
 - Legendary:
+	- double your damages for the next 4 seconds;
 	- Holy Grenade : Clear the whole playing field.
 	- Sinful Grenade : Kill your opponent (except bosses).
 
@@ -124,7 +126,7 @@ Characters:
 	- Succubus -> whip hits : transforms the next 3 pieces into 3 single cubes fitting anywhere
 		- 10 Attack
 		- 10 Cooldown
-	- Incubus -> catharsis : double your damages for the next 4 seconds
+	- Incubus -> sin's weight : all next piece's block are affected by gravity
 		- 10 Attack
 		- 10 Cooldown
 	- Harpy -> mine : switch current piece with the last of the piece preview
@@ -137,7 +139,7 @@ Characters:
 	- Which -> time drop : the next 5 pieces aren't affected by gravity
 		- 12 Attack
 		- 15 Cooldown
-	- Dark Templar -> deus vult : remove the last 4 lines
+	- Dark Templar -> deus vult : remove the last 4 rows
 		- 12 Attack
 		- 20 Cooldown
 	- Perverted Nun -> penitence : remove the last 2 lines for a grey one
@@ -171,7 +173,7 @@ Realms:
 	- Blue
 	- Consecutive multiple lines lower your Cooldown
 - You deal 20% more damage to your inferior nature
-- You take 50% more grey lines from your superior nature
+- You take 1 more grey lines from your superior nature
 
 Color Palette:
 - ZeroRanger -> Red Green Blue
