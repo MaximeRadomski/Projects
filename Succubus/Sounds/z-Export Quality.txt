@@ -1,0 +1,4 @@
+- mp3
+- Bitrate Mode: Variable
+- Quality: 8, 65-105 kbps
+- Variable Speed: Fast
