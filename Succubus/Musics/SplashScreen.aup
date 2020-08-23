@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="SplashScreen_data" version="1.3.0" audacityversion="2.2.1" sel0="0.0000000000" sel1="6.0010884354" vpos="0" h="0.0000000000" zoom="2327.9138513512" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="SplashScreen" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="264648">
+				<waveblock start="0">
+					<simpleblockfile filename="e00000a8.au" len="261576" min="-0.257044" max="0.256686" rms="0.060136"/>
+				</waveblock>
+				<waveblock start="261576">
+					<simpleblockfile filename="e0000a01.au" len="3072" min="-0.022678" max="0.046143" rms="0.008769"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="SplashScreen" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="264648">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004a9.au" len="261576" min="-0.257044" max="0.256686" rms="0.060136"/>
+				</waveblock>
+				<waveblock start="261576">
+					<simpleblockfile filename="e0000af6.au" len="3072" min="-0.022678" max="0.046143" rms="0.008769"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
