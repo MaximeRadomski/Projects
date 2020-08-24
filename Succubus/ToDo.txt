@@ -1,3 +1,5 @@
 - Music Loop (make it better somehow)
-- Boost left right sound
-- Why rotate sound doesn't work on mobile ?
+- Overblend sound must use sound controler
+- the more the combo, the more the pitch / rate
+
+- UPDATE Android 10 de BACKSTABBERS !!!
