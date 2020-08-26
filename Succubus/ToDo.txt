@@ -1,6 +1,3 @@
 - Music Loop (make it better somehow)
-- Overblend sound must use sound controler
-- the more the combo, the more the pitch / rate
-
-+ UPDATE Android 10 de BACKSTABBERS !!!
-	- testouiller avant de push
+- Stop music when dead
+- Move character on line
