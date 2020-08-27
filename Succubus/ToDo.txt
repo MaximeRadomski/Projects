@@ -1,3 +1,6 @@
 - Music Loop (make it better somehow)
-- Stop music when dead
-- Move character on line
+- Training alone, training opponent
+
++ Move character on line
++ Stop music when dead
++ Volume Down on pause or info
