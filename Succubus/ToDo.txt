@@ -1,6 +1,12 @@
 - Music Loop (make it better somehow)
 - Training alone, training opponent
+- LockDelay shorter after level 20
+- All Realms Buttons
+- All Realms Panels
+
+- Learn to play the Gung Ho riff on bass
 
 + Move character on line
 + Stop music when dead
 + Volume Down on pause or info
++ Infinite rotate don't drop
