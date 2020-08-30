@@ -43,7 +43,8 @@ Map:
 	- You see your character entering from the left, and one enemy by "tile" of the room
 
 Enemy Weekness:
-- single lines to damage
+- each damage taken reduce cooldown progression
+- simple lines to damage
 - 2, 3, 4, or more combo to damage 
 - 2, 3, 4 line break to damages
 - T Spins to damage
@@ -90,7 +91,8 @@ Game Lootable Mechanics (Tattoos):
 	- You get 10% more O
 	- You get 10% less I
 	- You get 10% more I
-	- Longer opponent attack delay
+	- Longer enemy cooldown
+	- Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
 - Rare:
 	- Your triple lines count for quadruple lines
 	- You gain one combo bonus from a x3 combo
@@ -98,6 +100,7 @@ Game Lootable Mechanics (Tattoos):
 	- Change your nature to a Sinful one
 	- Change your nature to a Human one
 	- Change your nature to a Holy one
+	- Your realm's passive effect gets +100% efficiency
 - Legendary:
 	- You can die once, but it resets the room
 	- You can resurect once
@@ -119,7 +122,7 @@ Items (one use only):
 - Legendary:
 	- double your damages for the next 4 seconds;
 	- Holy Grenade : Clear the whole playing field.
-	- Sinful Grenade : Kill your opponent (except bosses).
+	- Sinful Grenade : Kill your enemy (except bosses).
 
 Characters:
 - Sinful:
@@ -163,17 +166,17 @@ Characters:
 		- 40 Cooldown
 
 Realms:
-- Sinful -> Human
+- Hell -> Earth
 	- Red
-	- Each combo adds an attack point
-- Human -> Holy
+	- Each combo adds + 10% of your current attack points
+- Earth -> Heaven
 	- Green
 	- Quadruple Lines remove one grey line
-- Holy -> Sinful
+- Heaven -> Hell
 	- Blue
-	- Consecutive multiple lines lower your Cooldown
+	- Consecutive multiple lines lower your Cooldown by 1
 - You deal 20% more damage to your inferior nature
-- You take 1 more grey lines from your superior nature
+- You take 1 more line from your superior nature
 
 Color Palette:
 - ZeroRanger -> Red Green Blue

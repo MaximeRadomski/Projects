@@ -1,8 +1,14 @@
 - Music Loop (make it better somehow)
-- Training alone, training opponent
-- LockDelay shorter after level 20
-- All Realms Buttons
+- LockDelay shorter after level 20 (in training)
 - All Realms Panels
+- Characters and oponents sounds :
+	- Opponents (appearance, attack, hit, death)
+	- Characters (selection, attack, take damage, and more)
+- Sound for realm passive effect
+- Sound for weakness and immunity
+	- weakness + hit
+	- immunity + appearance
+- Music stays the same after poping from gameplay... Hmmm....
 
 - Learn to play the Gung Ho riff on bass
 
