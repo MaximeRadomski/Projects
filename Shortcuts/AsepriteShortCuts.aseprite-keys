@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="Stroke" shortcut="S" removed="true" />
+        <key command="CanvasSize" shortcut="C" removed="true" />
+        <key command="GotoPreviousFrame" context="Normal" shortcut="Left" removed="true" />
+        <key command="GotoPreviousFrame" context="Normal" shortcut="1" />
+        <key command="GotoNextFrame" context="Normal" shortcut="Right" removed="true" />
+        <key command="GotoNextFrame" context="Normal" shortcut="2" />
+        <key command="PaletteEditor" shortcut="A" removed="true" />
+        <key command="SwitchColors" shortcut="X" removed="true" />
+        <key command="Zoom" shortcut="1" removed="true">
+            <param name="percentage" value="100" />
+        </key>
+        <key command="Zoom" shortcut="2" removed="true">
+            <param name="percentage" value="200" />
+        </key>
+        <key command="Zoom" shortcut="3" removed="true">
+            <param name="percentage" value="400" />
+        </key>
+        <key command="Zoom" shortcut="4" removed="true">
+            <param name="percentage" value="800" />
+        </key>
+        <key command="Zoom" shortcut="5" removed="true">
+            <param name="percentage" value="1600" />
+        </key>
+        <key command="Zoom" shortcut="6" removed="true">
+            <param name="percentage" value="3200" />
+        </key>
+    </commands>
+    <tools>
+        <key tool="rectangular_marquee" shortcut="M" removed="true" />
+        <key tool="rectangular_marquee" shortcut="A" />
+        <key tool="lasso" shortcut="Q" removed="true" />
+        <key tool="pencil" shortcut="B" removed="true" />
+        <key tool="pencil" shortcut="E" />
+        <key tool="eraser" shortcut="E" removed="true" />
+        <key tool="eraser" shortcut="X" />
+        <key tool="eyedropper" shortcut="I" removed="true" />
+        <key tool="eyedropper" shortcut="Q" />
+        <key tool="line" shortcut="L" removed="true" />
+        <key tool="line" shortcut="C" />
+        <key tool="filled_rectangle" shortcut="U" removed="true" />
+        <key tool="filled_rectangle" shortcut="S" />
+    </tools>
+    <quicktools />
+    <actions />
+    <wheel />
+</keyboard>
