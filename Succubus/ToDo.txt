@@ -12,10 +12,9 @@
 
 [IN PROGRESS]
 
--> Sound and FX Level Up
--> Characters and oponents sounds :
+-> Characters and oponents catch-phrases :
 	- Opponents (appearance, attack, hit, death)
-	-> Characters (selection, attack, take damage, and more)
+	- Characters (selection, attack, take damage, and more)
 -> Popping chat
 	- text material for every realm
 	- compress voice
@@ -24,6 +23,7 @@
 
 [DONE]
 
++ Sound and FX Level Up
 + Re set menu music after gameover
 + LockDelay shorter after level 20 (in training)
 + Move character on line
