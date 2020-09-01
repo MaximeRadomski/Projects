@@ -187,3 +187,6 @@ Design:
 Musics:
 - Dicy dungeon
 - Boss Music : Based on the first 12 "singing" notes of the Hunter X Hunter S2 outro
+
+Voices :
+- Inspired by what is done in celeste and undertale

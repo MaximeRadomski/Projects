@@ -1,17 +1,31 @@
+
+[TODO]
+
 - Music Loop (make it better somehow)
-- LockDelay shorter after level 20 (in training)
 - All Realms Panels
-- Characters and oponents sounds :
-	- Opponents (appearance, attack, hit, death)
-	- Characters (selection, attack, take damage, and more)
 - Sound for realm passive effect
 - Sound for weakness and immunity
 	- weakness + hit
 	- immunity + appearance
-- Music stays the same after poping from gameplay... Hmmm....
 
-- Learn to play the Gung Ho riff on bass
+----------------------------------------------------------------------------------------------------------------
 
+[IN PROGRESS]
+
+-> Sound and FX Level Up
+-> Characters and oponents sounds :
+	- Opponents (appearance, attack, hit, death)
+	-> Characters (selection, attack, take damage, and more)
+-> Popping chat
+	- text material for every realm
+	- compress voice
+
+----------------------------------------------------------------------------------------------------------------
+
+[DONE]
+
++ Re set menu music after gameover
++ LockDelay shorter after level 20 (in training)
 + Move character on line
 + Stop music when dead
 + Volume Down on pause or info
