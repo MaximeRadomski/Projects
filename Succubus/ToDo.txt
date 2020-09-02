@@ -3,26 +3,23 @@
 
 - Music Loop (make it better somehow)
 - All Realms Panels
-- Sound for realm passive effect
-- Sound for weakness and immunity
-	- weakness + hit
-	- immunity + appearance
+- Change Crit Sound, add hit sound, change appearance (lower sound), change clean sound, change garbage sound
+- Add a duration to Poping Text
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
--> Characters and oponents catch-phrases :
-	- Opponents (appearance, attack, hit, death)
-	- Characters (selection, attack, take damage, and more)
--> Popping chat
-	- text material for every realm
-	- compress voice
+
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Darken playfield between opponents
++ Some vibrations on attacks
++ Crit and crit sound
++ Opponents' Appearance and Death Sounds + Texts
 + Sound and FX Level Up
 + Re set menu music after gameover
 + LockDelay shorter after level 20 (in training)
