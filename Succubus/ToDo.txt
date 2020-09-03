@@ -10,12 +10,14 @@
 
 [IN PROGRESS]
 
-
+-> Opponent Infos
+-> Weakness / Immunity Icons
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Incorporate lore on image click
 + Darken playfield between opponents
 + Some vibrations on attacks
 + Crit and crit sound
