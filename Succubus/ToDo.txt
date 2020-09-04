@@ -11,12 +11,13 @@
 [IN PROGRESS]
 
 -> Opponent Infos
--> Weakness / Immunity Icons
+-> Why the fuck do they attack twice in a row sometime ?
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Weakness / Immunity Icons
 + Incorporate lore on image click
 + Darken playfield between opponents
 + Some vibrations on attacks
