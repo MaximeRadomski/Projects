@@ -94,6 +94,7 @@ Game Lootable Mechanics (Tattoos):
 	- You get 10% more I
 	- Longer enemy cooldown
 	- Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
+	- You can now see your pieces' shadows throw vision blocks
 - Rare:
 	- Your triple lines count for quadruple lines
 	- You gain one combo bonus from a x3 combo
@@ -192,6 +193,7 @@ Design:
 Musics:
 - Dicy dungeon
 - Boss Music : Based on the first 12 "singing" notes of the Hunter X Hunter S2 outro
+- intro of "fair play" by "arti-fix" 
 
 Voices :
 - Inspired by what is done in celeste and undertale

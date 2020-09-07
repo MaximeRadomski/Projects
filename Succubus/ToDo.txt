@@ -3,20 +3,20 @@
 
 - Music Loop (make it better somehow)
 - All Realms Panels
-- Change Crit Sound, add hit sound, change appearance (lower sound), change clean sound, change garbage sound
-- Add a duration to Poping Text
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
--> Opponent Infos
--> Why the fuck do they attack twice in a row sometime ?
+-> Vision Block
+	- sound
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Add a duration to Poping Text
++ Opponent Infos
 + Weakness / Immunity Icons
 + Incorporate lore on image click
 + Darken playfield between opponents
