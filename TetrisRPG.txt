@@ -74,47 +74,39 @@ Game Purchasable Mechanics: (not what I want anymore, but can be enemy strength)
 
 Game Lootable Mechanics (Tattoos):
 - Common:
-	- You can now double jump
-	- You do 10% more damages to your inferior nature
-	- You take 10% less grey lines from your superior nature
+	- You can now double jump (actually) 
+	- You deal +15% more damages to your inferior nature
+	- You deal +10% more damages
 	- Longer ARE (appearance delay)
 	- Longer Lock Delay
 	- Slower speed
 	- Reduce grey lines number of holes
 	- Your single lines deals more damages
-	- You get 10% less S & Z
-	- You get 10% more S & Z
-	- You get 10% less J & L
-	- You get 10% more J & L
-	- You get 10% less T
 	- You get 10% more T
-	- You get 10% more O
-	- You get 10% more O
-	- You get 10% less I
 	- You get 10% more I
 	- Longer enemy cooldown
 	- Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
-	- You can now see your pieces' shadows throw vision blocks
 	- You decrease vison blocks cooldow by +1 second each time you drop a piece
-- Rare:
-	- Your triple lines count for quadruple lines
+	- You decrease light rows cooldow by +1 second each time you drop a piece
+- Rare: (has a maximum stack)
 	- You gain one combo bonus from a x3 combo
 	- Enemies get a longer delay between each attack
-	- Change your nature to a Sinful one
-	- Change your nature to a Human one
-	- Change your nature to a Holy one
+	- Hell suppo : Change your nature to a Sinful one
+	- Earth child : Change your nature to a Human one
+	- Heaven icon : Change your nature to a Holy one
 	- Your realm's passive effect gets +100% efficiency
-	- During each encounter, doing a critical hit augments your critical hit chances by 1 percent.
-	- The opponent's attack is not triggered if you clear a line
+	- For the duration of your current fight, doing a critical hit augments your critical hit chances by +1 percent.
+	- The opponent's attack does not trigger while you clear lines
 	- Playing higher in the playfield makes opponent cooldown longer.
-- Legendary:
-	- Clear the play field on each opponent death
-	- You can die once, but it resets the room
-	- You can resurect once
-	- You can't get more than one grey line at a time
-- Cursed:
-	- Loose 5 lines of playing field, but you can resurect once
-	- Ene
+	- You can now see your pieces' shadows throw vision blocks
+- Legendary: (cannot be stacked)
+	- Your triple lines count for quadruple lines
+	- Your opponent cannot attack if your locked pieces reach a size of 16 blocks.
+	- Clear the play field on each opponent death.
+	- You can't get more than one grey line at a time.
+	- You can resurrect once, but this tattoo takes all the remaining place on your body.
+	- You can resurrect once, but it brings you at the beginning of your current realm
+	- You can resurrect once, but you get 10 light rows with a 444 cooldown for the rest of the fight
 
 Items (one use only):
 - Common:

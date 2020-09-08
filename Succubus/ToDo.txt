@@ -9,13 +9,14 @@
 
 [IN PROGRESS]
 
--> Mute when left + right holded
-	- check que ça marche (bidouille)
+-> Make pieces flash on lock
+- Add a lot of effects
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Mute when left + right holded
 + Vision Block
 + Add a duration to Poping Text
 + Opponent Infos
