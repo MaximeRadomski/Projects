@@ -95,6 +95,7 @@ Game Lootable Mechanics (Tattoos):
 	- Longer enemy cooldown
 	- Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
 	- You can now see your pieces' shadows throw vision blocks
+	- You decrease vison blocks cooldow by +1 second each time you drop a piece
 - Rare:
 	- Your triple lines count for quadruple lines
 	- You gain one combo bonus from a x3 combo

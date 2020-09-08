@@ -3,18 +3,20 @@
 
 - Music Loop (make it better somehow)
 - All Realms Panels
+- Entrances
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
--> Vision Block
-	- sound
+-> Mute when left + right holded
+	- check que ça marche (bidouille)
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Vision Block
 + Add a duration to Poping Text
 + Opponent Infos
 + Weakness / Immunity Icons
