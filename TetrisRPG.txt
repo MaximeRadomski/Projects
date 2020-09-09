@@ -177,6 +177,10 @@ Realms:
 - You deal 20% more damage to your inferior nature
 - You take 1 more line from your superior nature
 
+Success:
+- Beat the training dummies
+- Reach level 30 in free training
+
 Color Palette:
 - ZeroRanger -> Red Green Blue
 

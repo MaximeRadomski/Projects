@@ -4,18 +4,19 @@
 - Music Loop (make it better somehow)
 - All Realms Panels
 - Entrances
+- Add a lot of effects
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
--> Make pieces flash on lock
-- Add a lot of effects
+-> Attacks piece
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Double Jump
 + Mute when left + right holded
 + Vision Block
 + Add a duration to Poping Text
