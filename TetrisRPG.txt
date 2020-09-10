@@ -99,6 +99,12 @@ Game Lootable Mechanics (Tattoos):
 	- The opponent's attack does not trigger while you clear lines
 	- Playing higher in the playfield makes opponent cooldown longer.
 	- You can now see your pieces' shadows throw vision blocks
+	- Your opponent hurt itself everytime he attacks by +10% of your attack.
+	- Your opponent base cooldown increase by +1 seconds on each attack
+	- Element Fire : Your triple lines burn your opponent, dealing +3 damages for 3 seconds. 
+	- Element Ice : Your triple lines freeze your opponent, making him receving +4 damages for 4 seconds.
+	- Element Earth : Your triple lines smash your opponent, stunning him for +2 seconds.
+	- Element Wind : Your triple lines 
 - Legendary: (cannot be stacked)
 	- Your triple lines count for quadruple lines
 	- Your opponent cannot attack if your locked pieces reach a size of 16 blocks.
@@ -115,6 +121,7 @@ Items (one use only):
 	- Grenade : Clear the last 3 lines. Can also open secret passages on Earth.
 	- Cross : Reset the speed of the room.
 	- Pentagram : Negate your nature weakness in the current room
+	- Bypass opponent cooldown and activate its attack.
 - Rare:
 	- Holy Bible : Your next 4 single lines inflict +20 damage.
 	- Sinful Bible : Your next weakness attack deals double damage.

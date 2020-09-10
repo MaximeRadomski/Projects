@@ -1,6 +1,7 @@
 
 [TODO]
 
+- https://www.reddit.com/r/oddlyspecific/
 - Music Loop (make it better somehow)
 - All Realms Panels
 - Entrances
@@ -10,7 +11,7 @@
 
 [IN PROGRESS]
 
--> Attacks piece
+-> Forced Piece de ses morts
 
 ----------------------------------------------------------------------------------------------------------------
 
