@@ -74,7 +74,6 @@ Game Purchasable Mechanics: (not what I want anymore, but can be enemy strength)
 
 Game Lootable Mechanics (Tattoos):
 - Common:
-	- You can now double jump (actually) 
 	- You deal +15% more damages to your inferior nature
 	- You deal +10% more damages
 	- Longer ARE (appearance delay)
@@ -105,6 +104,7 @@ Game Lootable Mechanics (Tattoos):
 	- Element Ice : Your triple lines freeze your opponent, making him receving +4 damages for 4 seconds.
 	- Element Earth : Your triple lines smash your opponent, stunning him for +2 seconds.
 	- Element Wind : Your triple lines 
+	- You can now double jump
 - Legendary: (cannot be stacked)
 	- Your triple lines count for quadruple lines
 	- Your opponent cannot attack if your locked pieces reach a size of 16 blocks.
@@ -113,16 +113,19 @@ Game Lootable Mechanics (Tattoos):
 	- You can resurrect once, but this tattoo takes all the remaining place on your body.
 	- You can resurrect once, but it brings you at the beginning of your current realm
 	- You can resurrect once, but you get 10 light rows with a 444 cooldown for the rest of the fight
+	- You get +1 step in each realm (name idea: persistent), but 
+	- You get -1 step in each realm (name idea: In a hurry), but
 
-Items (one use only):
+Items (refill on each opponent attack):
 - Common:
-	- Holy Water : clear all grey rows
-	- Demon Blood : clear all black rows
-	- Grenade : Clear the last 3 lines. Can also open secret passages on Earth.
+	- Holy Water : clear all light rows
+	- Demon Blood : clear all dark rows
+	- Grenade : Clear the last 3 lines6
 	- Cross : Reset the speed of the room.
 	- Pentagram : Negate your nature weakness in the current room
 	- Bypass opponent cooldown and activate its attack.
 - Rare:
+	- Fill every single holes
 	- Holy Bible : Your next 4 single lines inflict +20 damage.
 	- Sinful Bible : Your next weakness attack deals double damage.
 - Legendary:
@@ -201,3 +204,13 @@ Musics:
 
 Voices :
 - Inspired by what is done in celeste and undertale
+
+
+Map : Max range cells equals number of rooms per steps
+Each room shows item/tattoo rarity + enemies level
+Each new discovered room adds up to the number of rooms per realm level
+when the  "you caught the landlord's attention"
+Each time we clear a room, more and more rooms get landlord attention
+After the number of steps done, all rooms get the landlord attention
+Each time you move ! One more vision room
+A skin and a model for each possibility
