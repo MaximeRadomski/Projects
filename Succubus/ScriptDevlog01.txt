@@ -1,0 +1,37 @@
+- Hi guys.
+- This video will be the first devlog I'm doing for my new game : Infidhells.
+- Before anything, I'd like to say that I've stoped working on my last project. It was a Diablo-Tinder-Turn-Based-Rogue-Lite-RPG-kinda-game, and even if I liked working on it a lot, I realized I was trying to create something way too big. So, sorry if you were interested by what I've been posting on twitter about this aborted project, I don't think I'll work on it anytime soon, even if I learned a lot while working on it.
+- Anyway, this new game, Infidhells will be a rogue lite too. But a rogue-lite-puzzle-game. It is inspired by Tetris in its core gameplay, and by other titles like Binding of Isaac and Hades in its Rogue Lite aspects.
+- I have a lot of ideas regarding of the different skills, items, opponents, lore, etc... But let's look at what I have so far.
+
+- I'm using unity for the game engine, aseprite for the pixel art, and Milky Tracker for the musics
+
+- The core gameplay was my main focus at first. I wanted to reproduce the best experience you can get while playing this kind of puzzle games. It works well, it is fast, it is hard, I like it.
+
+- The lore is about a world where the balance between good and evil is strongly in favor of good, so of heaven. Therefore, you will incarnate a succubus and her twin brother incubus, and will make your way out of hell, will purge some humans and cathedrals, and then kick some angels asses in order to re-establish a better balance between realms.
+
+- Then, the combat system. Basically you will encounter some foes, and will have to deal with them. 
+- You will have to choose a character for each run, they all have different stats and special attacks. Each realm provide a different passive effect as well. Because yes, you will be able to unlock some other playable characters, and they won't all come from hell.
+- Realms work this way : Hell is stronger than Earth, which is stronger than Heaven, which is stronger than Hell.
+- Each realm has a passive effect:
+- for Hell characters : Each combo boost your damages
+- for Earth characters : Quadruple Lines remove one grey line
+- for Heaven characters : Consecutive multiple lines lower your Special Cooldown by 1
+- If your character's realm is superior to your opponent's one, your opponent will take more damages. But on the opposite, you will get one more row on each one of your opponent's attacks
+
+- Clearing some lines will allow you to deal damages to your opponents. Opponents can have some weakness and some immunity to your attacks. They can for exemple take more damages from your combos, quadruple lines or consecutive line clears, but be able to counter single lines damages.
+- Your opponents have a cooldown, and will attack you after it's completion. They can then send you different kinds of attacks.
+	- Dark Rows, they will fill your playfield with full rows, which can only be destroyed by doing some lines yourself.
+	- Garbage Rows, they will fill your playfield with rows with holes in them. 
+	- Light Rows, they will fill your playfield with unbreakable rows, that can only disapear after you placed a fixed amount of your own pieces on your play field. Forcing you to play lower in the playfield
+	- Empty Rows, their name stands for themselves. You get empty rows under your owns, and you have to take care of not placing any piece in them. If you clear any other line, they disapear
+	- Vision blocks, they are blocks which will alter your vision on your highest played pieces in your playfield.
+	- And finally Forced Pieces, they are pieces which will be dropped by your opponent in your playfield. 
+- I might add more attack types in a near future, but the combat system will mostly be around those mechanics.
+
+- That quickly sums up what I did the last month on this project. I'm now focusing my efforts on the level generation and progression through a run.
+
+- I hope you like it so far. I don't have any idea when the next devlog will come out.
+- I'm mostly trying to work a bit on this game everyday, and to share with you my progress with those small videos.
+
+- Aaaand... that's it. See ya next time.
