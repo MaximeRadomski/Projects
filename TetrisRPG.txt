@@ -87,7 +87,9 @@ Game Lootable Mechanics (Tattoos):
 	- Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
 	- You decrease vison blocks cooldow by +1 second each time you drop a piece
 	- You decrease light rows cooldow by +1 second each time you drop a piece
-- Rare: (has a maximum stack)
+	- Your Item cooldown is reduced by +1
+	- Your Special cooldown is reduced by +1
+- Rare: 
 	- You gain one combo bonus from a x3 combo
 	- Enemies get a longer delay between each attack
 	- Hell suppo : Change your nature to a Sinful one
@@ -105,7 +107,9 @@ Game Lootable Mechanics (Tattoos):
 	- Element Earth : Your triple lines smash your opponent, stunning him for +2 seconds.
 	- Element Wind : Your triple lines 
 	- You can now double jump
-- Legendary: (cannot be stacked)
+- Legendary: 
+	- Each line cleared reduce your Special cooldown by +1 on
+	- Opponent attacks reduce your Item cooldown by +1 on each
 	- Your triple lines count for quadruple lines
 	- Your opponent cannot attack if your locked pieces reach a size of 16 blocks.
 	- Clear the play field on each opponent death.
@@ -125,6 +129,7 @@ Items (refill on each opponent attack):
 	- Pentagram : Negate your nature weakness in the current room
 	- Bypass opponent cooldown and activate its attack.
 - Rare:
+	- You can exit a fight (very large cooldown)
 	- Fill every single holes
 	- Holy Bible : Your next 4 single lines inflict +20 damage.
 	- Sinful Bible : Your next weakness attack deals double damage.

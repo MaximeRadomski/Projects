@@ -6,12 +6,15 @@
 - All Realms Panels
 - Entrances
 - Add a lot of effects
+- Map generation
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
--> Forced Piece de ses morts
+-> Items cooldown on opponent attacks
+-> Special cooldown
+-> Finalize Forced piece
 
 ----------------------------------------------------------------------------------------------------------------
 
