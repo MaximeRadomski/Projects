@@ -11,7 +11,8 @@
 - The lore is about a world where the balance between good and evil is strongly in favor of good, so of heaven. Therefore, you will incarnate a succubus and her twin brother incubus, and will make your way out of hell, will purge some humans and cathedrals, and then kick some angels asses in order to re-establish a better balance between realms.
 
 - Then, the combat system. Basically you will encounter some foes, and will have to deal with them. 
-- You will have to choose a character for each run, they all have different stats and special attacks. Each realm provide a different passive effect as well. Because yes, you will be able to unlock some other playable characters, and they won't all come from hell.
+- You will have to choose a character for each run, they all have different stats and special attacks.
+- Each realm provide a different passive effect as well. Because yes, you will be able to unlock some other playable characters, and they won't all come from hell.
 - Realms work this way : Hell is stronger than Earth, which is stronger than Heaven, which is stronger than Hell.
 - Each realm has a passive effect:
 - for Hell characters : Each combo boost your damages
