@@ -14,14 +14,14 @@
 
 [IN PROGRESS]
 
--> Items cooldown on opponent attacks
--> Special cooldown
--> Finalize Forced piece
+-> Tweak on attack
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Finalize Forced piece
++ Items cooldown on opponent attacks and special cooldown revampt
 + Double Jump
 + Mute when left + right holded
 + Vision Block
