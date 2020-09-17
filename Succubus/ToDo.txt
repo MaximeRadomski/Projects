@@ -7,19 +7,19 @@
 - Entrances
 - Add a lot of effects
 - Map generation
-- Special and Item availability sounds
-- Weakness and Immunity sounds
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
--> Tweak on attack
+-> Settings Vibration
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Tweak on attack
++ Weakness and Immunity sounds
 + Finalize Forced piece
 + Items cooldown on opponent attacks and special cooldown revampt
 + Double Jump
