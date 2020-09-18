@@ -6,13 +6,14 @@
 - All Realms Panels
 - Entrances
 - Add a lot of effects
-- Map generation
+- Settings Vibration
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
--> Settings Vibration
+-> Map generation
+-> PlayerPrefsHelper handling tattoos and their levels
 
 ----------------------------------------------------------------------------------------------------------------
 
