@@ -13,12 +13,14 @@
 [IN PROGRESS]
 
 -> Map generation
--> PlayerPrefsHelper handling tattoos and their levels
+-> Tattoos icons
+-> Body parts icons
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ PlayerPrefsHelper handling tattoos and their levels
 + Tweak on attack
 + Weakness and Immunity sounds
 + Finalize Forced piece
