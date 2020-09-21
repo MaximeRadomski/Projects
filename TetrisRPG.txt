@@ -90,6 +90,7 @@ Game Lootable Mechanics (Tattoos):
 	- Your Item cooldown is reduced by +1
 	- Your Special cooldown is reduced by +1
 - Rare: 
+	- Killing an opponent reduce your item cooldown by 2
 	- You get a chance to encounter a friendly character
 	- You gain one combo bonus from a x3 combo
 	- Enemies get a longer delay between each attack
@@ -110,6 +111,7 @@ Game Lootable Mechanics (Tattoos):
 	- You can now double jump
 	- The steps aren't blurred anymore on the map
 - Legendary: 
+	- The LandLord starts to watch over the area one step later
 	- Each line cleared reduce your Special cooldown by +1 on
 	- Opponent attacks reduce your Item cooldown by +1 on each
 	- Your triple lines count for quadruple lines
