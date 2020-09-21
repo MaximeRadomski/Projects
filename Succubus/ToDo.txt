@@ -7,6 +7,9 @@
 - Entrances
 - Add a lot of effects
 - Settings Vibration
+- Overblend start and end positions
+	- Add Overblends when necessary (step -> classic -> step)
+	- Or maybe not... Let's keey the oveblend for the menus and stuff like that. Let's use a combat encounter animation like in smash bros :D
 
 ----------------------------------------------------------------------------------------------------------------
 
