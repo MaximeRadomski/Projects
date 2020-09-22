@@ -4,25 +4,28 @@
 - https://www.reddit.com/r/oddlyspecific/
 - Music Loop (make it better somehow)
 - All Realms Panels
-- Entrances
 - Add a lot of effects
 - Settings Vibration
+	- Audio settings becomes Audio & Vibration
+	- Gameplay settings becomes Gamepay
 - Overblend start and end positions
 	- Add Overblends when necessary (step -> classic -> step)
 	- Or maybe not... Let's keey the oveblend for the menus and stuff like that. Let's use a combat encounter animation like in smash bros :D
+
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
--> Map generation
--> Tattoos icons
--> Body parts icons
+-> Actually apply Tattoo passive
+-> Create some tattoos
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Tattoos and Body parts icons
++ Map generation
 + PlayerPrefsHelper handling tattoos and their levels
 + Tweak on attack
 + Weakness and Immunity sounds
