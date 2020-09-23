@@ -126,12 +126,12 @@ Game Lootable Mechanics (Tattoos):
 
 Items (refill on each opponent attack):
 - Common:
-	- Holy Water : clear all light rows
-	- Demon Blood : clear all dark rows
-	- Grenade : Clear the last 3 lines6
+	+ Holy Water : clear 4 light rows
+	+ Demon Blood : clear 4 dark rows
+	+ Grenade : Clear the last 4 lines
 	- Cross : Reset the speed of the room.
 	- Pentagram : Negate your nature weakness in the current room
-	- Bypass opponent cooldown and activate its attack.
+	+ Voodoo Doll : Bypass opponent cooldown and activate its attack.
 - Rare:
 	- You can exit a fight (very large cooldown)
 	- Fill every single holes
