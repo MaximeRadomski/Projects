@@ -133,12 +133,12 @@ Items (refill on each opponent attack):
 	- Pentagram : Negate your nature weakness in the current room
 	+ Voodoo Doll : Bypass opponent cooldown and activate its attack.
 - Rare:
-	- You can exit a fight (very large cooldown)
+	+ Smoke Bomb : You can exit a fight (very large cooldown)
 	- Fill every single holes
 	- Holy Bible : Your next 4 single lines inflict +20 damage.
 	- Sinful Bible : Your next weakness attack deals double damage.
 - Legendary:
-	- double your damages for the next 4 seconds;
+	+ inner strengh doubles your base attack damages for 4 seconds;
 	- Holy Grenade : Clear the whole playing field.
 	- Sinful Grenade : Kill your enemy (except bosses).
 
