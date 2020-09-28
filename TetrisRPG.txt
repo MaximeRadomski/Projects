@@ -129,18 +129,18 @@ Items (refill on each opponent attack):
 	+ Holy Water : clear 4 light rows
 	+ Demon Blood : clear 4 dark rows
 	+ Grenade : Clear the last 4 lines
-	- Cross : Reset the speed of the room.
+	+ Wooden Cross : Reset the speed of the room.
 	- Pentagram : Negate your nature weakness in the current room
 	+ Voodoo Doll : Bypass opponent cooldown and activate its attack.
 - Rare:
 	+ Smoke Bomb : You can exit a fight (very large cooldown (en fait 20) )
-	- Fill every single holes
-	- Holy Bible : Your next 4 single lines inflict +20 damage.
+	+ Camembert : Fill every single holes
+	- Holy Bible : Your next 4 attacks lines inflict +20 damage.
 	- Sinful Bible : Your next weakness attack deals double damage.
 - Legendary:
-	+ inner strengh doubles your base attack damages for 4 seconds;
-	- Holy Grenade : Clear the whole playing field.
-	- Sinful Grenade : Kill your enemy (except bosses).
+	+ Inner Strengh doubles your base attack damages for 4 seconds;
+	+ Holy Grenade : Clear the whole playing field.
+	+ Reverse Crucifix : Inflicts 666 damages to your opponent (except bosses).
 
 Characters:
 - Sinful:

@@ -17,6 +17,8 @@
 
 [IN PROGRESS]
 
+-> Info button instead of clicking on character in StepsScene
+-> Opponent Type Generation
 -> Actually apply Tattoo passive
 -> Create some tattoos
 
