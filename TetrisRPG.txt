@@ -80,7 +80,7 @@ Game Lootable Mechanics (Tattoos):
 	- Longer Lock Delay
 	- Slower speed
 	- Reduce grey lines number of holes
-	- Your single lines deals more damages
+	+ Knuckle : Your single lines deals +2 damages
 	- You get 10% more T
 	- You get 10% more I
 	- Longer enemy cooldown
