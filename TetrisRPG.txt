@@ -87,6 +87,7 @@ Game Lootable Mechanics (Tattoos):
 	- Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
 	- You decrease vison blocks cooldow by +1 second each time you drop a piece
 	- You decrease light rows cooldow by +1 second each time you drop a piece
+	- Clear +1 line from the top after each opponent death
 - Rare: 
 	+ Killing an opponent reduce your item cooldown by 2
 	- Your Item Max cooldown is reduced by +1
