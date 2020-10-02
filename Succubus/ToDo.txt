@@ -18,8 +18,6 @@
 [IN PROGRESS]
 
 -> Opponent Type Generation
--> Actually apply Tattoo passive
--> Create some tattoos
 
 ----------------------------------------------------------------------------------------------------------------
 
