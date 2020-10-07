@@ -14,6 +14,7 @@
 - Pieces Shadow
 - Half Zones
 - Animation attack
+- Tattoos and Items on popup loot
 
 ----------------------------------------------------------------------------------------------------------------
 
