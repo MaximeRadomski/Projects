@@ -20,6 +20,7 @@
 
 [IN PROGRESS]
 
+-> swipes : sensitivity only for horizontal, add 2 more sensitivity
 -> Opponent Type Generation
 
 ----------------------------------------------------------------------------------------------------------------
