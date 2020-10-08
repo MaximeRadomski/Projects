@@ -11,7 +11,6 @@
 - Overblend start and end positions
 	- Add Overblends when necessary (step -> classic -> step)
 	- Or maybe not... Let's keey the oveblend for the menus and stuff like that. Let's use a combat encounter animation like in smash bros :D
-- Pieces Shadow
 - Half Zones
 - Animation attack
 - Tattoos and Items on popup loot
@@ -20,13 +19,14 @@
 
 [IN PROGRESS]
 
--> swipes : sensitivity only for horizontal, add 2 more sensitivity
--> Opponent Type Generation
+- Pieces Shadow
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Swipes Controls
++ Opponent Type Generation
 + Tattoos and Body parts icons
 + Map generation
 + PlayerPrefsHelper handling tattoos and their levels
