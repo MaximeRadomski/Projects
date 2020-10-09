@@ -14,17 +14,21 @@
 - Half Zones
 - Animation attack
 - Tattoos and Items on popup loot
+- Attack which change your current piece
+- Attack which rotate your current piece
+- Attack that set your current piece transparent
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
-- Pieces Shadow
+- Mimic pieces apparently xD
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Pieces Shadow
 + Swipes Controls
 + Opponent Type Generation
 + Tattoos and Body parts icons
