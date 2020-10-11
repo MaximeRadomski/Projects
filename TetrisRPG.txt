@@ -109,7 +109,7 @@ Game Lootable Mechanics (Tattoos):
 	- Element Ice : Your triple lines freeze your opponent, making him receving +4 damages for 4 seconds.
 	- Element Earth : Your triple lines smash your opponent, stunning him for +2 seconds.
 	- Element Wind : Your triple lines 
-	- You can now double jump
+	+ You can now double jump
 	- Steps aren't blurred anymore on the map
 	- Each line cleared reduce your Special cooldown by +1
 	- Opponent attacks reduce your Item cooldown by +1 

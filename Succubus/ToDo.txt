@@ -22,7 +22,7 @@
 
 [IN PROGRESS]
 
-- Mimic pieces apparently xD
+- Fix Double Jump transform.position apparently...
 
 ----------------------------------------------------------------------------------------------------------------
 
