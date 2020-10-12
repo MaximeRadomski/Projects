@@ -13,16 +13,19 @@
 	- Or maybe not... Let's keey the oveblend for the menus and stuff like that. Let's use a combat encounter animation like in smash bros :D
 - Half Zones
 - Animation attack
-- Tattoos and Items on popup loot
 - Attack which change your current piece
 - Attack which rotate your current piece
 - Attack that set your current piece transparent
+- Attack which create a small random offset on each of the playfield blocks
+- Attack whitch creates a hole in your lines (with a target an all)
+- Attack witch adds a block to your current piece
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
-- Fix Double Jump transform.position apparently...
+- Tattoos and Items on popup loot
+	- add a background because tattoos are too dark
 
 ----------------------------------------------------------------------------------------------------------------
 
