@@ -12,18 +12,21 @@
 	- Add Overblends when necessary (step -> classic -> step)
 	- Or maybe not... Let's keey the oveblend for the menus and stuff like that. Let's use a combat encounter animation like in smash bros :D
 - Half Zones
-- Animation attack
 - Attack which change your current piece
 - Attack which rotate your current piece
-- Attack that set your current piece transparent
+- Attack that set your next pieces transparent
 - Attack which create a small random offset on each of the playfield blocks
-- Attack whitch creates a hole in your lines (with a target an all)
 - Attack witch adds a block to your current piece
+- Attack which return the camera
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
+- Panels dark borders
+- More Powerful camera shakes on lines
+- Adjust the attack line speed ratio
+- Attack whitch creates a hole in your lines (with a target an all)
 - Tattoos and Items on popup loot
 	- add a background because tattoos are too dark
 
