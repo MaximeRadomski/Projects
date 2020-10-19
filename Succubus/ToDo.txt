@@ -23,17 +23,11 @@
 
 [IN PROGRESS]
 
-- Panels dark borders
-- More Powerful camera shakes on lines
-- Adjust the attack line speed ratio
-- Attack whitch creates a hole in your lines (with a target an all)
-- Tattoos and Items on popup loot
-	- add a background because tattoos are too dark
-
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ - Attack whitch creates a hole in your lines (with a target an all)
 + Pieces Shadow
 + Swipes Controls
 + Opponent Type Generation
