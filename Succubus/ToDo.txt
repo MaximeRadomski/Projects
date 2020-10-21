@@ -14,20 +14,21 @@
 - Half Zones
 - Attack which change your current piece
 - Attack which rotate your current piece
-- Attack that set your next pieces transparent
 - Attack which create a small random offset on each of the playfield blocks
-- Attack witch adds a block to your current piece
 - Attack which return the camera
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
+- Attack witch adds a block to your current piece
+
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
-+ - Attack whitch creates a hole in your lines (with a target an all)
++ Attack that set your next pieces transparent
++ Attack whitch creates a hole in your lines (with a target an all)
 + Pieces Shadow
 + Swipes Controls
 + Opponent Type Generation
