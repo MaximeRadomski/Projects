@@ -200,6 +200,7 @@ Realms:
 Success:
 - Beat the training dummies
 - Reach level 30 in free training
+- Clear more than 4 lines with a single piece lock
 
 Color Palette:
 - ZeroRanger -> Red Green Blue
@@ -215,6 +216,9 @@ Musics:
 Voices :
 - Inspired by what is done in celeste and undertale
 
+Progression over runs
+- After 4 characters unlocked : you can pick a skill for later run
+- AFter 8 you can take an object
 
 Map : Max range cells equals number of rooms per steps
 Each room shows item/tattoo rarity + enemies level
