@@ -12,23 +12,25 @@
 	- Add Overblends when necessary (step -> classic -> step)
 	- Or maybe not... Let's keey the oveblend for the menus and stuff like that. Let's use a combat encounter animation like in smash bros :D
 - Half Zones
-- Make characters idle (animation)
 - Create your opponent
 - Attack which change your current piece
 - Attack which rotate your current piece
 - Attack which create a small random offset on each of the playfield blocks
-- Attack which return the camera
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
-- Attack witch adds a block to your current piece
+- Make items and passives relative to last attacks (counters, things like that)
+- Attack that cancel last piece locked
+- Attack which return the camera
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Make characters idle (animation)
++ Attack witch adds a block to your current piece
 + Attack that set your next pieces transparent
 + Attack whitch creates a hole in your lines (with a target an all)
 + Pieces Shadow
