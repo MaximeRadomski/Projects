@@ -1,0 +1,30 @@
+- Devlo 02
+Hi,
+This is the second devlog for Infhidels, my puzzle roguelite. In this devlog, I will be talking about gameplay accessibility, procedural generation, loots and opponents attacks.
+That being said, let's get started
+
+- Accessibility
+I've been working recently on the accessibility of my game. Being a game playable on smartphone and PC, I wanted to be sure anyone could be able to play it the way he wants
+For the smartphone touch inputs, I made it possible to create your own pattern of inputs, in order to customize and recreate your personnal input preferences. I also added a swipe version, after seing on the Tetris Reddit, a significant amount of player defending it with good arguments, just like the fact that it allows you to play one handed. So, you are now able to play it like this on smartphone, with a way to switch between right and left handed gameplay. Of course a custom keybinding will be available on the PC version, but hasn't been programmed yet because I'm willing to focus on the smartphone version at first.
+
+- Procedural Generation
+I started the procedural generation of the levels. That way it works is as follows : each realm is divided by 3 levels, each level is divided by steps on a grid, each step contains a loot and a difficulty rating linked to the rarity of the loot.
+You have a limited number of steps that you can venture in per level, which can be increased or reduced by passives. When you've reached your limited number of steps, the level's landlord notices your presence and start a boss battle.
+Each time you clear a step, one of the previous visible steps gets the "landlord vision" status. Venturing into a step with this status will, once cleared, trigger the boss battle. Therefore, you have to plan your way through each level, prioritizing loots and taking care of not throwing yourself into a step with too much challenge.
+
+- Loots
+The loots are separate into three categories
+Items, activable once their cooldown reach zero. Cooldown that is reduced whenever your opponent attacks. You can only carry one item on your character.
+Then Tattoos, passive effects that alter your gameplay, and can be stacked for greater effects. Your body can receive a total of 12 tattoos without counting the stacks of each one. They are removed after each run, as long as your item.
+And finally Characters, which are unlockables playable characters, with their own stats and special attacks !
+
+- Opponent attacks
+I also added new opponents attacks
+The Drill attack, which creates holes in your current pieces in the playfield
+The Air Piece, which makes your next pieces totally transparent
+And the Forced Block, which adds a specific number or blocks to your next pieces
+
+- What else
+I created some items and tattoos already, and some game changing mechanics that are still being tested right now. I'm happy to share my progress, but I also want to keep some suspens over some of the features I'm currently adding.
+That being said, it covers pretty much what I have been doing recently.
+See ya next time
