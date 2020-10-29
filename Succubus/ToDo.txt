@@ -31,6 +31,7 @@
 
 [DONE]
 
++ Little Cooldown on resume
 + Keep Opponent Attack ID Between scenes
 + Keep camera effects between scenes
 + Attack that makes you drunk
