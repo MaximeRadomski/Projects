@@ -15,6 +15,7 @@
 - Create your opponent
 - Attack which change your current piece
 - Attack which rotate your current piece
+- Attacks that drasticly reduce the fps
 - Attack which create a small random offset on each of the playfield blocks
 
 ----------------------------------------------------------------------------------------------------------------
