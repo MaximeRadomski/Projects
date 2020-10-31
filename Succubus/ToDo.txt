@@ -16,6 +16,7 @@
 - Attack which change your current piece
 - Attack which rotate your current piece
 - Attacks that drasticly reduce the fps
+- Attacks that invoke a small cube in the playfield, that add a row on each locked piece that doesn't step over it
 - Attack which create a small random offset on each of the playfield blocks
 
 ----------------------------------------------------------------------------------------------------------------
