@@ -23,9 +23,7 @@
 
 [IN PROGRESS]
 
-- PC version
-	- Inputs
-	- Window handling
+- Understand shaders because PC Version doesn't work with the UX one
 - Make items and passives relative to last attacks (counters, things like that)
 - Attack that cancel last piece locked
 
@@ -33,6 +31,7 @@
 
 [DONE]
 
++ PC version
 + Little Cooldown on resume
 + Keep Opponent Attack ID Between scenes
 + Keep camera effects between scenes
