@@ -12,6 +12,8 @@
 	- Add Overblends when necessary (step -> classic -> step)
 	- Or maybe not... Let's keey the oveblend for the menus and stuff like that. Let's use a combat encounter animation like in smash bros :D
 - Half Zones
+- Sound Tattoo Inked
+- Sound Item Looted + animation
 - Create your opponent
 - Attack which change your current piece
 - Attack which rotate your current piece
