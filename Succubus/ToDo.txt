@@ -25,9 +25,7 @@
 
 [IN PROGRESS]
 
-- Understand shaders because PC Version doesn't work with the UX one
 - Make items and passives relative to last attacks (counters, things like that)
-- Attack that cancel last piece locked
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -39,7 +37,7 @@
 + Keep camera effects between scenes
 + Attack that makes you drunk
 + Attack which return the camera
--> [DEVLOG02]
+ -> [DEVLOG02]
 + Make characters idle (animation)
 + Attack witch adds a block to your current piece
 + Attack that set your next pieces transparent
