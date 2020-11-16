@@ -114,6 +114,7 @@ Game Lootable Mechanics (Tattoos):
 	- Each line cleared reduce your Special cooldown by +1
 	- Opponent attacks reduce your Item cooldown by +1 
 - Legendary: 
+	- You deal +50% damages, but your pieces are really heavy !
 	+ The LandLord starts to watch over the area one step later
 	- Your triple lines count for quadruple lines
 	- Your opponent cannot attack if your locked pieces reach a size of 16 blocks.
