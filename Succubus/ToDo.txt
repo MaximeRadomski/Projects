@@ -25,12 +25,14 @@
 
 [IN PROGRESS]
 
-- Propagation effect on piece lock
+- Keyboard in Menus !
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Better Quality of life (inputs while piece is locked or hardDropping or lineClearing)
++ Propagation effect on piece lock
 + Better Item and Special Effects
 + PC version
 + Little Cooldown on resume
