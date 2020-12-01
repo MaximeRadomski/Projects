@@ -25,13 +25,13 @@
 
 [IN PROGRESS]
 
-- Keyboard in Menus !
 - Fix Spread Effect (if possible)
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Keyboard in Menus !
 + Better Quality of life (inputs while piece is locked or hardDropping or lineClearing)
 + Propagation effect on piece lock
 + Better Item and Special Effects
