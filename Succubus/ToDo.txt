@@ -27,6 +27,8 @@
 
 - Fix Spread Effect (if possible)
 - Fix Inner Strength
+- Text on line clear Y axis
+- No duplicates in proposed screen dimensions
 
 ----------------------------------------------------------------------------------------------------------------
 
