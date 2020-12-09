@@ -137,6 +137,7 @@ Items (refill on each opponent attack):
 - Rare:
 	+ Smoke Bomb : You can exit a fight (very large cooldown (en fait 20) )
 	+ Camembert : Fill every single holes
+	- Cancel Last Piece
 	- Holy Bible : Your next 4 attacks lines inflict +20 damage.
 	- Sinful Bible : Your next weakness attack deals double damage.
 - Legendary:
