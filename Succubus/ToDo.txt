@@ -19,13 +19,12 @@
 - Attack which rotate your current piece
 - Attacks that drasticly reduce the fps
 - Attack which create a small random offset on each of the playfield blocks
-- Attack which slide your entire playfield a side 
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
-- Attacks that invoke a small cube in the playfield, that add a row on each locked piece that doesn't step over it
+- Attack which slide your entire playfield a side 
 - Fix Spread Effect (if possible)
 - Fix Inner Strength
 
@@ -33,6 +32,7 @@
 
 [DONE]
 
++ Drone attack
 + Text on line clear Y axis
 + Keyboard in Menus !
 + Better Quality of life (inputs while piece is locked or hardDropping or lineClearing)
