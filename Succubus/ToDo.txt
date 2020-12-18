@@ -24,7 +24,6 @@
 
 [IN PROGRESS]
 
-- Attack which slide your entire playfield a side 
 - Fix Spread Effect (if possible)
 - Fix Inner Strength
 
@@ -32,6 +31,7 @@
 
 [DONE]
 
++ Attack which slide your entire playfield a side 
 + Drone attack
 + Text on line clear Y axis
 + Keyboard in Menus !
