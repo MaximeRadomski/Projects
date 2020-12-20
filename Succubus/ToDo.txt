@@ -24,6 +24,7 @@
 
 [IN PROGRESS]
 
+- New KeyBinding
 - Fix Spread Effect (if possible)
 - Fix Inner Strength
 
@@ -34,7 +35,7 @@
 + Attack which slide your entire playfield a side 
 + Drone attack
 + Text on line clear Y axis
-+ Keyboard in Menus !
++ Keyboard in Menus
 + Better Quality of life (inputs while piece is locked or hardDropping or lineClearing)
 + Propagation effect on piece lock
 + Better Item and Special Effects
