@@ -24,7 +24,7 @@
 
 [IN PROGRESS]
 
-- New KeyBinding
+- Find a fucking better Idea for the lock effect...
 - Fix Spread Effect (if possible)
 - Fix Inner Strength
 
@@ -32,6 +32,7 @@
 
 [DONE]
 
++ New KeyBinding
 + Attack which slide your entire playfield a side 
 + Drone attack
 + Text on line clear Y axis
