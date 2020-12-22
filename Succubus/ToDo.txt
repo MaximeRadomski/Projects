@@ -24,7 +24,6 @@
 
 [IN PROGRESS]
 
-- Find a fucking better Idea for the lock effect...
 - Fix Spread Effect (if possible)
 - Fix Inner Strength
 
@@ -32,6 +31,8 @@
 
 [DONE]
 
++ Gate attack
++ Lock spread effect
 + New KeyBinding
 + Attack which slide your entire playfield a side 
 + Drone attack
