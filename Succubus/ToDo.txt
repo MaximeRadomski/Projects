@@ -24,6 +24,7 @@
 
 [IN PROGRESS]
 
+- Génération de personnages
 - Fix Spread Effect (if possible)
 - Fix Inner Strength
 
