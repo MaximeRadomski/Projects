@@ -24,6 +24,7 @@
 
 [IN PROGRESS]
 
+- PlayerHerlper.cs line 310 : find another way, bugs occur
 - Why does it keep reseting the steps scene ?
 - Drill shouldn't destroy black rows or else
 - Make Weakness or Immunity instances pop on trigger
