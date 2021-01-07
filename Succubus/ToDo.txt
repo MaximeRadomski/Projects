@@ -24,7 +24,7 @@
 
 [IN PROGRESS]
 
-- Drill shouldn't destroy black rows or else
+- Fix pause during training
 - Make Weakness or Immunity instances pop on trigger
 - Génération de personnages
 - Fix Inner Strength
