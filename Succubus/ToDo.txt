@@ -19,19 +19,20 @@
 - Attack which rotate your current piece
 - Attacks that drasticly reduce the fps
 - Attack which create a small random offset on each of the playfield blocks
+- Add Jonas into credits
+- Génération de personnages
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
-- Make Weakness or Immunity instances pop on trigger
-- Génération de personnages
-- Fix Inner Strength
+
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Quit Reload nerfed
 + Gate attack
 + Lock spread effect
 + New KeyBinding
