@@ -32,6 +32,7 @@
 
 [DONE]
 
++ Multiple Difficulties
 + Quit Reload nerfed
 + Gate attack
 + Lock spread effect
