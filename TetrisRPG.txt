@@ -99,7 +99,7 @@ Game Lootable Mechanics (Tattoos):
 	- Earth child : Change your nature to a Human one
 	- Heaven icon : Change your nature to a Holy one
 	- Your realm's passive effect gets +100% efficiency
-	- For the duration of your current fight, doing a critical hit augments your critical hit chances by +1 percent.
+	+ For the duration of your current fight, doing a critical hit augments your critical hit chances by +1 percent.
 	- The opponent's attack does not trigger while you clear lines
 	- Playing higher in the playfield makes opponent cooldown longer.
 	- You can now see your pieces' shadows throw vision blocks
@@ -230,3 +230,6 @@ Each time we clear a room, more and more rooms get landlord attention
 After the number of steps done, all rooms get the landlord attention
 Each time you move ! One more vision room
 A skin and a model for each possibility
+
+Tutorial:
+- InfidHells is a roguelite-puzzle game. Meaning that
