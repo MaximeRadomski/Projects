@@ -84,6 +84,7 @@ Game Lootable Mechanics (Tattoos):
 	- You get 10% more T
 	- You get 10% more I
 	- Longer enemy cooldown
+	- Each combo destroy a dark row
 	- Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
 	- You decrease vison blocks cooldow by +1 second each time you drop a piece
 	- You decrease light rows cooldow by +1 second each time you drop a piece
@@ -238,10 +239,10 @@ Tutorial:
 	- you starts from hell, and your goal is to go as far as possible.
 	- each realm is divided in 3 different levels.
 - realm
-	- each realm is divided in multiple steps.
+	- realms are divided into multiple steps.
 - step
-	- in there, you can loot items with active effects, tattoos with passive effects, and some other encounters
+	- in here, you can loot items with active effects, tattoos with passive effects, and some other encounters
 - fight
-	- move and lock your pieces, drain you opponent life by destroying some lines
+	- move and lock your pieces, drain your opponent life by destroying lines
 	- opponents can have weaknesses and immunities which you can check in the info menu
 - 

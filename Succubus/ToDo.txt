@@ -27,6 +27,7 @@
 [IN PROGRESS]
 
 - Attacks descriptions too long (vision blocks for example)
+- Fix Sin's Weight + Forced Block
 
 ----------------------------------------------------------------------------------------------------------------
 
