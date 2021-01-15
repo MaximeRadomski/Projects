@@ -26,27 +26,29 @@
 
 [IN PROGRESS]
 
-- Attacks descriptions too long (vision blocks for example)
-- Fix Sin's Weight + Forced Block
+- Nerf Impostor
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
+ -> [DEVLOG03]
++ New Enemies, passives and items
 + Multiple Difficulties
 + Quit Reload nerfed
-+ Gate attack
-+ Lock spread effect
-+ New KeyBinding
-+ Attack which slide your entire playfield a side 
-+ Drone attack
-+ Text on line clear Y axis
-+ Keyboard in Menus
-+ Better Quality of life (inputs while piece is locked or hardDropping or lineClearing)
-+ Propagation effect on piece lock
-+ Better Item and Special Effects
++ Attacks
+	+ Gate attack
+	+ Attack which slide your entire playfield a side 
+	+ Drone attack
++ Better Quality of life
+	+ Inputs while piece is locked or hardDropping or lineClearing
+	+ Text on line clear Y axis
+	+ Propagation effect on piece lock
+	+ Better Item and Special Effects
 + PC version
 	+ No duplicates in proposed screen dimensions
+	+ New KeyBinding
+	+ Keyboard in Menus
 + Little Cooldown on resume
 + Keep Opponent Attack ID Between scenes
 + Keep camera effects between scenes
