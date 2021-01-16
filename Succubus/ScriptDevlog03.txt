@@ -1,23 +1,23 @@
 - Devlo 03
 Hi,
-This is the second devlog for Infhidels, my puzzle roguelite. In this devlog, I will be talking about all the new stuff I've been added in the last couple of months, and I will even give you access to the first Alpha version of the game.
+This is the third devlog for Infhidels, my puzzle roguelite. In this devlog, I will be talking about all the new stuff I've been adding in the last couple of months, and I will even give you access to the first Alpha version of the game.
 
 - PC Version
-The first thing I've been doing is to work on the on a PC version of the game. I started this project as a small poop-time smartphone game, but as I got involved into it, I choose to make it something at least enough substantial in order to be played from time to time on your computer.
+The first thing I've been doing is to work on the PC version of the game. I started this project as a small poop-time smartphone game, but as I got involved into it, I choose to make it something at least enough substantial in order to be played from time to time on your computer.
 The touch-input system is removed on this version, replaced by a classic keybinding system, but I kept the touch-slide gameplay for people who would like to play it with a mouse. We never know ^^
 
 - GameFeel
-I added a lot of gamefeel to the game, like some effects on items and specials, or a spread effect with pieces lock themselves. My texts now are also better positioned and fade in a way they don't cover the gameplay too much.
+I added a lot of gamefeel to the game, like some effects on items and specials, or a spread effect when pieces are locked. My texts now are also better positioned and fade in a way they don't cover the gameplay too much.
 My main focus was to give feedbacks without losing too much visibility.
 Gameplay wise, you can now register Inputs while a piece is locking or locked, hardDropping or if lines are clearing. This queuing system is made to get the fastest gameplay possible.
 
 - Attacks
 I also added some new attacks, like the Drone attack which spawn a drone that you have to aim to counter its attacks.
 The Slide attack which slides your playfield on right or left.
-And the gate attack which create a gate you should avoid for a set number of pieces.
+And the gate attack which creates a gate you should avoid for a set number of pieces.
 
 - Content
-I added some opponents, Items and tattoos in order to have a first glance of gameplay loop for your runs.
+I added some new opponents, Items and tattoos in order to have a first glance of gameplay loop for your runs.
 That being said, I developed my game in a way it is easy and quick to add content like this.
 Now that I have the strong bases of this project, my next updates should more consequent in terms of content for players.
 
