@@ -232,17 +232,5 @@ After the number of steps done, all rooms get the landlord attention
 Each time you move ! One more vision room
 A skin and a model for each possibility
 
-Tutorial:
-- Core Concept
-	- infidHells is a roguelite-puzzle game. meaning that each run will be procedurally generated, and therefore different from the previous ones.
-- ascension
-	- you starts from hell, and your goal is to go as far as possible.
-	- each realm is divided in 3 different levels.
-- realm
-	- realms are divided into multiple steps.
-- step
-	- in here, you can loot items with active effects, tattoos with passive effects, and some other encounters
-- fight
-	- move and lock your pieces, drain your opponent life by destroying lines
-	- opponents can have weaknesses and immunities which you can check in the info menu
-- 
+Inspiration :
+https://tetris.wiki/Tetris_Battle_Gaiden
