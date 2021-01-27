@@ -26,18 +26,18 @@
 
 [IN PROGRESS]
 
-->Correct color loaded from character or opponent realm (health bars, panels, etc...)
-- Separate Input Settings and Gameplay Settings
-	- Customizable DAS & ARR, in other words, allow us to change how long it takes for the piece to start automatically moving when you hold down the movement buttons, and how quickly it moves.​
-	- Show Rotation center of pieces
 - Horizontal gameplay
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
+? Correct color loaded from character or opponent realm (health bars, panels, etc...)
++ Separate Input Settings and Gameplay Settings	
 + Gameplay
 	+ 180° rotation hidden input (hidden as not in default configuration)
+	+ Customizable DAS & ARR, in other words, allow us to change how long it takes for the piece to start automatically moving when you hold down the movement buttons, and how quickly it moves.​
+	+ Show Rotation center of pieces
 + Visual
 	+ New Palette
 + Bugfix:
