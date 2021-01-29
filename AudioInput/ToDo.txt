@@ -1,0 +1,2 @@
+Palette:
+	https://lospec.com/palette-list/oil-6

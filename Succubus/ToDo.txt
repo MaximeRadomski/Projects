@@ -26,6 +26,8 @@
 
 [IN PROGRESS]
 
+- High Scores limit
+- 321 overlapping special cooldown and Item icon in horizontal mode
 -> Horizontal gameplay
 
 ----------------------------------------------------------------------------------------------------------------
