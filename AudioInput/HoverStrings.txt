@@ -1,0 +1,26 @@
+Valid Hz Offset:
+the required offset around a frequency for it to be valid.
+note: lower frequencies tend to be less precise.
+
+Required Frames:
+how much frames with the same frequency should be needed to validate a frequency.
+few frames means a faster reactivity but a bad precision.
+more frames means the opposite.
+
+Peaks Priority:
+when for two inputs with the same frequency but different peaks, should the one with a higher or lower number of peaks should be prioritized.
+example: the current detected frequency is 71.37 hz with 4 peaks, but you have two inputs with 71.37 hz, one with 3 peaks, the other one with 5.
+
+Popup Number Question Mark:
+                    supported keys:
+          numbers: <material="3x5.1.2.3">'0' to '9'</material>
+          minus: <material="3x5.1.2.3">'-' or 'm'</material>
+          period: <material="3x5.1.2.3">'.' or 'p'</material>
+
+level dynamic range and gain:
+<material="3x5.1.2.3">level</material>
+adjust dynamic range and gain until the caught level is under the recording area when you don't play, and doesn't go over it when you play loud
+
+spectrum dynamic range and gain:
+<material="3x5.1.2.3">spectrum</material>
+adjust dynamic range and gain until there are no peaks when you don't play, and a consistent amount of peaks when you play your notes
