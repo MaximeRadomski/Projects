@@ -1,2 +1,7 @@
 Palette:
 	https://lospec.com/palette-list/oil-6
+
+	settings
+	resolution
+	reset default values
+	language
