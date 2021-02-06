@@ -1,7 +1,2 @@
-Palette:
-	https://lospec.com/palette-list/oil-6
-
-	settings
-	resolution
-	reset default values
-	language
+make inputs showing on panel00
+make input poping on panel01
