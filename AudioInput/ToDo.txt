@@ -1,1 +1,7 @@
-multiple presets
+Todo
+- multiple presets
+
+Done
+- keep OnOff even on restart
+- new tickrate selector
+- new hover description

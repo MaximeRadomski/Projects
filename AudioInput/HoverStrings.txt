@@ -2,6 +2,11 @@
 Level Spectrum
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+onOff:
+<material="3x5.1.2.3">on: </material>sends inputs to the foreground window.
+<material="3x5.1.2.3">off: </material>doesn't send inputs.
+music notes pop out of it when an input is sent.
+
 db:
 current level from 0 to 100
 
@@ -14,6 +19,12 @@ current frequency peaks
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Pannel00
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+id:
+your current device. it should be a microphone, or recognized as such.
+
+channel:
+some devices have more than one channel. bear in mind that this channel should be an input channels, not an output one.
 
 Valid Hz Offset:
 the required offset around a frequency for it to be valid.
@@ -48,6 +59,10 @@ spectrum dynamic range and gain:
 <material="3x5.1.2.3">spectrum</material>
 adjust dynamic range and gain until there are no peaks when you don't play, and a stable amount of peaks when you play your notes.
 
+input drawer:
+this zone shows you in real time which inputs are sent to the foreground window.
+note: the tool have to be switched on.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Pannel01
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -79,3 +94,15 @@ the raw input recorded by your keyboard.
 sendable input:
 the equivalent of the recorded input, sent to the foreground process.
 note: all recorded inputs don't have a sendable equivalent.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Pannel03
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+maximum tickrate:
+the refresh rate of the frequency analyser.
+is linked to your monitor framerate.
+default and recommended value is 60.
+
+reset default calibration:
+resets the default values of the calibration, level and spectrum sections in the device panel.
