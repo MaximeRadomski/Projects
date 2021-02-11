@@ -1,7 +1,14 @@
 Todo
+- look for itch.io payouts...
 - multiple presets
+- see if level high mid low affects precision
 
-Done
+
+1.0.8
+- multiple time holded inputs
+- mouse handling
+
+1.0.7
 - keep OnOff even on restart
 - new tickrate selector
 - new hover description

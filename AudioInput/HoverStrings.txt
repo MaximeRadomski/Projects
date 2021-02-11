@@ -44,6 +44,7 @@ the level that should be reached up for a frequency to be analysed, and that sho
 
 custom tap delay:
 the delay in seconds between each tap for inputs in "custom tap" type.
+default value is 0.50
 
 Popup Number Question Mark:
 supported keys:
@@ -77,16 +78,18 @@ header input:
 the input which is going to be sent to the foreground process.
 
 header type:
-- <material="3x5.1.2.3">Single Tap: </material>send the input once
-- <material="3x5.1.2.3">Custom Tap: </material>send the input '<material="3x5.1.2.3">param</material>' times
-- <material="3x5.1.2.3">Holded: </material>send the input and keep it holded until the level is reseted
-- <material="3x5.1.2.3">Time Holded: </material>send the input and keep it holded for '<material="3x5.1.2.3">param</material>' seconds
+- <material="3x5.1.2.3">Single Tap: </material>taps once
+- <material="3x5.1.2.3">Custom Tap: </material>taps '<material="3x5.1.2.3">param</material>' times
+- <material="3x5.1.2.3">Holded: </material>holds until level reset
+- <material="3x5.1.2.3">Time Holded: </material>holds for '<material="3x5.1.2.3">param</material>' seconds
+- <material="3x5.1.2.3">Mouse: </material>gives access to mouse inputs
 
 header param:
-- <material="3x5.1.2.3">One Tap: </material>/
-- <material="3x5.1.2.3">Custom Tap: </material>the number of times the input is sent
-- <material="3x5.1.2.3">Holded: </material>/
-- <material="3x5.1.2.3">Custom Holded: </material>the number of seconds the input is holded
+- <material="3x5.1.2.3">Custom Tap: </material>inputs count
+- <material="3x5.1.2.3">Custom Holded: </material>holding time
+- <material="3x5.1.2.3">up / down: </material>mouse sensitivity
+- <material="3x5.1.2.3">left / right: </material>mouse sensitivity
+- <material="3x5.1.2.3">x button: </material>mouse button id
 
 recorded input:
 the raw input recorded by your keyboard.
