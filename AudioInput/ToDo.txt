@@ -2,6 +2,11 @@ Todo
 - look for itch.io payouts...
 - multiple presets
 - see if level high mid low affects precision
+- popups with pages
+- one more tab for tips (?) and info with people icon
+
+1.1.1
+- holded input param for only when listened
 
 1.1.0
 - separated "holded reset" and "single tap reset"

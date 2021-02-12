@@ -88,6 +88,7 @@ header type:
 - <material="3x5.1.2.3">Mouse: </material>gives access to mouse inputs
 
 header param:
+- <material="3x5.1.2.3">Holded: </material>holded mode
 - <material="3x5.1.2.3">Custom Tap: </material>inputs count
 - <material="3x5.1.2.3">Custom Holded: </material>holding time
 - <material="3x5.1.2.3">up / down: </material>mouse sensitivity
