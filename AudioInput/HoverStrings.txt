@@ -39,8 +39,11 @@ Peaks Priority:
 when for two inputs with the same frequency but different peaks, should the one with a higher or lower number of peaks should be prioritized.
 example: the current detected frequency is 71.37 hz with 4 peaks, but you have two inputs with 71.37 hz, one with 3 peaks, the other one with 5.
 
-Level Reset:
-the level that should be reached up for a frequency to be analysed, and that should be reached down before being able to listen for a new input.
+Holded Reset:
+the fixed level at which holded inputs will stop being listened.
+can be lower than 0 (zero).
+note: any input starts to be listened at level 0 (zero).
+
 
 custom tap delay:
 the delay in seconds between each tap for inputs in "custom tap" type.
@@ -80,7 +83,7 @@ the input which is going to be sent to the foreground process.
 header type:
 - <material="3x5.1.2.3">Single Tap: </material>taps once
 - <material="3x5.1.2.3">Custom Tap: </material>taps '<material="3x5.1.2.3">param</material>' times
-- <material="3x5.1.2.3">Holded: </material>holds until level reset
+- <material="3x5.1.2.3">Holded: </material>holds until holded reset level
 - <material="3x5.1.2.3">Time Holded: </material>holds for '<material="3x5.1.2.3">param</material>' seconds
 - <material="3x5.1.2.3">Mouse: </material>gives access to mouse inputs
 

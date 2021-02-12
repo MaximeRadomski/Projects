@@ -3,8 +3,8 @@ Todo
 - multiple presets
 - see if level high mid low affects precision
 
-
-1.0.8
+1.1.0
+- separated "holded reset" and "single tap reset"
 - multiple time holded inputs
 - mouse handling
 
