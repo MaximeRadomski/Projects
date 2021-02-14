@@ -44,11 +44,6 @@ the fixed level at which holded inputs will stop being listened.
 can be lower than 0 (zero).
 note: any input starts to be listened at level 0 (zero).
 
-
-custom tap delay:
-the delay in seconds between each tap for inputs in "custom tap" type.
-default value is 0.50
-
 Popup Number Question Mark:
 supported keys:
      -  numbers: <material="3x5.1.2.3">'0' to '9'</material>
@@ -108,8 +103,16 @@ Pannel03
 
 maximum tickrate:
 the refresh rate of the frequency analyser.
-is linked to your monitor framerate.
+isn't linked to your monitor framerate.
 default and recommended value is 60.
+
+custom tap delay:
+the delay in seconds between each tap for inputs in "custom tap" type.
+default value is 0.50
+
+mouse sensitivity:
+number of pixels the cursor will move per frame.
+is not linked to your tickrate but to your monitor framerate.
 
 reset default calibration:
 resets the default values of the calibration, level and spectrum sections in the device panel.

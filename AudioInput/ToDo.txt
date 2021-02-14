@@ -1,6 +1,6 @@
 Todo
 - look for itch.io payouts...
-- multiple presets
+- multiple presets (import export seems to be the best thing to do)
 - see if level high mid low affects precision
 - popups with pages
 - one more tab for tips (?) and info with people icon
