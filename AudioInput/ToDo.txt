@@ -2,13 +2,24 @@ Todo
 - look for itch.io payouts...
 - multiple presets (import export seems to be the best thing to do)
 - see if level high mid low affects precision
+FROM LIVE
+- clarifying some of the english
 - one more tab for tips (?) and info with people icon
+	- tab about full workflow
+- direction single taps
 
-1.1.2
-- popups with pages
+--------------------------------------------------------------------------
+
+Currently working on:
+- rename holded to held
+
+--------------------------------------------------------------------------
 
 1.1.1
 - holded input param for only when listened
+- popups with pages
+- Rename required frames to ticks
+- shorten the too long texts in popups
 
 1.1.0
 - separated "holded reset" and "single tap reset"

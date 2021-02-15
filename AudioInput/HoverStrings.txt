@@ -30,10 +30,10 @@ Valid Hz Offset:
 the required offset around a frequency for it to be valid.
 note: lower frequencies tend to be less precise.
 
-Required Frames:
+Required ticks:
 how much frames with the same frequency should be needed to validate a frequency.
-few frames means a faster reactivity but a bad precision.
-more frames means the opposite.
+few ticks means a faster reactivity but a bad precision.
+more ticks means the opposite.
 
 Peaks Priority:
 when for two inputs with the same frequency but different peaks, should the one with a higher or lower number of peaks should be prioritized.
