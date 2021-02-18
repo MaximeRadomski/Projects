@@ -1,19 +1,16 @@
 Todo
 - look for itch.io payouts...
-FROM LIVE
-- clarifying some of the english
-- one more tab for tips (?) and info with people icon
-	- tab about full workflow
-
+- open exports folder
 
 --------------------------------------------------------------------------
 
 Currently working on:
-- multiple presets (import export seems to be the best thing to do)
+
 
 --------------------------------------------------------------------------
 
-1.1.1
+1.2.0
+- multiple presets (import export seems to be the best thing to do)
 - better peaks precision
 - direction single taps
 - held until level reset + held when listened
@@ -21,6 +18,8 @@ Currently working on:
 - Rename required frames to ticks
 - shorten the too long texts in choice popups
 - rename holded to held
+- infos about full workflow
+- clarifying some of the english
 
 1.1.0
 - separated "holded reset" and "single tap reset"
