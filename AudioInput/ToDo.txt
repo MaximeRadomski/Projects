@@ -1,6 +1,6 @@
 Todo
 - look for itch.io payouts...
-- open exports folder
+
 
 --------------------------------------------------------------------------
 
@@ -10,6 +10,7 @@ Currently working on:
 --------------------------------------------------------------------------
 
 1.2.0
+- open exports folder
 - multiple presets (import export seems to be the best thing to do)
 - better peaks precision
 - direction single taps
