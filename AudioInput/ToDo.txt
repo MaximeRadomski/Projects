@@ -1,11 +1,11 @@
 Todo
 - look for itch.io payouts...
-
+- rework the note system with a 5 peaks least system
 
 --------------------------------------------------------------------------
 
 Currently working on:
-
+- On Off Keybindingtn
 
 --------------------------------------------------------------------------
 
