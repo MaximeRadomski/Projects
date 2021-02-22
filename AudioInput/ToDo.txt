@@ -1,13 +1,18 @@
 Todo
 - look for itch.io payouts...
 - rework the note system with a 5 peaks least system
+- add a _threshold visualizer and allow to custom it (instead of the Hz Offset for example)
+- add a 5 top peaks vizualizer
 
 --------------------------------------------------------------------------
 
 Currently working on:
-- On Off Keybindingtn
+
 
 --------------------------------------------------------------------------
+
+1.2.1
+- On Off Shortcut
 
 1.2.0
 - open exports folder
