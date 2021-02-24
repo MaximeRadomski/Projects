@@ -6,12 +6,12 @@ Todo
 --------------------------------------------------------------------------
 
 Currently working on:
-- add a _threshold visualizer and allow to custom it (instead of the Hz Offset for example)
-- add a 5 top peaks vizualizer
 
 --------------------------------------------------------------------------
 
 1.2.1
+- threshold visualizer and allow to custom it (instead of the Hz Offset for example)
+- 5 top peaks vizualizer
 - On Off Shortcut
 - Popup exit on outbound click
 
