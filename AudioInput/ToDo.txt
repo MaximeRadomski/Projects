@@ -1,13 +1,19 @@
 Todo
 - look for itch.io payouts...
-- rework the note system with a 5 peaks least system
-- small "click me" hover
 
 --------------------------------------------------------------------------
 
 Currently working on:
+- hover clipping
 
 --------------------------------------------------------------------------
+
+1.3.0
+- rework of the whole frequencies system and peaks priority
+- new held parameter
+- small "click me" hover
+- possibility to disable hover help
+- some graphic tweeks
 
 1.2.1
 - threshold visualizer and allow to custom it (instead of the Hz Offset for example)
