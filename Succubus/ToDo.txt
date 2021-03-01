@@ -26,9 +26,9 @@
 
 [IN PROGRESS]
 
-- High Scores limit
-- 321 overlapping special cooldown and Item icon in horizontal mode
--> Horizontal gameplay
+- High Scores limit (list down)
+- High Scores button in the bottom right corner of training select menu
+-> Framerate Class as a parent class of the classes needing it
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -40,9 +40,11 @@
 	+ 180° rotation hidden input (hidden as not in default configuration)
 	+ Customizable DAS & ARR, in other words, allow us to change how long it takes for the piece to start automatically moving when you hold down the movement buttons, and how quickly it moves.​
 	+ Show Rotation center of pieces
+	+ Horizontal gameplay
 + Visual
 	+ New Palette
 + Bugfix:
+	- 321 overlapping special cooldown and Item icon in horizontal mode
 	? Take into account the music volume issue. Apparently, even at the lowest volume, is still pretty loud.
 	? Weakness Immunity still buggy
 	? Can't go over 60 frames per seconds or the DAS is unplayable
