@@ -26,9 +26,6 @@
 
 [IN PROGRESS]
 
-- High Scores limit (list down)
-- High Scores button in the bottom right corner of training select menu
--> Framerate Class as a parent class of the classes needing it
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -44,10 +41,12 @@
 + Visual
 	+ New Palette
 + Bugfix:
-	- 321 overlapping special cooldown and Item icon in horizontal mode
+	+ High Scores limit visuals, highest score
+	+ Fixed the Input queue system
+	+ 321 overlapping special cooldown and Item icon in horizontal mode
 	? Take into account the music volume issue. Apparently, even at the lowest volume, is still pretty loud.
 	? Weakness Immunity still buggy
-	? Can't go over 60 frames per seconds or the DAS is unplayable
+	+ +60Hz Monitors fixes
 	+ When clicking an item, it clicks the steps hitboxes under it
 + Balancing
 	+ Impostor nerfed
