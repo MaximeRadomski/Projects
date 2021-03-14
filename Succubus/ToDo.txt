@@ -28,7 +28,7 @@
 - Chat
 	- RIP!!! Rip? AND TEAR!!! You done?
 	+ !!! ??? : ; même traitement que '.'
-	- Balises en début de phrase pour des emojis noirs sur les pictures
+	+ Emojies
 	+ [Name]|Any pour les defaults
 - Precision Horizontal que pour les inputs
 - Intros at the beggining of a fight
