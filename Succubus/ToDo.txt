@@ -25,11 +25,6 @@
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
-- Chat
-	- RIP!!! Rip? AND TEAR!!! You done?
-	+ !!! ??? : ; même traitement que '.'
-	+ Emojies
-	+ [Name]|Any pour les defaults
 - Precision Horizontal que pour les inputs
 - Intros at the beggining of a fight
 - Proper Game Over screen
@@ -39,6 +34,7 @@
 
 [DONE]
 
++ Chat
 ? Correct color loaded from character or opponent realm (health bars, panels, etc...)
 + Separate Input Settings and Gameplay Settings	
 + Gameplay
