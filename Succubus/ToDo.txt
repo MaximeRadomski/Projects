@@ -25,8 +25,6 @@
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
-- Precision Horizontal que pour les inputs
-- Intros at the beggining of a fight
 - Proper Game Over screen
 - Unlock new Tattoos and Items after each realm
 
@@ -34,6 +32,7 @@
 
 [DONE]
 
+- Intros at the beggining of a fight
 + Chat
 ? Correct color loaded from character or opponent realm (health bars, panels, etc...)
 + Separate Input Settings and Gameplay Settings	
