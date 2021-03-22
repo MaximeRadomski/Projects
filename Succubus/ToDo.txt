@@ -26,6 +26,7 @@
 
 [IN PROGRESS]
 - Proper Game Over screen
+- If DialogBox, and then later a YesNonPopup, inputcontroler can't find available buttons
 - Unlock new Tattoos and Items after each realm
 
 ----------------------------------------------------------------------------------------------------------------
