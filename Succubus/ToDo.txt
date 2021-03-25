@@ -25,15 +25,15 @@
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
-- Proper Game Over screen
-- If DialogBox, and then later a YesNonPopup, inputcontroler can't find available buttons
+
 - Unlock new Tattoos and Items after each realm
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
-- Intros at the beggining of a fight
++ Proper Game Over screen
++ Intros at the beggining of a fight
 + Chat
 ? Correct color loaded from character or opponent realm (health bars, panels, etc...)
 + Separate Input Settings and Gameplay Settings	
