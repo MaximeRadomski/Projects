@@ -26,6 +26,7 @@
 
 [IN PROGRESS]
 
+- Proper Scanlines control
 - FInd another more interesting ult for the slave demaon
 - Unlock new Tattoos and Items after each realm
 
