@@ -26,14 +26,13 @@
 
 [IN PROGRESS]
 
-- Proper Scanlines control
-- FInd another more interesting ult for the slave demaon
 - Unlock new Tattoos and Items after each realm
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Proper Scanlines control
 + Proper Game Over screen
 + Intros at the beggining of a fight
 + Chat
