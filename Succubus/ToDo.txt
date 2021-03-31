@@ -21,12 +21,12 @@
 - Attack which create a small random offset on each of the playfield blocks
 - Add Jonas into credits
 - Génération de personnages
+- Unlock new Tattoos and Items after each realm
 
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
 
-- Unlock new Tattoos and Items after each realm
 
 ----------------------------------------------------------------------------------------------------------------
 
