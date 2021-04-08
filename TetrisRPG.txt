@@ -55,13 +55,6 @@ Enemy levels:
 - Elite: Way more HP, Take damage by clearing lines, but even more by weakness
 - Champion: More HP, only take damages by weakness
 
-Enemy Strength:
-- Will attack if no lines after a delay
-- Will create grey lines with 1 or more holes
-- Will create 1 or more grey lines
-- Will create black plain lines. You must clear more than one line to destroy one black line
-- Will create vision alteration
-
 Game Purchasable Mechanics: (not what I want anymore, but can be enemy strength)
 - Start with only 10 playfield lines (instead of 20)
 - No DAS at first (https://tetris.wiki/DAS)
@@ -78,11 +71,11 @@ Game Lootable Mechanics (Tattoos):
 	+ You deal +10% more damages
 	- Longer ARE (appearance delay)
 	- Longer Lock Delay
-	- Slower speed
+	+ Lower gravity
 	- Reduce grey lines number of holes
 	+ Knuckle : Your single lines deals +2 damages
-	- You get 10% more T
-	- You get 10% more I
+	+ You get 10% more T
+	+ You get 10% more I
 	- Longer enemy cooldown
 	- Each combo destroy a dark row
 	- Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
@@ -92,7 +85,7 @@ Game Lootable Mechanics (Tattoos):
 - Rare: 
 	+ Killing an opponent reduce your item cooldown by 2
 	+ Fox : Your Item Max cooldown is reduced by 2
-	- Hedgehog : Your Special max cooldown is reduced by 2
+	- Hedgehog : Your Special total cooldown is reduced by 2
 	- You get a chance to encounter a friendly character
 	- You gain one combo bonus from a x3 combo
 	- Enemies get a longer delay between each attack
@@ -113,7 +106,7 @@ Game Lootable Mechanics (Tattoos):
 	+ You can now double jump
 	- Steps aren't blurred anymore on the map
 	- Each line cleared reduce your Special cooldown by +1
-	- Opponent attacks reduce your Item cooldown by +1 
+	- Opponent attacks reduce your Item cooldown by +1
 - Legendary: 
 	- Your perfect clears kill the opponent
 	- You deal +50% damages, but your pieces are really heavy !
