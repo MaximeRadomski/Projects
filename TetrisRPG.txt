@@ -77,12 +77,12 @@ Game Lootable Mechanics (Tattoos):
 	+ You get 10% more T
 	+ You get 10% more I
 	- Longer enemy cooldown
-	- Each combo destroy a dark row
-	- Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
+	+ Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
 	- You decrease vison blocks cooldow by +1 second each time you drop a piece
 	- You decrease light rows cooldow by +1 second each time you drop a piece
-	- Clear +1 line from the top after each opponent death
+	+ Clears 1 line from the bottom after each opponent death
 - Rare: 
+	+ Each combo destroy a dark row
 	+ Killing an opponent reduce your item cooldown by 2
 	+ Fox : Your Item Max cooldown is reduced by 2
 	- Hedgehog : Your Special total cooldown is reduced by 2
@@ -95,8 +95,8 @@ Game Lootable Mechanics (Tattoos):
 	- Your realm's passive effect gets +100% efficiency
 	+ For the duration of your current fight, doing a critical hit augments your critical hit chances by +1 percent.
 	- The opponent's attack does not trigger while you clear lines
-	- Playing higher in the playfield makes opponent cooldown longer.
-	- You can now see your pieces' shadows throw vision blocks
+	+ Playing higher in the playfield makes opponent cooldown longer.
+	+ You can now see your pieces' shadows throw vision blocks
 	- Your opponent hurt itself everytime he attacks by +10% of your attack.
 	- Your opponent base cooldown increase by +1 seconds on each attack
 	- Element Fire : Your triple lines burn your opponent, dealing +3 damages for 3 seconds. 
@@ -133,6 +133,7 @@ Items (refill on each opponent attack):
 	+ Smoke Bomb : You can exit a fight (very large cooldown (en fait 20) )
 	+ Camembert : Fill every single holes
 	- Cancel Last Piece
+	- Remove all rows which do not share the emptiest column
 	- Holy Bible : Your next 4 attacks lines inflict +20 damage.
 	- Sinful Bible : Your next weakness attack deals double damage.
 - Legendary:

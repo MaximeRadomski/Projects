@@ -24,11 +24,11 @@
 + You get 10% more T
 + You get 10% more I
 + Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
-- You can now see your pieces' shadows throw vision blocks
-- Each combo destroy a dark row
-- Clear +1 line from the bottom after each opponent death
-- Hedgehog : Your Special total cooldown is reduced by 2
-- Playing higher in the playfield makes opponent cooldown longer.
++ You can now see your pieces' shadows through vision blocks
++ Each combo destroy a dark row
++ Clear +1 line from the bottom after each opponent death
++ Hedgehog : Your Special total cooldown is reduced by 2
++ Playing higher in the playfield makes opponent cooldown longer.
 - You decrease vison blocks cooldow by +1 second each time you drop a piece
 - Your opponent hurt itself everytime he attacks by +10% of your attack.
 - Your perfect clears kill the opponent
