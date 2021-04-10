@@ -29,8 +29,8 @@
 + Clear +1 line from the bottom after each opponent death
 + Hedgehog : Your Special total cooldown is reduced by 2
 + Playing higher in the playfield makes opponent cooldown longer.
-- You decrease vison blocks cooldow by +1 second each time you drop a piece
-- Your opponent hurt itself everytime he attacks by +10% of your attack.
++ You decrease vison blocks cooldow by +1 second each time you drop a piece
++ Your opponent hurt itself everytime he attacks by +10% of your attack.
 - Your perfect clears kill the opponent
 - You deal +50% damages, but your pieces are really heavy !
 - Opponent attacks reduce your Item cooldown by +1
