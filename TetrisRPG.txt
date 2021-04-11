@@ -84,6 +84,7 @@ Game Lootable Mechanics (Tattoos):
 	+ Your opponent hurt itself everytime he attacks by +10% of your attack.
 - Rare: 
 	+ Each combo destroy a dark row
+	- You can use your special from the start
 	+ Killing an opponent reduce your item cooldown by 2
 	+ Fox : Your Item Max cooldown is reduced by 2
 	- Hedgehog : Your Special total cooldown is reduced by 2
@@ -109,7 +110,7 @@ Game Lootable Mechanics (Tattoos):
 	- Opponent attacks reduce your Item cooldown by +1
 - Legendary: 
 	+ Your perfect clears kill the opponent
-	- You deal +50% damages, but your pieces are really heavy !
+	+ You deal +50% damages, but your pieces are really heavy !
 	+ The LandLord starts to watch over the area one step later
 	- Your triple lines count for quadruple lines
 	- Your opponent cannot attack if your locked pieces reach a size of 16 blocks.

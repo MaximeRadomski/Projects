@@ -31,7 +31,7 @@
 + Playing higher in the playfield makes opponent cooldown longer.
 + You decrease vison blocks cooldow by +1 second each time you drop a piece
 + Your opponent hurt itself everytime he attacks by +10% of your attack.
-- Your perfect clears kill the opponent
++ Your perfect clears kill the opponent
 - You deal +50% damages, but your pieces are really heavy !
 - Opponent attacks reduce your Item cooldown by +1
 - You can't get more than one grey line at a time.
@@ -39,6 +39,8 @@
 - Hell suppo : Change your nature to a Sinful one
 - Earth child : Change your nature to a Human one
 - Heaven icon : Change your nature to a Holy one
+
+- High score : remember character
 
 ----------------------------------------------------------------------------------------------------------------
 
