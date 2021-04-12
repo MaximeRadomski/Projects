@@ -32,9 +32,9 @@
 + You decrease vison blocks cooldow by +1 second each time you drop a piece
 + Your opponent hurt itself everytime he attacks by +10% of your attack.
 + Your perfect clears kill the opponent
-- You deal +50% damages, but your pieces are really heavy !
-- Opponent attacks reduce your Item cooldown by +1
-- You can't get more than one grey line at a time.
++ You deal +50% damages, but your pieces are really heavy !
++ Opponent attacks reduce your Item cooldown by +1
++ You can't get more than one grey line at a time.
 - You can resurrect once, but this tattoo takes all the remaining place on your body.
 - Hell suppo : Change your nature to a Sinful one
 - Earth child : Change your nature to a Human one

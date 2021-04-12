@@ -82,6 +82,7 @@ Game Lootable Mechanics (Tattoos):
 	- You decrease light rows cooldow by +1 second each time you drop a piece
 	+ Clears 1 line from the bottom after each opponent death
 	+ Your opponent hurt itself everytime he attacks by +10% of your attack.
+	+ Opponent attacks reduce your Item cooldown by +1
 - Rare: 
 	+ Each combo destroy a dark row
 	- You can use your special from the start
@@ -107,7 +108,10 @@ Game Lootable Mechanics (Tattoos):
 	+ You can now double jump
 	- Steps aren't blurred anymore on the map
 	- Each line cleared reduce your Special cooldown by +1
-	- Opponent attacks reduce your Item cooldown by +1
+	- Reveals all the map
+	- drone shield which protect from 1 attack
+	- drone which fill empty blocks
+	- 
 - Legendary: 
 	+ Your perfect clears kill the opponent
 	+ You deal +50% damages, but your pieces are really heavy !
@@ -115,7 +119,7 @@ Game Lootable Mechanics (Tattoos):
 	- Your triple lines count for quadruple lines
 	- Your opponent cannot attack if your locked pieces reach a size of 16 blocks.
 	- Clear the play field on each opponent death.
-	- You can't get more than one grey line at a time.
+	+ You can't get more than one grey line at a time.
 	- You can resurrect once, but this tattoo takes all the remaining place on your body.
 	- You can resurrect once, but it brings you at the beginning of your current realm
 	- You can resurrect once, but you get 10 light rows with a 444 cooldown for the rest of the fight
