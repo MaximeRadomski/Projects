@@ -120,7 +120,7 @@ Game Lootable Mechanics (Tattoos):
 	- Your opponent cannot attack if your locked pieces reach a size of 16 blocks.
 	- Clear the play field on each opponent death.
 	+ You can't get more than one grey line at a time.
-	- You can resurrect once, but this tattoo takes all the remaining place on your body.
+	+ You can resurrect once, but this tattoo takes all the remaining place on your body.
 	- You can resurrect once, but it brings you at the beginning of your current realm
 	- You can resurrect once, but you get 10 light rows with a 444 cooldown for the rest of the fight
 	- You get +1 step in each realm (name idea: persistent), but 
