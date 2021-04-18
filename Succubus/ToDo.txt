@@ -24,6 +24,7 @@
 - Simp Worker : drone which fill empty blocks
 - Element Fire : Your triple lines burn your opponent, dealing 10% of your damages for 3 seconds. 
 - Element Ice : Your triple lines wet your opponent, making him receving +50% damages for 4 seconds.
+- Stuff
 - Element Earth : Your triple lines smash your opponent, stunning him for +4 seconds.
 - Element Wind : Your triple lines 
 
