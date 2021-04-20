@@ -20,12 +20,14 @@
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
-- +10% chance dodging
-+ Simp Shield : drone shield which protect from 1 attack
 - Element Fire : Your triple lines burn your opponent, dealing 10% of your damages for 3 seconds. 
 - Element Ice : Your triple lines wet your opponent, making him receving +40% damages for 4 seconds.
 - Element Earth : Your triple lines smash your opponent, stunning him for +2 seconds.
 - Element Wind : Your triple lines clear one line from the bottom
+- You deal +3 damages
+- If you face more than 4 enemies, you make make x4 more damages to the first one
+- You deal +4 damages, but the gravity also gain +4 levels
+- You deal +1 damage each time you land a 4 lines for the duration of the fight.
 
 - High score : remember character
 
