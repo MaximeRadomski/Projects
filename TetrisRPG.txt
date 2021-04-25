@@ -115,6 +115,7 @@ Game Lootable Mechanics (Tattoos):
 	- Simp Shield : drone shield which protect from 1 attack
 	- Simp Worker : drone which fill empty blocks
 - Legendary: 
+	- Baroud Honneur: U^pon Dying, give your opponent one last blow for 100% of your attack. If it kills him, you are back in the game
 	+ Your perfect clears kill the opponent
 	+ You deal +50% damages, but your pieces are really heavy !
 	+ The LandLord starts to watch over the area one step later

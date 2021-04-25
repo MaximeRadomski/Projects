@@ -20,15 +20,11 @@
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
-- You deal +3 damages
-- If you face more than 4 enemies, you make make x4 more damages to the first one
-- You deal +4 damages, but the gravity also gain +4 levels
-- You deal +1 damage each time you land a 4 lines for the duration of the fight.
-
 - High score : remember character
 
 Hotfix :
-- already stun ?
+- Vibration Off doesn't work
+- 
 
 ----------------------------------------------------------------------------------------------------------------
 
