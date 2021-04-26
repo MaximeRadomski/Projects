@@ -23,12 +23,10 @@
 - High score : remember character
 - Realm weakness
 
+Items:
 - Clear 2 random columns of the playfield
-- New Palette everywhere + Colors in constants
 
 Hotfix :
-- Vibration Off doesn't work
-- 
 
 ----------------------------------------------------------------------------------------------------------------
 
