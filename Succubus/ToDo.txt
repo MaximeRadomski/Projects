@@ -20,11 +20,15 @@
 ----------------------------------------------------------------------------------------------------------------
 
 [IN PROGRESS]
-- High score : remember character
-- Realm weakness
 
 Items:
 - Clear 2 random columns of the playfield
+- For the duration of the fight, eighter your attacks and your opponent's ones only have a 50% chance of actually happening
+- Randomize your opponent attack type to another one
+- Removes 50% of your opponent remaining health, but also reduce its max cooldown.
+- Gives you +33% dodging chance for the rest of the fight
+- Makes you block one attack every three attacks
+- The world : stops the time for 9 seconds
 
 Hotfix :
 
