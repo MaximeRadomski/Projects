@@ -27,8 +27,17 @@ Items:
 - Randomize your opponent attack type to another one
 - Removes 50% of your opponent remaining health, but also reduce its max cooldown.
 - Gives you +33% dodging chance for the rest of the fight
-- Makes you block one attack every three attacks
-- The world : stops the time for 9 seconds
+- Makes you block one attack every three attacks for the duration of the fight
+- Removes 1 of 2 lines on your playfield
+- Deals 4 times your damages but create a hole in your playfield
+- The Devil: Removes all blocks which aren't from your realm
+- The World: stops the time for 9 seconds
+- The Hierophant: Lock time longer for duration of fight
+- Eliacube: Reset your opponent cooldown
+- Either deals 4 times your damages, or attacks you with 4 garbages lines
+- Door of Truth: Breaks on use, but Ressussits you if you die during this fight.
+- Sun Juice: Removes 3 lines from the top. 5 uses, no cooldown. Replenish when you ascend. 
+- Breaks on use: 90% chance of killing your opponent, 10% chance of killing you
 
 Hotfix :
 
