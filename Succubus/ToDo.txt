@@ -37,7 +37,8 @@ Items:
 - Either deals 4 times your damages, or attacks you with 4 garbages lines
 - Door of Truth: Breaks on use, but Ressussits you if you die during this fight.
 - Sun Juice: Removes 3 lines from the top. 5 uses, no cooldown. Replenish when you ascend. 
-- Breaks on use: 90% chance of killing your opponent, 10% chance of killing you
+- Breaks on use: 0% chance of killing your opponent, 100% chance of killing you. Gain 10% in your favor each time you ascend.
+- Dark Milk: change your opponent realm to your weaker one
 
 Hotfix :
 
