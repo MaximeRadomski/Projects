@@ -39,6 +39,8 @@ Items:
 - Sun Juice: Removes 3 lines from the top. 5 uses, no cooldown. Replenish when you ascend. 
 - Breaks on use: 0% chance of killing your opponent, 100% chance of killing you. Gain 10% in your favor each time you ascend.
 - Dark Milk: change your opponent realm to your weaker one
+- Atlas effigy: +50% damages for the end of the fight, but your playfield is reduced in height by 5 blocks
+- 
 
 Hotfix :
 
