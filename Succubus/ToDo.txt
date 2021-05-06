@@ -22,13 +22,6 @@
 [IN PROGRESS]
 
 Items:
-- Clear 2 random columns of the playfield
-- For the duration of the fight, eighter your attacks and your opponent's ones only have a 50% chance of actually happening
-- Randomize your opponent attack type to another one
-- Removes 50% of your opponent remaining health, but also reduce its max cooldown.
-- Gives you +33% dodging chance for the rest of the fight
-- Makes you block one attack every three attacks for the duration of the fight
-- Removes 1 of 2 lines on your playfield
 - Deals 4 times your damages but create a hole in your playfield
 - The Devil: Removes all blocks which aren't from your realm
 - The World: stops the time for 9 seconds
@@ -44,6 +37,8 @@ Items:
 - Moon Gun: Cleans your playfield but shrinks it to a height of 6 lines for the next 20 pieces. Your opponent cannot attack during this phase.
 
 Hotfix :
+- No attackline on burn
+- Reset attack bump on pause
 
 ----------------------------------------------------------------------------------------------------------------
 

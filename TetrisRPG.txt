@@ -114,6 +114,7 @@ Game Lootable Mechanics (Tattoos):
 	- Reveals all the map
 	- Simp Shield : drone shield which protect from 1 attack
 	- Simp Worker : drone which fill empty blocks
+	- Your blocks cannot be destroyed by ennemi attacks anymore
 - Legendary: 
 	- Baroud Honneur: U^pon Dying, give your opponent one last blow for 100% of your attack. If it kills him, you are back in the game
 	+ Your perfect clears kill the opponent
@@ -137,6 +138,7 @@ Items (refill on each opponent attack):
 	+ Wooden Cross : Reset the speed of the room.
 	- Pentagram : Negate your nature weakness in the current room
 	+ Voodoo Doll : Bypass opponent cooldown and activate its attack.
+	- Clear 2 random columns of the playfield
 - Rare:
 	+ Smoke Bomb : You can exit a fight (very large cooldown (en fait 20) )
 	+ Camembert : Fill every single holes
