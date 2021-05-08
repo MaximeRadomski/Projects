@@ -22,12 +22,7 @@
 [IN PROGRESS]
 
 Items:
-- Deals 4 times your damages but create a hole in your playfield
-- The Devil: Removes all blocks which aren't from your realm
-- The World: stops the time for 9 seconds
-- The Hierophant: Lock time longer for duration of fight
-- Eliacube: Reset your opponent cooldown
-- Either deals 4 times your damages, or attacks you with 4 garbages lines
+- Mask of Duality: Either deals 4 times your damages, or attacks you with 4 garbages lines
 - Door of Truth: Breaks on use, but Ressussits you if you die during this fight.
 - Sun Juice: Removes 3 lines from the top. 5 uses, no cooldown. Replenish when you ascend. 
 - Breaks on use: 0% chance of killing your opponent, 100% chance of killing you. Gain 10% in your favor each time you ascend.
