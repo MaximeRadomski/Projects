@@ -21,6 +21,19 @@
 
 [IN PROGRESS]
 
+Tree:
+- Attack Points
+- Opponent Cooldown
+- Super Cooldown
+- Item Cooldown
+- 50% Chance Revice
+- Longer lock delay
+- More damages boss
+- More zone steps possible
+- +1 Life
+
+Music for bosses
+
 Items:
 - Mask of Duality: Either deals 4 times your damages, or attacks you with 4 garbages lines
 - Door of Truth: Breaks on use, but Ressussits you if you die during this fight.
