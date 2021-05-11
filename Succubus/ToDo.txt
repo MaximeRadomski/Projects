@@ -32,10 +32,10 @@ Tree:
 - More zone steps possible
 - +1 Life
 
-Music for bosses
+- Music for bosses
+- Discord for the game
 
 Items:
-- Breaks on use: 0% chance of killing your opponent, 100% chance of killing you. Gain 20% in your favor each time you ascend.
 - Dark Milk: change your opponent realm to your weaker one
 - Atlas effigy: +50% damages for the end of the fight, but your playfield is reduced in height by 5 blocks
 - Bloodlust Blade: Deals 4 times your damages but reduce your playfield height by 2 lines
