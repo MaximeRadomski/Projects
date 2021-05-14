@@ -2,7 +2,6 @@
 [TODO]
 
 - https://www.reddit.com/r/oddlyspecific/
-- Music Loop (make it better somehow)
 - All Realms Panels
 - Add a lot of effects
 - Half Zones
@@ -21,34 +20,15 @@
 
 [IN PROGRESS]
 
-Tree:
-- Attack Points
-- Opponent Cooldown
-- Crit Chance
-- Item Cooldown
-- 50% Chance Revice
-- Longer lock delay
-- More damages boss
-- More zone steps possible
-- +1 Life
-
 - Music for bosses
 - Discord for the game
-
-Items:
-- Dark Milk: change your opponent realm to your weaker one
-- Atlas effigy: +50% damages for the end of the fight, but your playfield is reduced in height by 5 blocks
-- Bloodlust Blade: Deals 4 times your damages but reduce your playfield height by 2 lines
-- Moon Gun: Cleans your playfield but shrinks it to a height of 6 lines for the next 20 pieces. Your opponent cannot attack during this phase.
-
-Hotfix :
-- No attackline on burn
-- Reset attack bump on pause
+- LOT-OF-EFFECTS
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
++ Realm Tree
 + Proper Scanlines control
 + Proper Game Over screen
 + Intros at the beggining of a fight
