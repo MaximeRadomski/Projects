@@ -5,7 +5,6 @@
 - All Realms Panels
 - Add a lot of effects
 - Half Zones
-- Sound Tattoo Inked
 - Sound Item Looted + animation
 - Create your opponent
 - Attack which change your current piece
@@ -23,6 +22,7 @@
 - Music for bosses
 - Discord for the game
 - LOT-OF-EFFECTS
+- Better written lore
 
 ----------------------------------------------------------------------------------------------------------------
 
