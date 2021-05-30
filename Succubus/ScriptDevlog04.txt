@@ -1,12 +1,13 @@
 - Devlog 04
-Hi, before really starting this video, I have to thank all of you who gave me feedbacks on the alpha version of the game after the last devlog. It is a wonderful feeling to see people giving interest onto my work.
-Now... Let's get started with the devlog after many months of absence...
+Hi, before really starting this video, I have to thank all of you who gave me feedbacks on the alpha version of the game after the last devlog. It is a wonderful feeling to see people giving a real interest onto my work.
+Now... Let's get started with the devlog after, and I'm sorry, many months of absence...
+I had a lot to do after your feedbacks, and I started other projects in the meantime, explaining the delay 
 
 - Realm Tree
 You can now get some resources through your runs, allowing you to increase the strength of your character from runs to runs.
 
 - Lore
-Some lore has been added. There is now an intro setting the pace, and some dialogue between entities.
+Some lore has been added. There is now an intro setting the pace, and some dialogues between entities.
 
 - New effects
 I tried to give some life to the game and therefore I've been adding new effects.
@@ -19,16 +20,17 @@ There is now a new scene containing a recap of how your run went.
 Each scene now has its own music (boss fight, steps scene, game over, dialogs, etc...)
 
 - New opponents
-I added new opponents, giving the game a total of 30 opponents so far + bosses.
+I added new opponents at last, giving the game a total of 30 opponents so far + bosses.
 Some are common, other are pretty rare, you will have to catch them all.
 
 - New Items and Tattoos
 I added a lot of new content here. There is now a total of 30 items and 40 tattoos.
 They are the main gameplay changes of the game, so I wanted to give a diversified experience.
-But more are coming.
+But more are coming later.
 
 - Settings
-Some new features are available in the settings. You can now alter your DAS & ARR, in other words, allowing you to change how long it takes for the piece to start automatically moving when you hold down the movement buttons, and how quickly it moves.​ You can bind a 180° rotation button, customize your scanlines, display the piece rotation point, and more. For Android players, the horizontal gameplay also came back from the dead !
+Some new features are available in the settings. You can now change how long it takes for the piece to start automatically moving when you hold down the movement buttons, and how quickly it moves.​
+You can now bind a 180° rotation button, customize your scanlines, display the piece rotation point, and more. For Android players, the horizontal gameplay also came back from the dead !
 
 - Bug fixing and improvements
 And finaly, lot of stuff has been fixed or improved.
