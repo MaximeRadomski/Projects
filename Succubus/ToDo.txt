@@ -19,37 +19,39 @@
 
 [IN PROGRESS]
 
-- Discord for the game
+- Harder difficulty
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
-+ Realm Tree
-+ Proper Scanlines control
-+ Proper Game Over screen
-+ Intros at the beggining of a fight
-+ Chat
-? Correct color loaded from character or opponent realm (health bars, panels, etc...)
-+ Separate Input Settings and Gameplay Settings	
-+ Gameplay
-	+ 180° rotation hidden input (hidden as not in default configuration)
-	+ Customizable DAS & ARR, in other words, allow us to change how long it takes for the piece to start automatically moving when you hold down the movement buttons, and how quickly it moves.​
-	+ Show Rotation center of pieces
-	+ Horizontal gameplay
-+ Visual
-	+ New Palette
-+ Bugfix:
-	+ High Scores limit visuals, highest score
-	+ Fixed the Input queue system
-	+ 321 overlapping special cooldown and Item icon in horizontal mode
-	? Take into account the music volume issue. Apparently, even at the lowest volume, is still pretty loud.
-	? Weakness Immunity still buggy
-	+ +60Hz Monitors fixes
-	+ When clicking an item, it clicks the steps hitboxes under it
-+ Balancing
-	+ Impostor nerfed
-	+ Baphomeh Nerfed
+- "Target" text when drone pops
+- Item disapear in settings inputs
+- Skippable intro
+ -> [DEVLOG03]
+- Realm Tree
+- Proper Scanlines control
+- Proper Game Over screen
+- Intros at the beggining of a fight
+- Chat
+- Correct color loaded from character or opponent realm (health bars, panels, etc...)
+- Separate Input Settings and Gameplay Settings	
+- Gameplay
+	- 180° rotation hidden input (hidden as not in default configuration)
+	- Customizable DAS & ARR, in other words, allow us to change how long it takes for the piece to start automatically moving when you hold down the movement buttons, and how quickly it moves.​
+	- Show Rotation center of pieces
+	- Horizontal gameplay
+- Visual
+	- New Palette
+- Bugfix:
+	- High Scores limit visuals, highest score
+	- Fixed the Input queue system
+	- 321 overlapping special cooldown and Item icon in horizontal mode
+	- +60Hz Monitors fixes
+	- When clicking an item, it clicks the steps hitboxes under it
+- Balancing
+	- Impostor nerfed
+	- Baphomeh Nerfed
  -> [DEVLOG03]
 + New Enemies, passives and items
 + Multiple Difficulties
