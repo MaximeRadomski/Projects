@@ -19,12 +19,37 @@
 
 [IN PROGRESS]
 
+- Opponent Cooldown in floats not ints
+- Phill ability not stopping after death apparently
+- Truth attacks event after death
+- Menu select and directions scene should be bindable over gameplay keys
+
 - Harder difficulty
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
+Buffed Wooden Wings:
+- Gravity lower by 2 -> 4
+Buffed Twists:
+- Doubles damages (1 line with a twist become 2 lines damages, 2 -> 4, 3 -> 6)
+Buffed Headbanger:
+- Intoxication for 3 -> 5 pieces
+- HP 80 -> 120
+Buffed Devil's Advocate:
+- Shift 4 + (new) Shift 2
+- SCooldown 4 -> 3 
+- Gravity level 10 -> 14
+Nerfed Shop Keeper:
+- Air pieces 3 -> 2 
+- Cooldown 15 -> 12 
+Nerfed Element Stones:
+- They are now Rare Tattoos
+Nerfed Wooded Cross:
+- Cooldown 4 -> 10
+
+-> [01.02.022]
 - "Target" text when drone pops
 - Item disapear in settings inputs
 - Skippable intro
