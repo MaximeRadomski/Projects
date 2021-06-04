@@ -30,6 +30,8 @@
 
 [DONE]
 
+New Cooldown System:
+- Doesn't increment every seconds, but every 5 ms.
 Buffed Wooden Wings:
 - Gravity lower by 2 -> 4
 Buffed Twists:
@@ -43,11 +45,17 @@ Buffed Devil's Advocate:
 - Gravity level 10 -> 14
 Nerfed Shop Keeper:
 - Air pieces 3 -> 2 
-- Cooldown 15 -> 12 
+- Cooldown 15 -> 12
+Nerfed Tax Collector:
+- Vision block piece cooldown 8 -> 5
+Nerfed Cat:
+- Cooldown 3 -> 5
 Nerfed Element Stones:
 - They are now Rare Tattoos
 Nerfed Wooded Cross:
 - Cooldown 4 -> 10
+Nerfed Air Piece:
+- Piece Opacity 5% -> 10%
 
 -> [01.02.022]
 - "Target" text when drone pops
