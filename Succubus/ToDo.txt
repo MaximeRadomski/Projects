@@ -19,12 +19,9 @@
 
 [IN PROGRESS]
 
-- Opponent Cooldown in floats not ints
 - Phill ability not stopping after death apparently
 - Truth attacks event after death
 - Menu select and directions scene should be bindable over gameplay keys
-
-- Harder difficulty
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -32,17 +29,21 @@
 
 New Cooldown System:
 - Doesn't increment every seconds, but every 5 ms.
+
 Buffed Wooden Wings:
 - Gravity lower by 2 -> 4
 Buffed Twists:
 - Doubles damages (1 line with a twist become 2 lines damages, 2 -> 4, 3 -> 6)
 Buffed Headbanger:
-- Intoxication for 3 -> 5 pieces
-- HP 80 -> 120
+- Intoxication for 3 -> 4 pieces
+Buffed Intoxication Attack:
+- Removes the Ghost Piece
+- Resets the gravity level to 0 when active
 Buffed Devil's Advocate:
 - Shift 4 + (new) Shift 2
 - SCooldown 4 -> 3 
 - Gravity level 10 -> 14
+
 Nerfed Shop Keeper:
 - Air pieces 3 -> 2 
 - Cooldown 15 -> 12
@@ -56,6 +57,9 @@ Nerfed Wooded Cross:
 - Cooldown 4 -> 10
 Nerfed Air Piece:
 - Piece Opacity 5% -> 10%
+
+Fixed Infinite Rotations
+- Max allowed moves before locking can only be reseted two times when the piece is able to soft drop after a triggered lock delay
 
 -> [01.02.022]
 - "Target" text when drone pops
