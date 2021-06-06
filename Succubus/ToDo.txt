@@ -21,14 +21,20 @@
 
 - Phill ability not stopping after death apparently
 - Truth attacks event after death
-- Menu select and directions scene should be bindable over gameplay keys
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
+
+-> [01.02.030]
 New Cooldown System:
 - Doesn't increment every seconds, but every 5 ms.
+Fixed Infinite Rotations:
+- Max allowed moves before locking can only be reseted two times when the piece is able to soft drop after a triggered lock delay
+Fixed menu inputs for PC:
+- Menu inputs can now be binded with the same keys used by gameplay
+- Any menu input will make the menu selector reappear if it is hidden after a mouse input
 
 Buffed Wooden Wings:
 - Gravity lower by 2 -> 4
@@ -36,6 +42,7 @@ Buffed Twists:
 - Doubles damages (1 line with a twist become 2 lines damages, 2 -> 4, 3 -> 6)
 Buffed Headbanger:
 - Intoxication for 3 -> 4 pieces
+- Waste rows x1 with a hole 2 wide
 Buffed Intoxication Attack:
 - Removes the Ghost Piece
 - Resets the gravity level to 0 when active
@@ -57,9 +64,6 @@ Nerfed Wooded Cross:
 - Cooldown 4 -> 10
 Nerfed Air Piece:
 - Piece Opacity 5% -> 10%
-
-Fixed Infinite Rotations
-- Max allowed moves before locking can only be reseted two times when the piece is able to soft drop after a triggered lock delay
 
 -> [01.02.022]
 - "Target" text when drone pops
