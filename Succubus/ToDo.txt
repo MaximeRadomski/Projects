@@ -19,12 +19,45 @@
 
 [IN PROGRESS]
 
-- Phill ability not stopping after death apparently
-- Truth attacks event after death
+- Redesign heavy weight (too frustrating)
+- dialog buttons in horizontal mode should be on the sides of the text box
+- Nerf dorced piece (hell's rider and caca demon)
+- Sensitivity soft drop
+- Quick restart in training
+- "How to play" ! cooldown explanation for specials and items, enemies explanation
+- Endless mode
+
+? Phill ability not stopping after death apparently
+? Truth attacks event after death
+
+-> Horizontal mode bug in boss fight
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
+
+-> [01.02.031]
+Fixed difficulty on bosses:
+- Difficulty is now correctly applied to bosses.
+English motherlover! Do you speak it?
+- Various english mistakes were corrected.
+Fixed panels borders for ultra wide screens in Android
+- One border was popping out of its panel. Not anymore.
+
+Nerfed Lost Soul:
+- Cooldown 5 -> 8
+- Get Haste
+Nerfed Ghoul:
+- Weakness to lines x2
+Nerfed Warrior Soul:
+- Cooldown 10 -> 12
+Nerfed Iron Maid
+- Cooldown 15 -> 18
+- Dark Rows x4 -> x3
+Nerfed opponents minimum cooldown
+- 0.5s -> 1.0s
+Nerfed Handbrake
+- Minimum height 15 -> 17
 
 
 -> [01.02.030]
