@@ -26,6 +26,8 @@
 - Quick restart in training
 - "How to play" ! cooldown explanation for specials and items, enemies explanation
 - Endless mode
+- Dark Rows: 1 = 0, 2 = 2, 3 = 3, 4 = 4, etc
+- CRT make Light Rows not killable (check for other destroying blocks items)
 
 ? Phill ability not stopping after death apparently
 ? Truth attacks event after death
