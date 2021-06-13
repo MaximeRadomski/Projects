@@ -19,20 +19,16 @@
 
 [IN PROGRESS]
 
-- Redesign heavy weight (too frustrating)
-- dialog buttons in horizontal mode should be on the sides of the text box
-- Nerf dorced piece (hell's rider and caca demon)
-- Sensitivity soft drop
-- Quick restart in training
-- "How to play" ! cooldown explanation for specials and items, enemies explanation
+- Sensitivity soft drop for Android
 - Endless mode
-- Dark Rows: 1 = 0, 2 = 2, 3 = 3, 4 = 4, etc
 - CRT make Light Rows not killable (check for other destroying blocks items)
 
 ? Phill ability not stopping after death apparently
 ? Truth attacks event after death
+? Nerf dorced piece (hell's rider and caca demon)
 
--> Horizontal mode bug in boss fight
+Achievement:
+- Kill an opponent by its own piece
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -43,8 +39,20 @@ Fixed difficulty on bosses:
 - Difficulty is now correctly applied to bosses.
 English motherlover! Do you speak it?
 - Various english mistakes were corrected.
-Fixed panels borders for ultra wide screens in Android
+Fixed panels borders for ultra wide screens in Android:
 - One border was popping out of its panel. Not anymore.
+Fixed issues with Horizontal Mode:
+- Now works on Boss fights
+- Dialog buttons weren't visible enough
+Added a section to How To Play:
+- Now explains how Item's and Special's cooldowns work
+Added a Restart button:
+- You can now restart in training free mode, and bind a key to the same action
+
+Altered Heavy Weight:
+- Damage +50% -> +20%
+- Doesn't block gameplay anymore
+- Pieces' weight increases for each level
 
 Nerfed Lost Soul:
 - Cooldown 5 -> 8
@@ -60,6 +68,8 @@ Nerfed opponents minimum cooldown
 - 0.5s -> 1.0s
 Nerfed Handbrake
 - Minimum height 15 -> 17
+Nerfed Dark Rows:
+- Clearing more than 1 line clears the same amount of rows
 
 
 -> [01.02.030]
@@ -74,7 +84,7 @@ Fixed menu inputs for PC:
 Buffed Wooden Wings:
 - Gravity lower by 2 -> 4
 Buffed Twists:
-- Doubles damages (1 line with a twist become 2 lines damages, 2 -> 4, 3 -> 6)
+- Doubles damage (1 line with a twist become 2 lines damage, 2 -> 4, 3 -> 6)
 Buffed Headbanger:
 - Intoxication for 3 -> 4 pieces
 - Waste rows x1 with a hole 2 wide
