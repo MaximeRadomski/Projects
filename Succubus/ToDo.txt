@@ -20,12 +20,6 @@
 [IN PROGRESS]
 
 - Sensitivity soft drop for Android
-- Endless mode
-- CRT make Light Rows not killable (check for other destroying blocks items)
-
-? Phill ability not stopping after death apparently
-? Truth attacks event after death
-? Nerf dorced piece (hell's rider and caca demon)
 
 Achievement:
 - Kill an opponent by its own piece
@@ -33,6 +27,19 @@ Achievement:
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
+
+-> [01.02.032]
+New DAS:
+- Available DAS now starts at 06.
+- 14 has been removed.
+Intoxication Accessibility:
+- Effect speed and scale reduced by 3.
+- Opacity 50% -> 35%.
+Added an Ensless mode:
+- You can now keep your run going after you beat the game.
+
+
+-----------------------------------------------------------------------------
 
 -> [01.02.031]
 Fixed difficulty on bosses:
@@ -48,6 +55,10 @@ Added a section to How To Play:
 - Now explains how Item's and Special's cooldowns work
 Added a Restart button:
 - You can now restart in training free mode, and bind a key to the same action
+Fixed CRT Monitor bug:
+- CRT Monitor item wasn't destroying Light Rows properly
+Fixed Truth:
+- Truth opponent wasn't dying sometimes. It should happen anymore. I think.
 
 Altered Heavy Weight:
 - Damage +50% -> +20%
@@ -66,11 +77,16 @@ Nerfed Iron Maid
 - Dark Rows x4 -> x3
 Nerfed opponents minimum cooldown
 - 0.5s -> 1.0s
+Nerfed Caca Demon:
+- Hp 180 -> 120
+Nerfed Hell Raider:
+- Hp 200 -> 140
 Nerfed Handbrake
 - Minimum height 15 -> 17
 Nerfed Dark Rows:
 - Clearing more than 1 line clears the same amount of rows
 
+-----------------------------------------------------------------------------
 
 -> [01.02.030]
 New Cooldown System:
@@ -109,6 +125,8 @@ Nerfed Wooded Cross:
 - Cooldown 4 -> 10
 Nerfed Air Piece:
 - Piece Opacity 5% -> 10%
+
+-----------------------------------------------------------------------------
 
 -> [01.02.022]
 - "Target" text when drone pops
