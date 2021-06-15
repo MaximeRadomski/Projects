@@ -139,6 +139,7 @@ Items (refill on each opponent attack):
 	- Pentagram : Negate your nature weakness in the current room
 	+ Voodoo Doll : Bypass opponent cooldown and activate its attack.
 	- Clear 2 random columns of the playfield
+	- 10% chance of 
 - Rare:
 	+ Smoke Bomb : You can exit a fight (very large cooldown (en fait 20) )
 	+ Camembert : Fill every single holes
@@ -205,10 +206,11 @@ Realms:
 - You deal 20% more damage to your inferior nature
 - You take 1 more line from your superior nature
 
-Success:
+Achievement:
 - Beat the training dummies
 - Reach level 30 in free training
 - Clear more than 4 lines with a single piece lock
+- Kill an opponent by its own piece
 
 Color Palette:
 - ZeroRanger -> Red Green Blue

@@ -2,10 +2,7 @@
 [TODO]
 
 - https://www.reddit.com/r/oddlyspecific/
-- All Realms Panels
-- Add a lot of effects
 - Half Zones
-- Sound Item Looted + animation
 - Create your opponent
 - Attack which change your current piece
 - Attack which rotate your current piece
@@ -20,9 +17,6 @@
 [IN PROGRESS]
 
 - Sensitivity soft drop for Android
-
-Achievement:
-- Kill an opponent by its own piece
 
 ----------------------------------------------------------------------------------------------------------------
 
