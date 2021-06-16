@@ -17,6 +17,9 @@
 [IN PROGRESS]
 
 - Sensitivity soft drop for Android
+- Pentominoes resets after leaving game scene
+
+- Working on Earth Level
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -31,6 +34,9 @@ Intoxication Accessibility:
 - Opacity 50% -> 35%.
 Added an Ensless mode:
 - You can now keep your run going after you beat the game.
+
+Buffed Bloodlust Blade:
+- Damages x4 -> x6.
 
 
 -----------------------------------------------------------------------------
