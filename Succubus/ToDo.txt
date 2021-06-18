@@ -16,6 +16,8 @@
 
 [IN PROGRESS]
 
+- Double tapping on a piece of land to initiate a battle would be pog
+- Remaining Steps -2 ? Due to smoke bomb apparently
 - Sensitivity soft drop for Android
 - Pentominoes resets after leaving game scene
 
