@@ -16,8 +16,6 @@
 
 [IN PROGRESS]
 
-- Nerf Perfect clear
-- Double tapping on a piece of land to initiate a battle would be pog
 - Remaining Steps -2 ? Due to smoke bomb apparently
 - Sensitivity soft drop for Android
 - Pentominoes resets after leaving game scene
@@ -37,9 +35,17 @@ Intoxication Accessibility:
 - Opacity 50% -> 35%.
 Added an Ensless mode:
 - You can now keep your run going after you beat the game.
+New Attacks:
+- Partition attack. A music partition asking you to play the correct inputs.
+Double click:
+- You can now double click a step in the Steps scene in order to initiate the fight.
 
 Buffed Bloodlust Blade:
 - Damages x4 -> x6.
+
+Nerfed Perfect Clear:
+- Damages on perfect 9999 -> 100.
+- Max level 1 -> 4.
 
 
 -----------------------------------------------------------------------------
