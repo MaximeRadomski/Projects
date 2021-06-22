@@ -16,6 +16,7 @@
 
 [IN PROGRESS]
 
+- Firebase highscores
 - Remaining Steps -2 ? Due to smoke bomb apparently
 - Sensitivity soft drop for Android
 - Pentominoes resets after leaving game scene
@@ -39,6 +40,8 @@ New Attacks:
 - Partition attack. A music partition asking you to play the correct inputs.
 Double click:
 - You can now double click a step in the Steps scene in order to initiate the fight.
+Fixed multiple popup:
+- Spamming the Reset Training button no longer stacks.
 
 Buffed Bloodlust Blade:
 - Damages x4 -> x6.
@@ -46,6 +49,9 @@ Buffed Bloodlust Blade:
 Nerfed Perfect Clear:
 - Damages on perfect 9999 -> 100.
 - Max level 1 -> 4.
+
+Easter eggs:
+- There is some.
 
 
 -----------------------------------------------------------------------------
