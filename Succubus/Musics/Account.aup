@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Account_data" version="1.3.0" audacityversion="2.2.1" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="30.0743060405" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Account" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2566144">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00004b8.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="0" aliaslen="262144" aliaschannel="0" min="-0.771851" max="0.787811" rms="0.132805"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e00001fc.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="262144" aliaslen="262144" aliaschannel="0" min="-0.802887" max="0.787811" rms="0.14598"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0000b4e.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.802887" max="0.76004" rms="0.15147"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e00009b2.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="786432" aliaslen="262144" aliaschannel="0" min="-0.803009" max="0.787811" rms="0.151794"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0000b56.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="1048576" aliaslen="262144" aliaschannel="0" min="-0.788513" max="0.798889" rms="0.159538"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e0000935.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="1310720" aliaslen="262144" aliaschannel="0" min="-0.753418" max="0.759308" rms="0.135771"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e0000c6c.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="1572864" aliaslen="262144" aliaschannel="0" min="-0.795532" max="0.765045" rms="0.136992"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e00005f5.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="1835008" aliaslen="262144" aliaschannel="0" min="-0.802002" max="0.738892" rms="0.138205"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e00008a6.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="2097152" aliaslen="262144" aliaschannel="0" min="-0.792969" max="0.798279" rms="0.152046"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e0000d04.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="2359296" aliaslen="206848" aliaschannel="0" min="-0.752319" max="0.72467" rms="0.129426"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Account" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2566144">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00004fa.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="0" aliaslen="262144" aliaschannel="1" min="-0.771851" max="0.787811" rms="0.132805"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0000d0d.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="262144" aliaslen="262144" aliaschannel="1" min="-0.802887" max="0.787811" rms="0.14598"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e000090c.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.802887" max="0.76004" rms="0.15147"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e00007eb.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="786432" aliaslen="262144" aliaschannel="1" min="-0.803009" max="0.787811" rms="0.151794"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0000310.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="1048576" aliaslen="262144" aliaschannel="1" min="-0.788513" max="0.798889" rms="0.159538"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e0000cff.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="1310720" aliaslen="262144" aliaschannel="1" min="-0.753418" max="0.759308" rms="0.135771"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e0000d61.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="1572864" aliaslen="262144" aliaschannel="1" min="-0.795532" max="0.765045" rms="0.136992"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e0000672.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="1835008" aliaslen="262144" aliaschannel="1" min="-0.802002" max="0.738892" rms="0.138205"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e0000804.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="2097152" aliaslen="262144" aliaschannel="1" min="-0.792969" max="0.798279" rms="0.152046"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e0000da4.auf" aliasfile="C:\Users\Abject\Projects\Succubus\Musics\Account.wav" aliasstart="2359296" aliaslen="206848" aliaschannel="1" min="-0.752319" max="0.72467" rms="0.129426"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

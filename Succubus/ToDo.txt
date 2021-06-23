@@ -16,6 +16,7 @@
 
 [IN PROGRESS]
 
+- Tattoo Berserk Mark
 - Firebase highscores
 - Remaining Steps -2 ? Due to smoke bomb apparently
 - Sensitivity soft drop for Android
@@ -37,7 +38,8 @@ Intoxication Accessibility:
 Added an Ensless mode:
 - You can now keep your run going after you beat the game.
 New Attacks:
-- Partition attack. A music partition asking you to play the correct inputs.
+- Partition attack: A music partition asking you to play the correct inputs.
+- Shrink attack: Shrinks your playfield.
 Double click:
 - You can now double click a step in the Steps scene in order to initiate the fight.
 Fixed multiple popup:
