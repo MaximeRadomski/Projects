@@ -44,9 +44,13 @@ Double click:
 - You can now double click a step in the Steps scene in order to initiate the fight.
 Fixed multiple popup:
 - Spamming the Reset Training button no longer stacks.
+Changed PlayerPrefs:
+- They are now encrypted.
 
 Buffed Bloodlust Blade:
 - Damages x4 -> x6.
+Buffed Edam:
+- Special Cooldown 10 -> 8.
 
 Nerfed Perfect Clear:
 - Damages on perfect 9999 -> 100.
