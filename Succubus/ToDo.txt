@@ -18,9 +18,18 @@
 
 - Tattoo Berserk Mark
 - Firebase highscores
+- prevent multi click on next scene or previous scene
+- I think theres the bug with when you lock a piece in then pause the game it still plays in the background
+- forced blocks shouldn't go over playfield limits
+- going into setting while in game causes random I piece to appear in hold slot
+	- If you have a piece in hold then reset game and do the setting exit it gives you what you had last game
+- pause -> resume shouldn't respawn piece at the top
+- free trainning start at level
 - Remaining Steps -2 ? Due to smoke bomb apparently
 - Sensitivity soft drop for Android
 - Pentominoes resets after leaving game scene
+- Crypt of the necrodancer like attack
+- enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay x)
 
 - Working on Earth Level
 
@@ -44,8 +53,10 @@ Double click:
 - You can now double click a step in the Steps scene in order to initiate the fight.
 Fixed multiple popup:
 - Spamming the Reset Training button no longer stacks.
-Changed PlayerPrefs:
-- They are now encrypted.
+Security:
+- PlayerPrefs are now encrypted.
+- CheatEngine bypass for High Scores.
+
 
 Buffed Bloodlust Blade:
 - Damages x4 -> x6.
