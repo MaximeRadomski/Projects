@@ -30,6 +30,7 @@
 - Pentominoes resets after leaving game scene
 - Crypt of the necrodancer like attack
 - enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay x)
+- button info stepsScenes doesn't handle 144Hz very well
 
 - Working on Earth Level
 
