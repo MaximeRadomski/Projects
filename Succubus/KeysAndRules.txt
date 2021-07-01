@@ -1,0 +1,57 @@
+public static string[] keys = new string[] { "78Imaonr", "BY6IvzIx", "bdI8pNZ0", "pOgb6jhs", "hul4lETi", "ie4j5trI", "AUI45uDk", "UI3ak45u", "Pe4rGI87", "AuD6O8he", "aui8ty62", "ABJECT69" };
+
+https://firebase.google.com/docs/reference/security/database/
+
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "Accounts": {
+      ".read": true,
+    	".write": "newData.exists()",
+      ".validate": "newData.hasChildren(['PlayerName', 'Password', 'SecretQuestion', 'SecretAnswer', 'CreationDate', 'Type', 'Checksum'])",
+      "PlayerName": {
+      	".validate": "data.val() == null || data.val() == newData.val()"
+      },
+      "SecretQuestion": {
+      	".validate": "data.val() == null || data.val() == newData.val()"
+      },
+      "SecretAnswer": {
+      	".validate": "data.val() == null || data.val() == newData.val()"
+      },
+      "Type": {
+      	".validate": "data.val() == null || data.val() == newData.val()"
+      },
+      "Checksum": {
+      	".validate": "data.val() == null || data.val() == newData.val()"
+      },
+    },
+    "HighScores": {
+      ".read": true,
+    	".write": "newData.exists()",
+      ".indexOn": ["Score", "PlayerName"],
+      "PlayerName": {
+        ".validate" : "root.child(newData.val()).exists()"
+      },
+      "Score": {
+        ".validate": "(data.val() == null && newData.isNumber()) || (newData.isNumber() && newData.val() > data.val() && newData.val() < 999999999 && newData.val() < 3000 * (newData.parent().child('Level').val() * (newData.parent().child('Level').val() + 1) / 2) )"
+      },
+      "CharacterId": {
+        ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() < 12"
+      },
+      "Level": {
+        ".validate": "newData.isNumber() && newData.val() <= 99"
+      },
+      "Lines": {
+        ".validate": "newData.isNumber() && newData.val() <= 999"
+      },
+      "Pieces": {
+        ".validate": "newData.isNumber() && newData.val() <= 9999"
+      }
+    },
+    "System": {
+      ".read": true,
+    	".write": false
+    }
+  }
+}
