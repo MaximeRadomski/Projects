@@ -17,21 +17,16 @@
 [IN PROGRESS]
 
 - Tattoo Berserk Mark
-- Firebase highscores
-- prevent multi click on next scene or previous scene
-- I think theres the bug with when you lock a piece in then pause the game it still plays in the background
-- forced blocks shouldn't go over playfield limits
+? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
 - going into setting while in game causes random I piece to appear in hold slot
 	- If you have a piece in hold then reset game and do the setting exit it gives you what you had last game
 - pause -> resume shouldn't respawn piece at the top
 - free trainning start at level
-- Remaining Steps -2 ? Due to smoke bomb apparently
 - Sensitivity soft drop for Android
 - Pentominoes resets after leaving game scene
 - Crypt of the necrodancer like attack
 - enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay x)
 - button info stepsScenes doesn't handle 144Hz very well
-- baphomeh regain more health and speed the more we play and die on him
 
 - Working on Earth Level
 
@@ -43,6 +38,10 @@
 New DAS:
 - Available DAS now starts at 06.
 - 14 has been removed.
+New Online Features:
+- Account
+- High Score linked to account
+- High Scores ladder
 Intoxication Accessibility:
 - Effect speed and scale reduced by 3.
 - Opacity 50% -> 35%.
@@ -55,6 +54,13 @@ Double click:
 - You can now double click a step in the Steps scene in order to initiate the fight.
 Fixed multiple popup:
 - Spamming the Reset Training button no longer stacks.
+Fixed blending into scenes:
+- Pressing quickly "scene to scene" buttons no longer occasionate issues like not being able to pause training game.
+Fixed Smoke Bomb:
+- No longer cancels landlord vision mechanics.
+- Gets a proper cooldown.
+Fixed Bosses getting stronger:
+- Bosses no longer become stronger and stronger if you chain runs without quitting the game.
 Security:
 - PlayerPrefs are now encrypted.
 - CheatEngine bypass for High Scores.
@@ -68,6 +74,8 @@ Buffed Edam:
 Nerfed Perfect Clear:
 - Damages on perfect 9999 -> 100.
 - Max level 1 -> 4.
+Nerfed Origin Step:
+- The first step of a level is no longer a 4 ways but a random one.
 
 Easter eggs:
 - There is some.
