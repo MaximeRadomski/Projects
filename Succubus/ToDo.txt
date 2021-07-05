@@ -16,18 +16,17 @@
 
 [IN PROGRESS]
 
-- Tattoo Berserk Mark
+Bug:
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
-- going into setting while in game causes random I piece to appear in hold slot
-	- If you have a piece in hold then reset game and do the setting exit it gives you what you had last game
-- pause -> resume shouldn't respawn piece at the top
-- free trainning start at level
-- Sensitivity soft drop for Android
 - Pentominoes resets after leaving game scene
-- Crypt of the necrodancer like attack
-- enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay x)
 - button info stepsScenes doesn't handle 144Hz very well
 
+New Features::
+- Tattoo Berserk Mark
+- free trainning start at level
+- Sensitivity soft drop for Android
+- Crypt of the necrodancer like attack
+- enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay x)
 - Working on Earth Level
 
 ----------------------------------------------------------------------------------------------------------------
@@ -61,6 +60,9 @@ Fixed Smoke Bomb:
 - Gets a proper cooldown.
 Fixed Bosses getting stronger:
 - Bosses no longer become stronger and stronger if you chain runs without quitting the game.
+Fixed Pause issues:
+- No longer resets the current piece position when pausing then going to settings then resuming the game.
+- No longer keeps the last piece holded doing the previouly mentionned pause manipulation.
 Security:
 - PlayerPrefs are now encrypted.
 - CheatEngine bypass for High Scores.
