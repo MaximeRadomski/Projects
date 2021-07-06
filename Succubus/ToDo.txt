@@ -59,6 +59,8 @@ Fixed Smoke Bomb:
 - Gets a proper cooldown.
 Fixed Bosses getting stronger:
 - Bosses no longer become stronger and stronger if you chain runs without quitting the game.
+Fixed Death Scythe:
+- Now correctly increases by 20% on each ascension.
 Fixed Pause issues:
 - No longer resets the current piece position when pausing then going to settings then resuming the game.
 - No longer keeps the last piece holded doing the previouly mentionned pause manipulation.
