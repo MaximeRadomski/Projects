@@ -1,0 +1,25 @@
+Name:
+- Mercurians Hope.
+
+Game Mechanics:
+- Rogue-Lite
+	- Chaque run est divisée en plusieurs niveaux.
+	- Chaque niveau doit être réalisé en une seule fois
+	- Pas de système de sauvegarde pendant un niveau
+	- Impossibilité de jouer pendant une journée mercurienne après avoir terminé un niveau (58 jours)(mais 88 jours de nuit à cause de sa rotation qui suit son orbite) -> cryogénisation (24h IRL)
+	- 
+
+Visuals:
+- Red Orange visuels
+- BEKSINKI ! FUCKING BEKSINSKI EVERYWHERE
+ 
+Scénario:
+- Futur proche mais année inconnue.
+- Base spatiale sur Mercure, isolée du monde extérieur, des décénies sans contact de la Terre.
+- Un passé enfoui, des registres perdus suite aux archives détruites par la plus grosses éruption solaire de l'histoire des colonies.
+- Base proche du Pôle Nord de la planête.
+
+
+
+Sources:
+- Justification survie sur Mercure: Vidéo de dirty biology sur le recyclage dans l'espace, à la fin il parle d'un système de lac auto géré

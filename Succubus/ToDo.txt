@@ -67,8 +67,7 @@ Fixed Pause issues:
 - Pentominoes (and any pieces over 4 blocks) no longer resets after the previouly mentionned pause manipulation.
 Security:
 - PlayerPrefs are now encrypted.
-- CheatEngine bypass for High Scores.
-
+- CheatEngine check for High Scores.
 
 Buffed Bloodlust Blade:
 - Damages x4 -> x6.
