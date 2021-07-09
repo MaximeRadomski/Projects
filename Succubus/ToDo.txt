@@ -17,8 +17,12 @@
 [IN PROGRESS]
 
 Bug:
+- change the name back to InfidHells (I used it for the server address, just have to lower it)
+- Prevent double clicking on already cleared steps
+- Mobile only: In input on the left side, if you set something to the top-middle and go back, it'll disappear. I've not tested top-left or top-right. You have to set it again for it to stay.
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
 - button info stepsScenes doesn't handle 144Hz very well
+- also soft-drop arr and das would be pog too
 
 New Features::
 - Tattoo Berserk Mark
@@ -27,12 +31,19 @@ New Features::
 - Crypt of the necrodancer like attack
 - enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay x)
 - Working on Earth Level
+- Lock Bomb attack -> the piece locks itself after a cooldown
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.03.002]
+
+
 
 ----------------------------------------------------------------------------------------------------------------
 
 [DONE]
 
--> [01.02.032]
+-> [01.03.001]
 New DAS:
 - Available DAS now starts at 06.
 - 14 has been removed.
@@ -79,6 +90,14 @@ Nerfed Perfect Clear:
 - Max level 1 -> 4.
 Nerfed Origin Step:
 - The first step of a level is no longer a 4 ways but a random one.
+Nerfed difficulties:
+- Hard:
+	- HP x1.5 -> x1.25
+	- Cooldowns x0.666 -> x0.75
+- Infernal:
+	- HP x2.0 -> x1.5
+	- Cooldowns x0.333 -> x0.5
+	- Gravity Level +16 -> +12
 
 Easter eggs:
 - There is some.
