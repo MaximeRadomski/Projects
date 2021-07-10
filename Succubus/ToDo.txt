@@ -17,8 +17,6 @@
 [IN PROGRESS]
 
 Bug:
-- change the name back to InfidHells (I used it for the server address, just have to lower it)
-- Prevent double clicking on already cleared steps
 - Mobile only: In input on the left side, if you set something to the top-middle and go back, it'll disappear. I've not tested top-left or top-right. You have to set it again for it to stay.
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
 - button info stepsScenes doesn't handle 144Hz very well
@@ -36,12 +34,13 @@ New Features::
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.03.002]
-
-
+Hot Fixes:
+- Changed the name of the project from "infidhells" in lowercase back to InfidHells.
+- Soft Drop Stomp now gives score points in Training Free.
+- You cannot "double click" on invalid steps anymore.
+- Fixed typos.
 
 ----------------------------------------------------------------------------------------------------------------
-
-[DONE]
 
 -> [01.03.001]
 New DAS:
