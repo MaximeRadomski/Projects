@@ -21,6 +21,8 @@ Bug:
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
 - button info stepsScenes doesn't handle 144Hz very well
 - also soft-drop arr and das would be pog too
+- combos resets on pause
+- perfect clear tattoo from 9999 to 100
 
 New Features::
 - Tattoo Berserk Mark
