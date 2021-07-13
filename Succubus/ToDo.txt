@@ -17,12 +17,13 @@
 [IN PROGRESS]
 
 Bug:
-- Mobile only: In input on the left side, if you set something to the top-middle and go back, it'll disappear. I've not tested top-left or top-right. You have to set it again for it to stay.
+? Mobile only: In input on the left side, if you set something to the top-middle and go back, it'll disappear. I've not tested top-left or top-right. You have to set it again for it to stay.
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
 - button info stepsScenes doesn't handle 144Hz very well
 - also soft-drop arr and das would be pog too
 - combos resets on pause
-- perfect clear tattoo from 9999 to 100
+- char unlock percent 
+- tree + loot bonus + character + infernal availability -> linked to account
 
 New Features::
 - Tattoo Berserk Mark
@@ -32,6 +33,16 @@ New Features::
 - enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay x)
 - Working on Earth Level
 - Lock Bomb attack -> the piece locks itself after a cooldown
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.03.003]
+Hot Fixes:
+- Fixed the Perfect Score tattoo once and for all (I hope).
+- Re-Estabished the "Force Quit" verification (which was removed for debug reasons...)
+? Made the percentage for encountering a character going higher by 5 percent each time you complete or fail a run after reaching at least the second level.
+? 
+- Fixed typos.
 
 ----------------------------------------------------------------------------------------------------------------
 
