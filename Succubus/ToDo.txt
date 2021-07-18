@@ -21,9 +21,6 @@ Bug:
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
 - button info stepsScenes doesn't handle 144Hz very well
 - also soft-drop arr and das would be pog too
-- combos resets on pause
-- char unlock percent 
-- tree + loot bonus + character + infernal availability -> linked to account
 
 New Features::
 - Tattoo Berserk Mark
@@ -40,9 +37,14 @@ New Features::
 Hot Fixes:
 - Fixed the Perfect Score tattoo once and for all (I hope).
 - Re-Estabished the "Force Quit" verification (which was removed for debug reasons...)
-? Made the percentage for encountering a character going higher by 5 percent each time you complete or fail a run after reaching at least the second level.
-? 
+- Combos do not reset on pause anymore
 - Fixed typos.
+- Soft drop stomp for tactile
+
+New character encounter mechanic:
+- Made the percentage for encountering a character going higher by 5 percent each time you complete or fail a run after reaching at least the second level.
+New online account save system:
+- Tree + loot bonuses + characters + realm progression can be uploaded toyour account, and downloaded on any device
 
 ----------------------------------------------------------------------------------------------------------------
 
