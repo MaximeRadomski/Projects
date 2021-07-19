@@ -22,14 +22,16 @@ Bug:
 - button info stepsScenes doesn't handle 144Hz very well
 - also soft-drop arr and das would be pog too
 
-New Features::
-- Tattoo Berserk Mark
+New Features:
 - free trainning start at level
 - Sensitivity soft drop for Android
 - Crypt of the necrodancer like attack
-- enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay x)
+- enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay (and slow DAS) (and a single custom block) x)
 - Working on Earth Level
 - Lock Bomb attack -> the piece locks itself after a cooldown
+
+Currently working on:
+- Tattoo Berserk Mark
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -39,7 +41,7 @@ Hot Fixes:
 - Re-Estabished the "Force Quit" verification (which was removed for debug reasons...)
 - Combos do not reset on pause anymore
 - Fixed typos.
-- Soft drop stomp for tactile
+- Soft drop stomp for tactile screens
 
 New character encounter mechanic:
 - Made the percentage for encountering a character going higher by 5 percent each time you complete or fail a run after reaching at least the second level.
