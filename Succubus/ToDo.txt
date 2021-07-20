@@ -23,6 +23,7 @@ Bug:
 - also soft-drop arr and das would be pog too
 
 New Features:
+- Tetris Effect Zone feature (item)
 - free trainning start at level
 - Sensitivity soft drop for Android
 - Crypt of the necrodancer like attack
@@ -47,6 +48,9 @@ New character encounter mechanic:
 - Made the percentage for encountering a character going higher by 5 percent each time you complete or fail a run after reaching at least the second level.
 New online account save system:
 - Tree + loot bonuses + characters + realm progression can be uploaded toyour account, and downloaded on any device
+
+Buffed The Hierophant
+- Bonus Lock Delay 1 second -> 2 seconds
 
 ----------------------------------------------------------------------------------------------------------------
 
