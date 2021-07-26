@@ -17,6 +17,7 @@
 [IN PROGRESS]
 
 Bug:
+- Yes No Popup for endless mode
 ? Mobile only: In input on the left side, if you set something to the top-middle and go back, it'll disappear. I've not tested top-left or top-right. You have to set it again for it to stay.
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
 - button info stepsScenes doesn't handle 144Hz very well
