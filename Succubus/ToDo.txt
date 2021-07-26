@@ -28,12 +28,13 @@ New Features:
 - free trainning start at level
 - Sensitivity soft drop for Android
 - Crypt of the necrodancer like attack
-- enemy attack Preventing you from Holding, Hard Dropping AND of course lock delay (and slow DAS) (and a single custom block) x)
 - Working on Earth Level
 - Lock Bomb attack -> the piece locks itself after a cooldown
 
 Currently working on:
 - Tattoo Berserk Mark
+? You can now choose to continue your endless ascension or to start a new one.
+? New Old School mode
 
 ----------------------------------------------------------------------------------------------------------------
 
