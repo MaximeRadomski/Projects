@@ -83,12 +83,12 @@ Game Lootable Mechanics (Tattoos):
 	+ Clears 1 line from the bottom after each opponent death
 	+ Your opponent hurt itself everytime he attacks by +10% of your attack.
 	+ Opponent attacks reduce your Item cooldown by +1
-	- +10% chance dodging
+	+ +10% chance dodging
 - Rare: 
 	+ Each combo destroy a dark row
 	- Your 1 and 2 lines make 20% less damages. Your 3 and 4 lines make 20% more damages.
 	- Your 1 and 3 lines make 20% less damages. Your 2 and 4 lines make 20% more damages.
-	- You can use your special from the start
+	+ You can use your special from the start
 	+ Killing an opponent reduce your item cooldown by 2
 	+ Fox : Your Item Max cooldown is reduced by 2
 	- Hedgehog : Your Special total cooldown is reduced by 2

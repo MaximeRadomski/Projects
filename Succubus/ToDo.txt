@@ -27,14 +27,18 @@ New Features:
 - Tetris Effect Zone feature (item)
 - free trainning start at level
 - Sensitivity soft drop for Android
-- Crypt of the necrodancer like attack
+- Crypt of the necrodancer like attack (player have to play in rythme)
 - Working on Earth Level
-- Lock Bomb attack -> the piece locks itself after a cooldown
+- Lock Bomb attack -> the piece drop down itself after a cooldown of moves
 
 Currently working on:
-- Tattoo Berserk Mark
+? Tattoo Berserk Mark
 ? You can now choose to continue your endless ascension or to start a new one.
 ? New Old School mode
+? Fixed a bug where pieces could still fall while opponent death screen.
+- No Rotation Attack
+- Beer Tattoo: Adds 1 second to opponents cooldowns
+- Lootbox: You can use your special from the start
 
 ----------------------------------------------------------------------------------------------------------------
 
