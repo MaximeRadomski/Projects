@@ -32,31 +32,34 @@ New Features:
 - Lock Bomb attack -> the piece drop down itself after a cooldown of moves
 
 Currently working on:
-? Tattoo Berserk Mark
-? You can now choose to continue your endless ascension or to start a new one.
-? New Old School mode
-? Fixed a bug where pieces could still fall while opponent death screen.
-- No Rotation Attack
-- Beer Tattoo: Adds 1 second to opponents cooldowns
-- Lootbox: You can use your special from the start
+
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.03.003]
 Hot Fixes:
 - Fixed the Perfect Score tattoo once and for all (I hope).
-- Re-Estabished the "Force Quit" verification (which was removed for debug reasons...)
-- Combos do not reset on pause anymore
+- Re-Estabished the "Force Quit" verification (which was removed for debug reasons...).
+- Combos do not reset on pause anymore.
 - Fixed typos.
-- Soft drop stomp for tactile screens
+- Soft drop stomp for tactile screens.
+- You can now choose to continue your endless ascension or to start a new one.
 
 New character encounter mechanic:
 - Made the percentage for encountering a character going higher by 5 percent each time you complete or fail a run after reaching at least the second level.
 New online account save system:
-- Tree + loot bonuses + characters + realm progression can be uploaded toyour account, and downloaded on any device
+- Tree + loot bonuses + characters + realm progression can be uploaded toyour account, and downloaded on any device.
+New Tattoos:
+- "Brand of Sacrifice", "Beer", "Loot Box".
+New Opponents:
+- Earth opponents.
+New Opponents Attacks:
+- "Old School", "Screwed".
+New Old School mode:
+- Training and High Scores.
 
-Buffed The Hierophant
-- Bonus Lock Delay 1 second -> 2 seconds
+Buffed The Hierophant:
+- Bonus Lock Delay 1 second -> 2 seconds.
 
 ----------------------------------------------------------------------------------------------------------------
 
