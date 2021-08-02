@@ -17,23 +17,22 @@
 [IN PROGRESS]
 
 Bug:
-- Yes No Popup for endless mode
 ? Mobile only: In input on the left side, if you set something to the top-middle and go back, it'll disappear. I've not tested top-left or top-right. You have to set it again for it to stay.
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
 - button info stepsScenes doesn't handle 144Hz very well
 - also soft-drop arr and das would be pog too
-- Old reverend to nun -> keep old school because number of pieces before end of old school has been reseted (or method after spawn is different)
 
 New Features:
 - Tetris Effect Zone feature (item)
 - free trainning start at level
 - Sensitivity soft drop for Android
 - Crypt of the necrodancer like attack (player have to play in rythme)
-- Working on Earth Level
 - Lock Bomb attack -> the piece drop down itself after a cooldown of moves
 
 Currently working on:
-
+- Working on Earth Level
+? Old reverend to nun -> keep old school because number of pieces before end of old school has been reseted (or method after spawn is different)
+? Check new upload download of progression : upload on my PC, download on work PC
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -61,6 +60,9 @@ New Old School mode:
 
 Buffed The Hierophant:
 - Bonus Lock Delay 1 second -> 2 seconds.
+
+Nerfed tattoo SOP Sign:
+- you cannot get more than 1 dark line or waste line at a time. -> the amount of dark lines or waste lines you take is divided by 2.
 
 ----------------------------------------------------------------------------------------------------------------
 
