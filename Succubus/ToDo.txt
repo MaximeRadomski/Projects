@@ -31,6 +31,7 @@ New Features:
 - cheesus
 
 Currently working on:
+- earth characters should have earth pieces in training
 - Working on Earth Level
 ? Old reverend to nun -> keep old school because number of pieces before end of old school has been reseted (or method after spawn is different)
 ? Check new upload download of progression : upload on my PC, download on work PC
