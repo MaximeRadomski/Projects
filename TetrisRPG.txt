@@ -98,9 +98,9 @@ Game Lootable Mechanics (Tattoos):
 	+ Hell suppo : Change your nature to a Sinful one
 	+ Earth child : Change your nature to a Human one
 	+ Heaven icon : Change your nature to a Holy one
-	- Your realm's passive effect gets +100% efficiency
+	+ Your realm's passive effect gets +100% efficiency
 	+ For the duration of your current fight, doing a critical hit augments your critical hit chances by +1 percent.
-	- The opponent's attack does not trigger while you clear lines
+	+ The opponent's attack does not trigger while you clear lines
 	+ Playing higher in the playfield makes opponent cooldown longer.
 	+ You can now see your pieces' shadows throw vision blocks
 	- Your opponent base cooldown increase by +1 seconds on each attack

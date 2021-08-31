@@ -25,13 +25,13 @@ Bug:
 New Features:
 - Tetris Effect Zone feature (item)
 - free trainning start at level
-- Sensitivity soft drop for Android
 - Crypt of the necrodancer like attack (player have to play in rythme)
-- Lock Bomb attack -> the piece drop down itself after a cooldown of moves
-- cheesus
+- Tattoo that boost realm passive
 
 Currently working on:
 - Working on Earth Level
+? Check new Tattoos: Family Tree, Star, Infinite Stairs
+? Check Tony attack against drills and forced pieces (canceling those attacks might leave their shadows or targets behind)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ New character encounter mechanic:
 New online account save system:
 - Tree + loot bonuses + characters + realm progression can be uploaded toyour account, and downloaded on any device.
 New Tattoos:
-- "Brand of Sacrifice", "Beer", "Loot Box".
+- "Brand of Sacrifice", "Beer", "Loot Box", "Family Tree", "Star", "Infinite Stairs".
 New Opponents:
 - Earth opponents.
 New Opponents Attacks:
