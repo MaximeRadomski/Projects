@@ -29,6 +29,7 @@ New Features:
 
 Currently working on:
 - Working on Earth Level
+- Beholder work
 
 ----------------------------------------------------------------------------------------------------------------
 
