@@ -72,11 +72,11 @@ Game Lootable Mechanics (Tattoos):
 	- Longer ARE (appearance delay)
 	- Longer Lock Delay
 	+ Lower gravity
-	- Reduce grey lines number of holes
+	+ Reduce grey lines number of holes
 	+ Knuckle : Your single lines deals +2 damages
 	+ You get 10% more T
 	+ You get 10% more I
-	- Longer enemy cooldown
+	+ Longer enemy cooldown
 	+ Your attacks reduce your opponant cooldown progression by 1 additionnal seconds
 	+ You decrease vison blocks cooldow by +1 second each time you drop a piece
 	- You decrease light rows cooldow by +1 second each time you drop a piece
@@ -86,12 +86,12 @@ Game Lootable Mechanics (Tattoos):
 	+ +10% chance dodging
 - Rare: 
 	+ Each combo destroy a dark row
-	- Your 1 and 2 lines make 20% less damages. Your 3 and 4 lines make 20% more damages.
-	- Your 1 and 3 lines make 20% less damages. Your 2 and 4 lines make 20% more damages.
+	+ Your 1 and 2 lines make 20% less damages. Your 3 and 4 lines make 20% more damages.
+	+ Your 1 and 3 lines make 20% less damages. Your 2 and 4 lines make 20% more damages.
 	+ You can use your special from the start
 	+ Killing an opponent reduce your item cooldown by 2
 	+ Fox : Your Item Max cooldown is reduced by 2
-	- Hedgehog : Your Special total cooldown is reduced by 2
+	+ Hedgehog : Your Special total cooldown is reduced by 2
 	- You get a chance to encounter a friendly character
 	- You gain one combo bonus from a x3 combo
 	- Enemies get a longer delay between each attack
@@ -103,7 +103,7 @@ Game Lootable Mechanics (Tattoos):
 	+ The opponent's attack does not trigger while you clear lines
 	+ Playing higher in the playfield makes opponent cooldown longer.
 	+ You can now see your pieces' shadows throw vision blocks
-	- Your opponent base cooldown increase by +1 seconds on each attack
+	+ Your opponent base cooldown increase by +1 seconds on each attack
 	+ Element Fire : Your triple lines burn your opponent, dealing 10% of your damages for 3 seconds. 
 	+ Element Ice : Your triple lines freeze your opponent, making him receving +50% damages for 4 seconds.
 	+ Element Earth : Your triple lines smash your opponent, stunning him for +4 seconds.
@@ -111,9 +111,9 @@ Game Lootable Mechanics (Tattoos):
 	+ You can now double jump
 	- Steps aren't blurred anymore on the map
 	- Each line cleared reduce your Special cooldown by +1
-	- Reveals all the map
-	- Simp Shield : drone shield which protect from 1 attack
-	- Simp Worker : drone which fill empty blocks
+	+ Reveals all the map
+	+ Simp Shield : drone shield which protect from 1 attack
+	+ Simp Worker : drone which fill empty blocks
 	- Your blocks cannot be destroyed by ennemi attacks anymore
 - Legendary: 
 	- Baroud Honneur: U^pon Dying, give your opponent one last blow for 100% of your attack. If it kills him, you are back in the game
