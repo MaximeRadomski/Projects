@@ -34,7 +34,7 @@ Currently working on:
 
 ----------------------------------------------------------------------------------------------------------------
 
--> [01.03.003]
+-> [01.04.001]
 Hot Fixes:
 - Fixed the Perfect Score tattoo once and for all (I hope).
 - Re-Estabished the "Force Quit" verification (which was removed for debug reasons...).
@@ -48,7 +48,7 @@ New character encounter mechanic:
 New online account save system:
 - Tree + loot bonuses + characters + realm progression can be uploaded toyour account, and downloaded on any device.
 New Tattoos:
-- "Brand of Sacrifice", "Beer", "Loot Box", "Family Tree", "Star", "Infinite Stairs".
+- 20 of them.
 New Opponents:
 - Earth opponents.
 New Opponents Attacks:
