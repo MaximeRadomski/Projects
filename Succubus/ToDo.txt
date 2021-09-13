@@ -17,11 +17,12 @@
 [IN PROGRESS]
 
 Bug:
-- looks like the bug where harddropping and bring up menu at the same time causes the game to not pause is still there
+? looks like the bug where harddropping and bring up menu at the same time causes the game to not pause is still there
 ? Mobile only: In input on the left side, if you set something to the top-middle and go back, it'll disappear. I've not tested top-left or top-right. You have to set it again for it to stay.
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
 - button info stepsScenes doesn't handle 144Hz very well
 - also soft-drop arr and das would be pog too
+- New Game+ System
 
 New Features:
 - Tetris Effect Zone feature (item)
@@ -29,9 +30,18 @@ New Features:
 - Crypt of the necrodancer like attack (player have to play in rythme)
 
 Currently working on:
-- Working on Earth Level
-- Do some mobile tests
-? Check last tattoos
+- Make earth harder
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.04.002]
+Hot Fixes: 
+- Fixed lock Realm Tree Lock Delay issue.
+- Old School is now set Earth rather than is Hell
+- Tattoo Farm: Max Level 99 -> 4 (way too overpowered otherwise)
+- Fixed audio levels for the music
+- Made earth opponents harder
+- Bonus percent for characters encounters after a run without encountering any playable character: +5% -> +10%
 
 ----------------------------------------------------------------------------------------------------------------
 
