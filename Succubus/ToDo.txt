@@ -34,6 +34,15 @@ Currently working on:
 
 ----------------------------------------------------------------------------------------------------------------
 
+-> [01.04.004]
+Hot Fixes: 
+- Unlocking playable characters is now fixed and should work as intended.
+- Reduced each difficulty's max steps by 1.
+
+-> [01.04.003]
+Hot Fixes: 
+- Removed a debug variable making you always start against the same opponent (sorry for that)
+
 -> [01.04.002]
 Hot Fixes: 
 - Fixed lock Realm Tree Lock Delay issue.
