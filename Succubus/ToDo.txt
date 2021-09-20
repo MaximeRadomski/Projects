@@ -31,12 +31,22 @@ New Features:
 
 Currently working on:
 - Make earth harder
+- Max level for all tattoos
+- Swipe mode with multitouch
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.04.005]
 Hot Fixes: 
 - Upon switching items, the default popup answer is now positive instead of negative.
+
+Nerfed Tribal:
+- Max Level 99 -> 5.
+Nerfed D20:
+- Max Level 11 -> 5.
+Nerfed Target:
+- Rarity Common -> Rare
+- Delay between each hole filling: 2 seconds -> 5 seconds
 
 ----------------------------------------------------------------------------------------------------------------
 
