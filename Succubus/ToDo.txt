@@ -31,8 +31,9 @@ New Features:
 
 Currently working on:
 - Make earth harder
-- Max level for all tattoos
+? Max level for all tattoos
 - Swipe mode with multitouch
+- Test New Target
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -40,13 +41,32 @@ Currently working on:
 Hot Fixes: 
 - Upon switching items, the default popup answer is now positive instead of negative.
 
-Nerfed Tribal:
-- Max Level 99 -> 5.
-Nerfed D20:
-- Max Level 11 -> 5.
-Nerfed Target:
+Endless Run fixes:
+- Nerfed Broken Clock Tattoo: Max Level 99 -> 3.
+- Nerfed Broken Sword Tattoo: Max Level 33 -> 3.
+- Nerfed Eclipse Glasses Tattoo: Max Level 99 -> 3.
+- Nerfed Cleaver Tattoo: Max Level 99 -> 4.
+- Nerfed D20 Tattoo: Max Level 11 -> 5.
+- Nerfed Tribal Tattoo: Max Level 99 -> 5.
+- Nerfed Trinity Tattoo: Max Level 99 -> 5.
+- Nerfed Fire Stone Tattoo: Max Level 99 -> 5.
+- Nerfed Wind Stone Tattoo: Max Level 99 -> 5.
+- Nerfed Earth Stone Tattoo: Max Level 99 -> 5.
+- Nerfed Water Stone Tattoo: Max Level 99 -> 5.
+- Nerfed Forgotten Dream Tattoo: Max Level 99 -> 5.
+- Nerfed Crown Of Thorns Tattoo: Max Level 99 -> 5.
+- Nerfed Fox Tattoo: Max Level 99 -> 8.
+- Nerfed Damocles Tattoo: Max Level 99 -> 10.
+- Nerfed Knuckles Tattoo: Max Level 99 -> 10.
+- Nerfed Trash Bin Tattoo: Max Level 99 -> 10.
+- Nerfed Wooden Wings Tattoo: Max Level 99 -> 10.
+
+Nerfed Perfect Score Tattoo:
+- Damage on perfect 200 -> 100.
+Nerfed Target Tattoo:
 - Rarity Common -> Rare
 - Delay between each hole filling: 2 seconds -> 5 seconds
+- Slower speed
 
 ----------------------------------------------------------------------------------------------------------------
 
