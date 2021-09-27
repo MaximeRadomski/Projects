@@ -28,12 +28,11 @@ New Features:
 - Tetris Effect Zone feature (item)
 - free trainning start at level
 - Crypt of the necrodancer like attack (player have to play in rythme)
+- Do nothing when item use
+- Never twice item
 
 Currently working on:
-- Make earth harder
-? Max level for all tattoos
 - Swipe mode with multitouch
-- Test New Target
 
 ----------------------------------------------------------------------------------------------------------------
 
