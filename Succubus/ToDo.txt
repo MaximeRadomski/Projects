@@ -34,6 +34,7 @@ Currently working on:
 ? Max level for all tattoos
 - Swipe mode with multitouch
 - Test New Target
+- Update Android SDK and more to prevent android lag
 
 ----------------------------------------------------------------------------------------------------------------
 
