@@ -32,14 +32,19 @@ New Features:
 - Never twice item
 
 Currently working on:
-- Swipe mode with multitouch
-- Update Android SDK and more to prevent android lag
+- More invisible pieces and vision block attacks
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.04.005]
 Hot Fixes: 
 - Upon switching items, the default popup answer is now positive instead of negative.
+- Swipe mode now handles multitouch
+- Fixed some stupid recursive stuff in the Map Tattoo
+
+New Features:
+- New difficulties
+- New Ascension system
 
 Endless Run fixes:
 - Nerfed Broken Clock Tattoo: Max Level 99 -> 3.
