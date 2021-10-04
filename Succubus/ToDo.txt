@@ -20,19 +20,47 @@ Bug:
 ? looks like the bug where harddropping and bring up menu at the same time causes the game to not pause is still there
 ? Mobile only: In input on the left side, if you set something to the top-middle and go back, it'll disappear. I've not tested top-left or top-right. You have to set it again for it to stay.
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
-- button info stepsScenes doesn't handle 144Hz very well
-- also soft-drop arr and das would be pog too
-- New Game+ System
+? button info stepsScenes doesn't handle 144Hz very well
 
 New Features:
+- also soft-drop arr and das would be pog too
 - Tetris Effect Zone feature (item)
 - free trainning start at level
 - Crypt of the necrodancer like attack (player have to play in rythme)
-- Do nothing when item use
-- Never twice item
 
 Currently working on:
 - More invisible pieces and vision block attacks
+- Test Diamond blocks (justice shovel, creeping totem, drill attack)
+- Test Scissor Jack
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.04.006]
+Buffed Warrior Soul:
+- Now has Haste
+- New Shrink Attack
+Buffed Living bible:
+- HpMax 20 -> 30
+- Cooldown 10 -> 5
+Buffed Beginner monk
+- HpMax 80 -> 100
+Buffed Monk:
+- HpMax 120 -> 150
+Buffed Nun:
+- HpMax 120 -> 150
+Buffed Punished Sinner:
+- HpMax 180 -> 200
+Buffed Lost Cherub:
+- HpMax 80 -> 120
+Buffed Cheese Cake:
+- HpMax 88 -> 130
+- New Vision Block Attack
+
+Buffed all difficulties:
+- Each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
+
+New Earth Opponents:
+- Worm Ghast, Igorr
 
 ----------------------------------------------------------------------------------------------------------------
 
