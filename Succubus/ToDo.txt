@@ -31,11 +31,11 @@ New Features:
 
 Currently working on:
 - More invisible pieces and vision block attacks
-- Test Diamond blocks (justice shovel, creeping totem, drill attack)
 - Test Scissor Jack
 - Test new _hasGate
 - Test new tunnel attack
 - Test new GoFilledTarget name
+- Test Basketball Hoop
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -62,6 +62,9 @@ Buffed Cheese Cake:
 
 Buffed all difficulties:
 - Each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
+
+New Tattoos:
+- 
 
 New Earth Opponents:
 - Worm Ghast, Igorr
