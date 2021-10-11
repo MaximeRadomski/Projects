@@ -26,16 +26,15 @@ New Features:
 - also soft-drop arr and das would be pog too
 - Tetris Effect Zone feature (item)
 - free trainning start at level
-- Crypt of the necrodancer like attack (player have to play in rythme)
-- New Tattoo Basket boosting hard dropping inside
 
 Currently working on:
 - More invisible pieces and vision block attacks
 - Test Scissor Jack
 - Test new _hasGate
 - Test new tunnel attack
-- Test new GoFilledTarget name
-- Test Basketball Hoop
+- Test new "PlayerPrefsHelper.GetRealmTree().AttackBoost;"
+- Rythm Mania Attack
+- Line Break Attack
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -62,6 +61,10 @@ Buffed Cheese Cake:
 
 Buffed all difficulties:
 - Each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
+
+Changed Target Tattoo (once again)
+- better, faster, stronger, but...
+- ... now fills up to 4 single holes in the playfield. The amount get +4 on each level up.
 
 New Tattoos:
 - 
