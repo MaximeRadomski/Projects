@@ -35,6 +35,8 @@ Currently working on:
 - Test new "PlayerPrefsHelper.GetRealmTree().AttackBoost;"
 - Rythm Mania Attack
 - Line Break Attack
+- Test Shovel on dark rows and other indestructile rows
+- Test if Reflect and Block Spreading are still here
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -71,6 +73,10 @@ New Tattoos:
 
 New Earth Opponents:
 - Worm Ghast, Igorr
+
+Bug Fixes:
+- Shovel should no longer destroy indestructible walls (dark rows, light rows, line breaks, etc...)
+- Better performance on 
 
 ----------------------------------------------------------------------------------------------------------------
 
