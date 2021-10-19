@@ -29,14 +29,17 @@ New Features:
 
 Currently working on:
 - More invisible pieces and vision block attacks
+- Rythm Mania Attack
 - Test Scissor Jack
 - Test new _hasGate
 - Test new tunnel attack
 - Test new "PlayerPrefsHelper.GetRealmTree().AttackBoost;"
-- Rythm Mania Attack
-- Line Break Attack
 - Test Shovel on dark rows and other indestructile rows
-- Test if Reflect and Block Spreading are still here
+- One hell opponent per new attacks
+- One earth opponent per new attacks
+- Do some little notes flying around
+- Test Line break with pause
+- Set Rhythm mania on all inputs except special and item (I think ?)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -67,16 +70,24 @@ Buffed all difficulties:
 Changed Target Tattoo (once again)
 - better, faster, stronger, but...
 - ... now fills up to 4 single holes in the playfield. The amount get +4 on each level up.
+Changed Kinky Boots (finally):
+- Now increases gate attacks wideness by 1 blocks, and more blocks per level
 
 New Tattoos:
+- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract
+
+New Hell Opponents:
 - 
 
 New Earth Opponents:
 - Worm Ghast, Igorr
 
+New Opponent Attacks:
+- Tunnel, Rhythm Mania, Line Break
+
 Bug Fixes:
 - Shovel should no longer destroy indestructible walls (dark rows, light rows, line breaks, etc...)
-- Better performance on 
+- Better performances on map generation and effects
 
 ----------------------------------------------------------------------------------------------------------------
 
