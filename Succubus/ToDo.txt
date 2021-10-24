@@ -39,7 +39,8 @@ Currently working on:
 - One earth opponent per new attacks
 - Do some little notes flying around
 - Test Line break with pause
-- Set Rhythm mania on all inputs except special and item (I think ?)
+
+- Issue of piece goint y + 1 when hard dropping cause of rhythm mania
 
 ----------------------------------------------------------------------------------------------------------------
 
