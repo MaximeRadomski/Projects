@@ -24,12 +24,10 @@ Bug:
 
 New Features:
 - also soft-drop arr and das would be pog too
-- Tetris Effect Zone feature (item)
 - free trainning start at level
 
 Currently working on:
 - More invisible pieces and vision block attacks
-- Rythm Mania Attack
 - Test Scissor Jack
 - Test new _hasGate
 - Test new tunnel attack
@@ -37,8 +35,6 @@ Currently working on:
 - Test Shovel on dark rows and other indestructile rows
 - One hell opponent per new attacks
 - One earth opponent per new attacks
-- Do some little notes flying around
-- Test Line break with pause
 
 - Issue of piece goint y + 1 when hard dropping cause of rhythm mania
 
