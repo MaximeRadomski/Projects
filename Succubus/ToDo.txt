@@ -35,8 +35,7 @@ Currently working on:
 - Test Shovel on dark rows and other indestructile rows
 - One hell opponent per new attacks
 - One earth opponent per new attacks
-
-- Issue of piece goint y + 1 when hard dropping cause of rhythm mania
+? Better forced block generation
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -68,10 +67,18 @@ Changed Target Tattoo (once again)
 - better, faster, stronger, but...
 - ... now fills up to 4 single holes in the playfield. The amount get +4 on each level up.
 Changed Kinky Boots (finally):
-- Now increases gate attacks wideness by 1 blocks, and more blocks per level
+- Now increases gate attacks wideness by 1 blocks, and more blocks per level.
+Nerfed Broken Sword:
+- critical hit chances 4% -> 2%.
+Nerfed Forgotten Dream
+- Max Level: 5 -> 2.
+Nerfed Hedgehog:
+- Max Level 10 -> 5.
+Nerfed Water Eye:
+- damages +50% -> +25%.
 
 New Tattoos:
-- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract
+- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract, Bass Guitar
 
 New Hell Opponents:
 - 
