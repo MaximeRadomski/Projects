@@ -30,6 +30,7 @@ Currently working on:
 - More invisible pieces and vision block attacks
 - Test Scissor Jack
 - Test new _hasGate
+- Test Instant Noodles
 - Test new tunnel attack
 - Test new "PlayerPrefsHelper.GetRealmTree().AttackBoost;"
 - Test Shovel on dark rows and other indestructile rows
