@@ -28,15 +28,9 @@ New Features:
 
 Currently working on:
 - More invisible pieces and vision block attacks
-- Test Scissor Jack
-- Test new _hasGate
-- Test Instant Noodles
-- Test new tunnel attack
-- Test new "PlayerPrefsHelper.GetRealmTree().AttackBoost;"
-- Test Shovel on dark rows and other indestructile rows
 - One hell opponent per new attacks
 - One earth opponent per new attacks
-? Better forced block generation
+- Create effects, things that last multiple fights
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -63,6 +57,8 @@ Buffed Cheese Cake:
 
 Buffed all difficulties:
 - Each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
+Better Forced Block generation:
+- Added blocks on a piece are now better randomly generated, resulting in more penta-hexa-hepta... pieces possibilities.
 
 Changed Target Tattoo (once again)
 - better, faster, stronger, but...
@@ -79,7 +75,7 @@ Nerfed Water Eye:
 - damages +50% -> +25%.
 
 New Tattoos:
-- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract, Bass Guitar
+- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract, Bass Guitar, Instant Noodles
 
 New Hell Opponents:
 - 
