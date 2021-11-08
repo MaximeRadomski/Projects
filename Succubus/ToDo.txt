@@ -33,6 +33,7 @@ Currently working on:
 - Create effects, things that last multiple fights
 - Make opponents stronger against weaker kinds
 - Test Pacts and pentagram again
+- Test PactZeroGravityOrSoftDrop with Gates attacks
 
 ----------------------------------------------------------------------------------------------------------------
 
