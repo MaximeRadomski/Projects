@@ -35,10 +35,14 @@ Currently working on:
 - Test Pacts and pentagram again
 - Test PactZeroGravityOrSoftDrop with Gates attacks
 - Dark Milk effect stays on UI after the mob dies
+- beware of sometimes, black rows altering with the remaining garbage rows of last fight
+- effects canceling themselves if called again (remaing bug)
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.04.006]
+Nerfed Impostor:
+- No more 1 line immunity.
 Buffed Warrior Soul:
 - Now has Haste
 - New Shrink Attack
