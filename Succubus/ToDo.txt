@@ -34,9 +34,8 @@ Currently working on:
 - Make opponents stronger against weaker kinds
 - Test Pacts and pentagram again
 - Test PactZeroGravityOrSoftDrop with Gates attacks
-- Dark Milk effect stays on UI after the mob dies
+- Test Dark Milk on Multiple Opponents
 - beware of sometimes, black rows altering with the remaining garbage rows of last fight
-- effects canceling themselves if called again (remaing bug)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -100,6 +99,7 @@ New Opponent Attacks:
 Bug Fixes:
 - Shovel should no longer destroy indestructible walls (dark rows, light rows, line breaks, etc...)
 - Better performances on map generation and effects
+- Effects should now stack properly
 
 ----------------------------------------------------------------------------------------------------------------
 
