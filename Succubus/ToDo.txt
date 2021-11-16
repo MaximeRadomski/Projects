@@ -30,8 +30,6 @@ Currently working on:
 - More invisible pieces and vision block attacks
 - One hell opponent per new attacks
 - One earth opponent per new attacks
-- Create effects, things that last multiple fights
-- Make opponents stronger against weaker kinds
 - Test Pacts and pentagram again
 - Test PactZeroGravityOrSoftDrop with Gates attacks
 - Test Dark Milk on Multiple Opponents
@@ -40,7 +38,7 @@ Currently working on:
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.04.006]
-Nerfed Impostor:
+Nerfed Impostor and Crusader:
 - No more 1 line immunity.
 Buffed Warrior Soul:
 - Now has Haste
@@ -65,11 +63,14 @@ Buffed Cheese Cake:
 Buffed all difficulties:
 - Starting from Normal Difficulty, your playfield is now reseted only after a boss fight. Otherwise, you keep your last locked pieces from fights to fights.
 - Each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
+- Opponents from a superior realm to your character's one now hits stronger.
 Better Forced Block generation:
 - Added blocks on a piece are now better randomly generated, resulting in more penta-hexa-hepta... pieces possibilities.
 Fixed bug in Gameplay Settings menu:
 - You are now able to reset to default settings.
 
+New Game Mechanic:
+- Pacts: Effects giving you a bonus and a malus for a variable number of fights.
 Changed Target Tattoo (once again)
 - better, faster, stronger, but...
 - ... now fills up to 4 single holes in the playfield. The amount get +4 on each level up.
@@ -84,8 +85,11 @@ Nerfed Hedgehog:
 Nerfed Water Eye:
 - damages +50% -> +25%.
 
+New Pacts:
+- Devoted Apostle, Failed Baptism, Hellish Idolatry, Small Paradise, Divine Resurection, False Testimony, Polarised Temperance, Righteous Sacrifice, Short Rapture, Cursed Prophet, Lusty Patriarch, Envious Messiah, Instant Epiphany, Altar of Purity, Dishonest Sermon, Pleasant Tribulation, Unexpected Revelation, Sinful Divinity, Arousing Disguise, Reprisable Justice
+
 New Tattoos:
-- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract, Bass Guitar, Instant Noodles
+- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract, Bass Guitar, Instant Noodles, Black Hole, Butterfly Knife, Holy Mantle, Logic Gate
 
 New Hell Opponents:
 - 
