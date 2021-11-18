@@ -11,6 +11,7 @@
 - Add Jonas into credits
 - Génération de personnages
 - Unlock new Tattoos and Items after each realm
+- Own bip for angels
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -41,24 +42,27 @@ Currently working on:
 Nerfed Impostor and Crusader:
 - No more 1 line immunity.
 Buffed Warrior Soul:
-- Now has Haste
-- New Shrink Attack
+- Now has Haste.
+- New Shrink Attack.
 Buffed Living bible:
-- HpMax 20 -> 30
-- Cooldown 10 -> 5
-Buffed Beginner monk
-- HpMax 80 -> 100
+- HpMax 20 -> 30.
+- Cooldown 10 -> 5.
+Buffed Beginner monk:
+- HpMax 80 -> 100.
 Buffed Monk:
-- HpMax 120 -> 150
+- HpMax 120 -> 150.
 Buffed Nun:
-- HpMax 120 -> 150
+- HpMax 120 -> 150.
 Buffed Punished Sinner:
-- HpMax 180 -> 200
+- HpMax 180 -> 200.
 Buffed Lost Cherub:
-- HpMax 80 -> 120
+- HpMax 80 -> 120.
 Buffed Cheese Cake:
-- HpMax 88 -> 130
-- New Vision Block Attack
+- HpMax 88 -> 130.
+- New Vision Block Attack.
+Altered Headbanger:
+- Now has haste.
+- Second attack: Waste Rows -> Rhythm Mania.
 
 Buffed all difficulties:
 - Starting from Normal Difficulty, your playfield is now reseted only after a boss fight. Otherwise, you keep your last locked pieces from fights to fights.
@@ -95,7 +99,7 @@ New Hell Opponents:
 - Lava Mole, Fallen Angel
 
 New Earth Opponents:
-- Worm Ghast, Igorr
+- Worm Ghast, Igorr, Organist
 
 New Opponent Attacks:
 - Tunnel, Rhythm Mania, Line Break
