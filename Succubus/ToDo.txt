@@ -12,6 +12,8 @@
 - Génération de personnages
 - Unlock new Tattoos and Items after each realm
 - Own bip for angels
+- Save current fight progress if quitting. But launching a stronger opponent.
+- Prepare cinematic for each time we get to a realm for the first time (intro -> earth -> heaven -> victory).
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -34,6 +36,7 @@ Currently working on:
 - Test Pacts and pentagram again
 - Test PactZeroGravityOrSoftDrop with Gates attacks
 - Test Dark Milk on Multiple Opponents
+- Pause game but pieces keeps falling
 - beware of sometimes, black rows altering with the remaining garbage rows of last fight
 
 ----------------------------------------------------------------------------------------------------------------
