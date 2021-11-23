@@ -34,10 +34,10 @@ Currently working on:
 - One hell opponent per new attacks
 - One earth opponent per new attacks
 - Test Pacts and pentagram again
-- Test PactZeroGravityOrSoftDrop with Gates attacks
 - Test Dark Milk on Multiple Opponents
 - Pause game but pieces keeps falling
 - beware of sometimes, black rows altering with the remaining garbage rows of last fight
+- trash-bin might bug with new remaining playfield
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -77,7 +77,10 @@ Fixed bug in Gameplay Settings menu:
 - You are now able to reset to default settings.
 
 New Game Mechanic:
-- Pacts: Effects giving you a bonus and a malus for a variable number of fights.
+Ragequit or crash handled:
+- Quitting the game while in a fight now saves your progression. You will be able to continue your ascension again but the opponent on the current fight will just be a little buffed in order to prevent any abuses.
+Pacts:
+- Effects giving you a bonus and a malus for a variable number of fights.
 Changed Target Tattoo (once again)
 - better, faster, stronger, but...
 - ... now fills up to 4 single holes in the playfield. The amount get +4 on each level up.
