@@ -39,6 +39,8 @@ Currently working on:
 - beware of sometimes, black rows altering with the remaining garbage rows of last fight
 - trash-bin might bug with new remaining playfield
 
+- Tattoo : do more damage when your special cooldown is over
+
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.04.006]
