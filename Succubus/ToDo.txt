@@ -30,16 +30,11 @@ New Features:
 - free trainning start at level
 
 Currently working on:
-- More invisible pieces and vision block attacks
-- One hell opponent per new attacks
-- One earth opponent per new attacks
-- Test Pacts and pentagram again
-- Test Dark Milk on Multiple Opponents
 - Pause game but pieces keeps falling
 - beware of sometimes, black rows altering with the remaining garbage rows of last fight
 - trash-bin might bug with new remaining playfield
 
-- Tattoo : do more damage when your special cooldown is over
+- Tattoo: +50% damage but your quadruple lines deals no damage.
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -69,14 +64,23 @@ Altered Headbanger:
 - Now has haste.
 - Second attack: Waste Rows -> Rhythm Mania.
 
+Buffed Floppyredoux:
+- Cooldown 8 -> 7.
+Buffed Sir Vixid:
+- Cooldown 14 -> 11.
+
 Buffed all difficulties:
 - Starting from Normal Difficulty, your playfield is now reseted only after a boss fight. Otherwise, you keep your last locked pieces from fights to fights.
 - Each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
 - Opponents from a superior realm to your character's one now hits stronger.
+Buffed Perfect Clears:
+- Double your damage (yes, if you perfect while doing a Twist, it quadruples your damage).
 Better Forced Block generation:
 - Added blocks on a piece are now better randomly generated, resulting in more penta-hexa-hepta... pieces possibilities.
 Fixed bug in Gameplay Settings menu:
 - You are now able to reset to default settings.
+New Cinematic:
+- Triggers after completing Hell realm.
 
 New Game Mechanic:
 Ragequit or crash handled:
@@ -95,7 +99,7 @@ Nerfed Forgotten Dream
 Nerfed Hedgehog:
 - Max Level 10 -> 5.
 Nerfed Water Eye:
-- damages +50% -> +25%.
+- damage +50% -> +25%.
 
 New Pacts:
 - Devoted Apostle, Failed Baptism, Hellish Idolatry, Small Paradise, Divine Resurection, False Testimony, Polarised Temperance, Righteous Sacrifice, Short Rapture, Cursed Prophet, Lusty Patriarch, Envious Messiah, Instant Epiphany, Altar of Purity, Dishonest Sermon, Pleasant Tribulation, Unexpected Revelation, Sinful Divinity, Arousing Disguise, Reprisable Justice
@@ -255,12 +259,12 @@ Security:
 - CheatEngine check for High Scores.
 
 Buffed Bloodlust Blade:
-- Damages x4 -> x6.
+- Damage x4 -> x6.
 Buffed Edam:
 - Special Cooldown 10 -> 8.
 
 Nerfed Perfect Clear:
-- Damages on perfect 9999 -> 100.
+- Damage on perfect 9999 -> 100.
 - Max level 1 -> 4.
 Nerfed Origin Step:
 - The first step of a level is no longer a 4 ways but a random one.
