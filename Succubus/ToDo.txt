@@ -12,8 +12,6 @@
 - Génération de personnages
 - Unlock new Tattoos and Items after each realm
 - Own bip for angels
-- Save current fight progress if quitting. But launching a stronger opponent.
-- Prepare cinematic for each time we get to a realm for the first time (intro -> earth -> heaven -> victory).
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -32,94 +30,107 @@ New Features:
 Currently working on:
 - Pause game but pieces keeps falling
 - beware of sometimes, black rows altering with the remaining garbage rows of last fight
-- trash-bin might bug with new remaining playfield
-
-- Tattoo: +50% damage but your quadruple lines deals no damage.
+- trash-bin might bug with new remaining playfield (?)
+- test new Slav Wheel (Dark Rows).
+- test RhythmIndicatorBhv with a pause (might cancel the beat).
+- check global d'une ascension histoire de voir si le nouveau GameplayOnHold marche comme attendu (et prévient le but des pièces qui continuent de tomber même en pause... marde).
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.04.006]
 Nerfed Impostor and Crusader:
-- No more 1 line immunity.
+- no more 1 line immunity.
 Buffed Warrior Soul:
-- Now has Haste.
-- New Shrink Attack.
+- now has Haste.
+- new Shrink Attack.
 Buffed Living bible:
-- HpMax 20 -> 30.
-- Cooldown 10 -> 5.
+- hpMax 20 -> 30.
+- cooldown 10 -> 5.
 Buffed Beginner monk:
-- HpMax 80 -> 100.
+- hpMax 80 -> 100.
 Buffed Monk:
-- HpMax 120 -> 150.
+- hpMax 120 -> 150.
 Buffed Nun:
-- HpMax 120 -> 150.
+- hpMax 120 -> 150.
 Buffed Punished Sinner:
-- HpMax 180 -> 200.
+- hpMax 180 -> 200.
 Buffed Lost Cherub:
-- HpMax 80 -> 120.
+- hpMax 80 -> 120.
 Buffed Cheese Cake:
-- HpMax 88 -> 130.
-- New Vision Block Attack.
+- hpMax 88 -> 130.
+- new Vision Block Attack.
 Altered Headbanger:
-- Now has haste.
-- Second attack: Waste Rows -> Rhythm Mania.
+- now has haste.
+- second attack: Waste Rows -> Rhythm Mania.
 
 Buffed Floppyredoux:
-- Cooldown 8 -> 7.
+- cooldown 8 -> 7.
 Buffed Sir Vixid:
-- Cooldown 14 -> 11.
+- cooldown 14 -> 11.
+
+Buffed Grenade:
+- cooldown 12 -> 10.
+Buffed Demon Blood:
+- cooldown 8 -> 6.
+Buffed Holy Water:
+- cooldown 8 -> 6.
+Buffed Bloodlust Blade:
+- reducing playfield height by 2 -> 1.
 
 Buffed all difficulties:
-- Starting from Normal Difficulty, your playfield is now reseted only after a boss fight. Otherwise, you keep your last locked pieces from fights to fights.
-- Each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
-- Opponents from a superior realm to your character's one now hits stronger.
+- starting from Normal Difficulty, your playfield is now reseted only after a boss fight. Otherwise, you keep your last locked pieces from fights to fights.
+- each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
+- opponents from a superior realm to your character's one now hits stronger.
 Buffed Perfect Clears:
-- Double your damage (yes, if you perfect while doing a Twist, it quadruples your damage).
+- double your damage (yes, if you perfect while doing a Twist, it quadruples your damage).
 Better Forced Block generation:
-- Added blocks on a piece are now better randomly generated, resulting in more penta-hexa-hepta... pieces possibilities.
+- added blocks on a piece are now better randomly generated, resulting in more penta-hexa-hepta... pieces possibilities.
 Fixed bug in Gameplay Settings menu:
-- You are now able to reset to default settings.
+- you are now able to reset to default settings.
 New Cinematic:
-- Triggers after completing Hell realm.
+- triggers after completing Hell realm.
 
 New Game Mechanic:
 Ragequit or crash handled:
-- Quitting the game while in a fight now saves your progression. You will be able to continue your ascension again but the opponent on the current fight will just be a little buffed in order to prevent any abuses.
+- quitting the game while in a fight now saves your progression. You will be able to continue your ascension again but the opponent on the current fight will just be a little buffed in order to prevent any abuses.
 Pacts:
-- Effects giving you a bonus and a malus for a variable number of fights.
+- effects giving you a bonus and a malus for a variable number of fights.
 Changed Target Tattoo (once again)
 - better, faster, stronger, but...
 - ... now fills up to 4 single holes in the playfield. The amount get +4 on each level up.
 Changed Kinky Boots (finally):
-- Now increases gate attacks wideness by 1 blocks, and more blocks per level.
+- now increases gate attacks wideness by 1 blocks, and more blocks per level.
 Nerfed Broken Sword:
 - critical hit chances 4% -> 2%.
 Nerfed Forgotten Dream
-- Max Level: 5 -> 2.
+- max Level: 5 -> 2.
 Nerfed Hedgehog:
-- Max Level 10 -> 5.
+- max Level 10 -> 5.
 Nerfed Water Eye:
 - damage +50% -> +25%.
+Buffed Crown of Thorns:
+- damage 20% of attack -> 50% of attack.
+- max level 5 -> 2.
 
 New Pacts:
 - Devoted Apostle, Failed Baptism, Hellish Idolatry, Small Paradise, Divine Resurection, False Testimony, Polarised Temperance, Righteous Sacrifice, Short Rapture, Cursed Prophet, Lusty Patriarch, Envious Messiah, Instant Epiphany, Altar of Purity, Dishonest Sermon, Pleasant Tribulation, Unexpected Revelation, Sinful Divinity, Arousing Disguise, Reprisable Justice
 
 New Tattoos:
-- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract, Bass Guitar, Instant Noodles, Black Hole, Butterfly Knife, Holy Mantle, Logic Gate
+- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract, Bass Guitar, Instant Noodles, Black Hole, Butterfly Knife, Holy Mantle, Logic Gate, Ying, Yang, Vanilla Ice Cream, Chocolate Ice Cream, No Ragrets
 
 New Hell Opponents:
 - Lava Mole, Fallen Angel
 
 New Earth Opponents:
-- Worm Ghast, Igorr, Organist
+- Worm Ghast, Igorr, Organist, Angelic Messenger
 
 New Opponent Attacks:
 - Tunnel, Rhythm Mania, Line Break
 
 Bug Fixes:
 - Shovel should no longer destroy indestructible walls (dark rows, light rows, line breaks, etc...)
-- Better performances on map generation and effects
-- Effects should now stack properly
+- better performances on map generation and effects
+- effects should now stack properly
 
 ----------------------------------------------------------------------------------------------------------------
 
