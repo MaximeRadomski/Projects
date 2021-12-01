@@ -34,12 +34,20 @@ Currently working on:
 - test new Slav Wheel (Dark Rows).
 - test RhythmIndicatorBhv with a pause (might cancel the beat).
 - check global d'une ascension histoire de voir si le nouveau GameplayOnHold marche comme attendu (et prévient le but des pièces qui continuent de tomber même en pause... marde).
+- Sword Tip: for each attack that is not a critical hit, you gain 1% crit chance.
+- Whetstone: +30% crit damages.
+- Paper Cut: -2 attack, +20% crit chance.
+- +2% crit chance, 15% crit damage.
+- Training free must keep actual playfield.
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.04.006]
 Nerfed Impostor and Crusader:
 - no more 1 line immunity.
+Nerfed Flag Wielder:
+- screwed pieces 3 -> 2.
+- cooldown 7 -> 8.
 Buffed Warrior Soul:
 - now has Haste.
 - new Shrink Attack.
