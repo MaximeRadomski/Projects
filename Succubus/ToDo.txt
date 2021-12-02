@@ -31,18 +31,16 @@ Currently working on:
 - Pause game but pieces keeps falling
 - beware of sometimes, black rows altering with the remaining garbage rows of last fight
 - trash-bin might bug with new remaining playfield (?)
-- test new Slav Wheel (Dark Rows).
 - test RhythmIndicatorBhv with a pause (might cancel the beat).
 - check global d'une ascension histoire de voir si le nouveau GameplayOnHold marche comme attendu (et prévient le but des pièces qui continuent de tomber même en pause... marde).
-- Sword Tip: for each attack that is not a critical hit, you gain 1% crit chance.
-- Whetstone: +30% crit damages.
-- Paper Cut: -2 attack, +20% crit chance.
-- +2% crit chance, 15% crit damage.
-- Training free must keep actual playfield.
+- check last tattoos
+- new shelter attack (maybe)
 
 ----------------------------------------------------------------------------------------------------------------
 
--> [01.04.006]
+-> [01.05.001]
+
+[OPPONENTS]
 Nerfed Impostor and Crusader:
 - no more 1 line immunity.
 Nerfed Flag Wielder:
@@ -71,11 +69,13 @@ Altered Headbanger:
 - now has haste.
 - second attack: Waste Rows -> Rhythm Mania.
 
+[CHARACTERS]
 Buffed Floppyredoux:
 - cooldown 8 -> 7.
 Buffed Sir Vixid:
 - cooldown 14 -> 11.
 
+[ITEMS]
 Buffed Grenade:
 - cooldown 12 -> 10.
 Buffed Demon Blood:
@@ -85,24 +85,7 @@ Buffed Holy Water:
 Buffed Bloodlust Blade:
 - reducing playfield height by 2 -> 1.
 
-Buffed all difficulties:
-- starting from Normal Difficulty, your playfield is now reseted only after a boss fight. Otherwise, you keep your last locked pieces from fights to fights.
-- each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
-- opponents from a superior realm to your character's one now hits stronger.
-Buffed Perfect Clears:
-- double your damage (yes, if you perfect while doing a Twist, it quadruples your damage).
-Better Forced Block generation:
-- added blocks on a piece are now better randomly generated, resulting in more penta-hexa-hepta... pieces possibilities.
-Fixed bug in Gameplay Settings menu:
-- you are now able to reset to default settings.
-New Cinematic:
-- triggers after completing Hell realm.
-
-New Game Mechanic:
-Ragequit or crash handled:
-- quitting the game while in a fight now saves your progression. You will be able to continue your ascension again but the opponent on the current fight will just be a little buffed in order to prevent any abuses.
-Pacts:
-- effects giving you a bonus and a malus for a variable number of fights.
+[TATTOOS]
 Changed Target Tattoo (once again)
 - better, faster, stronger, but...
 - ... now fills up to 4 single holes in the playfield. The amount get +4 on each level up.
@@ -120,21 +103,37 @@ Buffed Crown of Thorns:
 - damage 20% of attack -> 50% of attack.
 - max level 5 -> 2.
 
+[GAME MECHANICS]
+Buffed all difficulties:
+- starting from Normal Difficulty, your playfield is now reseted only after a boss fight. Otherwise, you keep your last locked pieces from fights to fights.
+- each difficulty, starting from Hard, adds +15% of "difficulty weight" resulting in more opponents or more difficult ones per step.
+- opponents from a superior realm to your character's one now hits stronger.
+Buffed Perfect Clears:
+- double your damage (yes, if you perfect while doing a Twist, it quadruples your damage).
+Better Forced Block generation:
+- added blocks on a piece are now better randomly generated, resulting in more penta-hexa-hepta... pieces possibilities.
+Fixed bug in Gameplay Settings menu:
+- you are now able to reset to default settings.
+New Cinematic:
+- triggers after completing Hell realm.
+Ragequit or crash handled:
+- quitting the game while in a fight now saves your progression. You will be able to continue your ascension again but the opponent on the current fight will just be a little buffed in order to prevent any abuses.
+Pacts:
+- effects giving you a bonus and a malus for a variable number of fights.
+
+[NEW STUFF]
 New Pacts:
 - Devoted Apostle, Failed Baptism, Hellish Idolatry, Small Paradise, Divine Resurection, False Testimony, Polarised Temperance, Righteous Sacrifice, Short Rapture, Cursed Prophet, Lusty Patriarch, Envious Messiah, Instant Epiphany, Altar of Purity, Dishonest Sermon, Pleasant Tribulation, Unexpected Revelation, Sinful Divinity, Arousing Disguise, Reprisable Justice
-
 New Tattoos:
-- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract, Bass Guitar, Instant Noodles, Black Hole, Butterfly Knife, Holy Mantle, Logic Gate, Ying, Yang, Vanilla Ice Cream, Chocolate Ice Cream, No Ragrets
-
+- Diamond, Scissor Jack, Basketball Hoop, Slav Wheel, Devil's Contract, Bass Guitar, Instant Noodles, Black Hole, Butterfly Knife, Holy Mantle, Logic Gate, Ying, Yang, Vanilla Ice Cream, Chocolate Ice Cream, No Ragrets, Sword Tip, Whetstone, Paper Cut, Double Ended Dog Toy
 New Hell Opponents:
 - Lava Mole, Fallen Angel
-
 New Earth Opponents:
 - Worm Ghast, Igorr, Organist, Angelic Messenger
-
 New Opponent Attacks:
 - Tunnel, Rhythm Mania, Line Break
 
+[BUGS]
 Bug Fixes:
 - Shovel should no longer destroy indestructible walls (dark rows, light rows, line breaks, etc...)
 - better performances on map generation and effects
