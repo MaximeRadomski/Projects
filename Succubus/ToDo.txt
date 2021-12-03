@@ -31,9 +31,7 @@ Currently working on:
 - Pause game but pieces keeps falling
 - beware of sometimes, black rows altering with the remaining garbage rows of last fight
 - trash-bin might bug with new remaining playfield (?)
-- test RhythmIndicatorBhv with a pause (might cancel the beat).
 - check global d'une ascension histoire de voir si le nouveau GameplayOnHold marche comme attendu (et prévient le but des pièces qui continuent de tomber même en pause... marde).
-- check last tattoos
 - new shelter attack (maybe)
 
 ----------------------------------------------------------------------------------------------------------------
