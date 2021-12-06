@@ -33,7 +33,7 @@ Currently working on:
 - trash-bin might bug with new remaining playfield (?)
 - check global d'une ascension histoire de voir si le nouveau GameplayOnHold marche comme attendu (et prévient le but des pièces qui continuent de tomber même en pause... marde).
 - new shelter attack (maybe)
-- maybe nerf cheese cake
+- custom skins...
 
 ----------------------------------------------------------------------------------------------------------------
 
