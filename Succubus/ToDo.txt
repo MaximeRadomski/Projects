@@ -28,12 +28,7 @@ New Features:
 - free trainning start at level
 
 Currently working on:
-- Pause game but pieces keeps falling
-- beware of sometimes, black rows altering with the remaining garbage rows of last fight
-- trash-bin might bug with new remaining playfield (?)
-- check global d'une ascension histoire de voir si le nouveau GameplayOnHold marche comme attendu (et prévient le but des pièces qui continuent de tomber même en pause... marde).
 - new shelter attack (maybe)
-- custom skins...
 
 ----------------------------------------------------------------------------------------------------------------
 
