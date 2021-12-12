@@ -30,6 +30,8 @@ New Features:
 Currently working on:
 - new shelter attack (maybe)
 - faire un meilleur DateFormat pour les logs
+- PC horizontal mode?
+- New songs
 
 ----------------------------------------------------------------------------------------------------------------
 
