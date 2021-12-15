@@ -28,15 +28,20 @@ New Features:
 - free trainning start at level
 
 Currently working on:
-- new shelter attack (maybe)
-- faire un meilleur DateFormat pour les logs
-- PC horizontal mode?
+? new shelter attack
+? new suspension attack
+- PC horizontal mode? create a new camera with exact size and switch with current one
 - New songs
-- logs in a file : https://stackoverflow.com/questions/46272657/how-to-export-android-unity-error-and-debug-logs-to-file
+- Linux Version
+- more lore, always more
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.05.002]
+New log system:
+- Errors, Warnings and Assets are now logged in a txt file and sent whenever you start the game or every ten minutes of playing.
+- Location on Windows: 
+- Location on Android: 
 
 ----------------------------------------------------------------------------------------------------------------
 
