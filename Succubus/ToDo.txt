@@ -28,20 +28,20 @@ New Features:
 - free trainning start at level
 
 Currently working on:
-? new shelter attack
-? new suspension attack
-- PC horizontal mode? create a new camera with exact size and switch with current one
 - New songs
 - Linux Version
 - more lore, always more
+- Heaven
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.05.002]
 New log system:
-- Errors, Warnings and Assets are now logged in a txt file and sent whenever you start the game or every ten minutes of playing.
-- Location on Windows: 
-- Location on Android: 
+- Errors and Warnings are now logged in a txt file and sent whenever you start the game or every ten minutes of playing.
+- Location on Windows: "{DISK}\Users\{USERNAME}\AppData\LocalLow\{USERNAME}\InfidHells\Logs.txt"
+- Location on Android: "{PHONE}\Android\data\com.Abject.InfidHells\files\Logs.txt"
+New Opponent Attacks:
+- Shelter, Ascension
 
 ----------------------------------------------------------------------------------------------------------------
 
