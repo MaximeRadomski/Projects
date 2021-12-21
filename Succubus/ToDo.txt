@@ -38,10 +38,14 @@ Currently working on:
 -> [01.05.002]
 New log system:
 - Errors and Warnings are now logged in a txt file and sent whenever you start the game or every ten minutes of playing.
-- Location on Windows: "{DISK}\Users\{USERNAME}\AppData\LocalLow\{USERNAME}\InfidHells\Logs.txt"
+- Location on Windows: "{DISK}\Users\{USERNAME}\AppData\LocalLow\Abject\InfidHells\Logs.txt"
 - Location on Android: "{PHONE}\Android\data\com.Abject.InfidHells\files\Logs.txt"
 New Opponent Attacks:
 - Shelter, Ascension
+More dialogs:
+- Phill, BOOM SLAYER, Fallen Angel, Impostor, Stan, The Pop
+New Tattoos:
+- S-R-S (Stupid Rotation System)
 
 ----------------------------------------------------------------------------------------------------------------
 
