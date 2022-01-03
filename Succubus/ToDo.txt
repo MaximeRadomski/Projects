@@ -26,6 +26,12 @@ Bug:
 New Features:
 - also soft-drop arr and das would be pog too
 - free trainning start at level
+- tattoo: cancels your pieces locking if you keep moving or rotating them.
+- tattoo: negates any buffed attacks from opponents of your dominant realm.
+- tattoo: doing a twist buffed you next piece, which will do x2 damage if destroys lines.
+- pact: refills your item charges / can't use item next fight
+- Only two levels per realm now (switch between the two bosses (not randomly))
+- import new pacts sprites assets
 
 Currently working on:
 - New songs
@@ -36,6 +42,23 @@ Currently working on:
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.05.002]
+
+[GAME MECHANICS]
+- Only two levels per realm now.
+
+[OPPONENTS]
+Nerfed Fallen Angel:
+- Cooldown 5 -> 7
+Nerfed Monk:
+- Haste true -> false.
+- Dark Rows 3 -> 2.
+
+[PACTS]
+Literally buffed all pacts (kinda):
+- They were too weak and not that good of an alternative for tattoos.
+New Pacts:
+- 
+
 New log system:
 - Errors and Warnings are now logged in a txt file and sent whenever you start the game or every ten minutes of playing.
 - Location on Windows: "{DISK}\Users\{USERNAME}\AppData\LocalLow\Abject\InfidHells\Logs.txt"
