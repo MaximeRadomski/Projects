@@ -33,6 +33,8 @@ New Features:
 - pact: refills your item charges / can't use item next fight
 - Only two levels per realm now (switch between the two bosses (not randomly))
 - import new pacts sprites assets
+- mettre voix à tous les anges
+- bit crusher
 
 Currently working on:
 - New songs
@@ -45,7 +47,9 @@ Currently working on:
 -> [01.05.002]
 
 [GAME MECHANICS]
-- Only two levels per realm now.
+Only two levels per realm now:
+- Runs were too long, and the ability to farm tattoos in Hell was making following realms less challenging.
+- You now encounter randomly one of the two first boss in the first level of a realm, and the big realm boss in the second level.
 
 [OPPONENTS]
 Nerfed Fallen Angel:
