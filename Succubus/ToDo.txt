@@ -57,6 +57,8 @@ Nerfed Fallen Angel:
 Nerfed Monk:
 - Haste true -> false.
 - Dark Rows 3 -> 2.
+New Earth Opponents:
+- 12 Heaven Opponents + 3 Bosses
 
 [PACTS]
 Literally buffed all pacts (kinda):
@@ -64,6 +66,7 @@ Literally buffed all pacts (kinda):
 New Pacts:
 - 
 
+[NEW STUFF]
 New log system:
 - Errors and Warnings are now logged in a txt file and sent whenever you start the game or every ten minutes of playing.
 - Location on Windows: "{DISK}\Users\{USERNAME}\AppData\LocalLow\Abject\InfidHells\Logs.txt"
