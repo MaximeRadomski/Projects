@@ -26,10 +26,6 @@ Bug:
 New Features:
 - also soft-drop arr and das would be pog too
 - free trainning start at level
-- knife juggle: cancels your pieces locking if you keep moving or rotating them.
-- Top Hat: negates any buffed attacks from opponents of your dominant realm.
-- Ace of Clubs: doing a twist buffs you next piece, resulting in x2 damage if lines are destroyed with thus piece.
-- : your special looses one cooldown point every 20 pieces locked. (-2 each level)
 - pact: refills your item charges / can't use item next fight
 - Only two levels per realm now (switch between the two bosses (not randomly))
 - import new pacts sprites assets
@@ -62,9 +58,15 @@ New Earth Opponents:
 
 [PACTS]
 Literally buffed all pacts (kinda):
-- They were too weak and not that good of an alternative for tattoos.
-New Pacts:
+- They were too weak and not that good of an alternative for tattoos (even in late game, where they are supposed to shine).
+New Pact:
 - 
+
+[TATTOOS]
+Brand of Sacrifice:
+- Rarity Common -> Rare
+New Tattoos:
+- S-R-S (Stupid Rotation System), Knives Juggling, Top Hat, Ace of Clubs, Cookie
 
 [NEW STUFF]
 New log system:
@@ -75,8 +77,6 @@ New Opponent Attacks:
 - Shelter, Ascension
 More dialogs:
 - Phill, BOOM SLAYER, Fallen Angel, Impostor, Stan, The Pop
-New Tattoos:
-- S-R-S (Stupid Rotation System)
 
 ----------------------------------------------------------------------------------------------------------------
 
