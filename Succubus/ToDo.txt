@@ -26,15 +26,11 @@ Bug:
 New Features:
 - also soft-drop arr and das would be pog too
 - free trainning start at level
-- pact: refills your item charges / can't use item next fight
-- Only two levels per realm now (switch between the two bosses (not randomly))
-- import new pacts sprites assets
-- mettre voix à tous les anges
 - bit crusher
-
-Currently working on:
 - New songs
 - Linux Version
+
+Currently working on:
 - more lore, always more
 - Heaven
 
