@@ -30,12 +30,6 @@ New Features:
 - New songs
 - Linux Version
 
-Currently working on:
-- more lore, always more
-- Heaven
-- Rhyth Mania left right holded
-- reduce tree prices
-
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.05.002]
@@ -57,14 +51,28 @@ New Earth Opponents:
 [PACTS]
 Literally buffed all pacts (kinda):
 - They were too weak and not that good of an alternative for tattoos (even in late game, where they are supposed to shine).
-New Pact:
-- 
+
+[REALM TREE]
+Nerfed resources costs:
+- base code 5 -> 3.
 
 [TATTOOS]
 Brand of Sacrifice:
 - Rarity Common -> Rare
 New Tattoos:
 - S-R-S (Stupid Rotation System), Knives Juggling, Top Hat, Ace of Clubs, Cookie
+
+[ITEMS]
+Mask of Duality:
+- Deals 4 times your damages -> 8 times your damages.
+Holy Water:
+- clears 4 waste rows -> 6 waste rows.
+Dark Blood:
+- clears 4 dark rows -> 6 dark rows.
+Voodoo Doll:
+- deals no damage -> deals 10 damage.
+Forbidden Camembert:
+- Cooldown 16 -> 8.
 
 [NEW STUFF]
 New log system:
