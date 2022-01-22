@@ -30,6 +30,12 @@ New Features:
 - New songs
 - Linux Version
 
+In Progress:
+- Hello, I used the D6 item (randomise enemy attack) on Stan the boss that blocks the way, and , well, the D6 didn't reroll attacks, but it disabled its attacking completely, is it a bug?
+- Tester le D6 à fonnnnd
+- Tester la Tattoo Target
+- GameplayControler.AttackDrone() cause null reference exception
+
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.06.002]
