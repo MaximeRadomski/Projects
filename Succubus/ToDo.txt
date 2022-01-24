@@ -36,6 +36,30 @@ In Progress:
 - Tester la Tattoo Target
 - Attack drone, attack drone, attack drone
 - GameplayControler.AttackDrone() cause null reference exception
+- Lore scene
+- Double tapping item cancels locking
+- Copyright change login music
+- Title screen: please say "click/tap/press any key/press any button to continue"
+- fast forward cinematics instead of skipping it
+- test Door of Truth
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.06.003]
+
+[OPPONENTS]
+Nerfed Karen:
+- Gravity Level 12 -> 9
+
+[ITEMS]
+Buffed Door of Truth:
+- In a fight, resurrects you once -> up to three times.
+Nerfed Holy Grenade:
+- Cooldown 25 -> 40.
+
+[GAME MECHANICS]
+Increased minimum difficulty weight of rooms:
+- Base Weight 40 -> 50.
 
 ----------------------------------------------------------------------------------------------------------------
 
