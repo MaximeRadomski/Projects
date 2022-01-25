@@ -1,17 +1,7 @@
 
 [TODO]
 
-- https://www.reddit.com/r/oddlyspecific/
-- Half Zones
-- Create your opponent
-- Attack which change your current piece
-- Attack which rotate your current piece
-- Attacks that drasticly reduce the fps
-- Attack which create a small random offset on each of the playfield blocks
 - Add Jonas into credits
-- Génération de personnages
-- Unlock new Tattoos and Items after each realm
-- Own bip for angels
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -31,17 +21,12 @@ New Features:
 - Linux Version
 
 In Progress:
-- Hello, I used the D6 item (randomise enemy attack) on Stan the boss that blocks the way, and , well, the D6 didn't reroll attacks, but it disabled its attacking completely, is it a bug?
 - Tester le D6 à fonnnnd
-- Tester la Tattoo Target
+? Tester la Tattoo Target avec IsClassic Pieces
 - Attack drone, attack drone, attack drone
-- GameplayControler.AttackDrone() cause null reference exception
-- Lore scene
-- Double tapping item cancels locking
 - Copyright change login music
-- Title screen: please say "click/tap/press any key/press any button to continue"
-- fast forward cinematics instead of skipping it
-- test Door of Truth
+- test consecutive
+- test pacts might affect training (cancel hold, etc...)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -49,7 +34,7 @@ In Progress:
 
 [OPPONENTS]
 Nerfed Karen:
-- Gravity Level 12 -> 9
+- Gravity Level 12 -> 9.
 
 [ITEMS]
 Buffed Door of Truth:
@@ -57,9 +42,34 @@ Buffed Door of Truth:
 Nerfed Holy Grenade:
 - Cooldown 25 -> 40.
 
+[TATTOOS]
+Upgradable indication:
+- You now get an information at the end of a tattoo description in order to know if it is upgradable.
+
 [GAME MECHANICS]
 Increased minimum difficulty weight of rooms:
 - Base Weight 40 -> 50.
+Lootable characters:
+- You can now loot characters on every level except on the first one of Hell.
+Loot Encounter Percentages:
+- Tattoos 30% -> 35%.
+- Pacts 25% -> 20%.
+
+[MISCELLANEOUS]
+New flashing text on splash screen:
+- PC: Press Any Button To Continue.
+- Android: Touch Anywhere To Continue.
+Lore Scene:
+- You now skip parts of the cinematic bit by bit instead of skipping all of it.
+- The first frame fades from dark to light quicker.
+Consecutive lines:
+- Popping text "cc" -> "consecutive".
+
+[FIXED BUGS]
+Lore Scene:
+- Going back from the character selection to the first lore intro was creating some weird bugs. It now makes you watch the intro once again before sending you to the character selection again.
+Gameplay wise:
+- Item activation was canceling pieces locking if it was done during its cooldown phase.
 
 ----------------------------------------------------------------------------------------------------------------
 
