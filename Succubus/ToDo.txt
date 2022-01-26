@@ -22,11 +22,9 @@ New Features:
 
 In Progress:
 - Tester le D6 à fonnnnd
-? Tester la Tattoo Target avec IsClassic Pieces
 - Attack drone, attack drone, attack drone
 - Copyright change login music
-- test consecutive
-- test pacts might affect training (cancel hold, etc...)
+- Headbanger rhythm attack first and vibration pattern on each beat
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -41,6 +39,8 @@ Buffed Door of Truth:
 - In a fight, resurrects you once -> up to three times.
 Nerfed Holy Grenade:
 - Cooldown 25 -> 40.
+New Item:
+- Gender Swap Coffin
 
 [TATTOOS]
 Upgradable indication:
@@ -70,6 +70,8 @@ Lore Scene:
 - Going back from the character selection to the first lore intro was creating some weird bugs. It now makes you watch the intro once again before sending you to the character selection again.
 Gameplay wise:
 - Item activation was canceling pieces locking if it was done during its cooldown phase.
+Target Tattoo:
+- Wasn't working with the Classic pieces skin.
 
 ----------------------------------------------------------------------------------------------------------------
 
