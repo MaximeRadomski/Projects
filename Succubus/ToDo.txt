@@ -24,7 +24,16 @@ In Progress:
 - Tester le D6 à fonnnnd
 - Attack drone, attack drone, attack drone
 - Copyright change login music
-- Headbanger rhythm attack first and vibration pattern on each beat
+- Vibration on the gameplay buttons by default
+- Remove Baccheres score
+- Cooldowns in info in int
+- Check King Seraphim Dialogs (I think hell is instead earth)
+- Death Scyte need to be boosted because there are fewer realms
+- Wrong cinematic after First boss
+- Reset dialogs after run end
+- Resources in steps scene overlapped by steps
+- Nerf pope
+- Less life on raptor
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -54,6 +63,8 @@ Lootable characters:
 Loot Encounter Percentages:
 - Tattoos 30% -> 35%.
 - Pacts 25% -> 20%.
+Nerfed Rhythm Attack:
+- From now you cannot get more than one empty line per beat missed.
 
 [MISCELLANEOUS]
 New flashing text on splash screen:
@@ -64,6 +75,10 @@ Lore Scene:
 - The first frame fades from dark to light quicker.
 Consecutive lines:
 - Popping text "cc" -> "consecutive".
+Rhythm Mania attacks:
+- Phone now vibrates on each beat.
+Manage Rhythm Mania:
+- Added an option, in Audio Settings, to enable or disable Rhythm Mania attacks. Replacing them by Partition Attacks.
 
 [FIXED BUGS]
 Lore Scene:
