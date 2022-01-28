@@ -24,16 +24,62 @@ In Progress:
 - Tester le D6 à fonnnnd
 - Attack drone, attack drone, attack drone
 - Copyright change login music
-- Vibration on the gameplay buttons by default
 - Remove Baccheres score
-- Cooldowns in info in int
-- Check King Seraphim Dialogs (I think hell is instead earth)
-- Death Scyte need to be boosted because there are fewer realms
-- Wrong cinematic after First boss
-- Reset dialogs after run end
-- Resources in steps scene overlapped by steps
-- Nerf pope
-- Less life on raptor
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.06.004]
+
+[OPPONENTS] (Nerf of all Heaven)
+Nerfed The Pop:
+- Cooldown 12 -> 14.
+Nerfed Watcher:
+- Cooldown 3 -> 4.
+Nerfed Lower Throne:
+- Cooldown 4 -> 5.
+Nerfed Shield of Light:
+- HP 500 -> 400.
+Nerfed Angel:
+- HP 500 -> 400.
+Nerfed Kinky Angel:
+- HP 400 -> 350.
+Nerfed Duality Angel:
+- HP 350 -> 300.
+- Cooldown 4 -> 5.
+Nerfed Harambe:
+- HP 800 -> 500.
+Nerfed Prophet Raptor:
+- HP 400 -> 350.
+
+[MISCELLANEOUS]
+Vibrations:
+- Gameplay buttons now vibrates on mobile.
+Opponent Cooldowns:
+- Better rounding of cooldowns in info screen.
+Air Pieces:
+- opacity 15% -> 10%.
+
+[ITEMS]
+Buffed Death Scythe:
+- Favorable percents during ascension = 20 -> 50.
+
+[TATTOOS]
+Buffed Trinity:
+- Bonus damage 10% -> 15%.
+Buffed Eclipse Glasses:
+- Now also reduces the number of pieces needed by Intoxication and Mirror attacks.
+
+[FIXED BUGS]
+Lore Scene:
+- Wasn't triggering when you started an endless new ascension, but after the first boss of the first level of Hell.
+Dialogs:
+- Dialogs weren't properly reset after an end of a run.
+Navigation Service:
+- After a while, some scenes were not charging anymore.
+UI:
+- Resources in Steps scene were overlapped by steps sprites.
+Life Roulette & Repentance:
+- Resurrection from those skill tree nodes were reseted for each fight.
 
 ----------------------------------------------------------------------------------------------------------------
 
