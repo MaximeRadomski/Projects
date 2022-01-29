@@ -25,6 +25,7 @@ In Progress:
 - Attack drone, attack drone, attack drone
 - Copyright change login music
 - Remove Baccheres score
+- Test SpecialOketiPoketi on DOG
 
 ----------------------------------------------------------------------------------------------------------------
 
