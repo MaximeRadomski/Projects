@@ -81,6 +81,8 @@ UI:
 - Resources in Steps scene were overlapped by steps sprites.
 Life Roulette & Repentance:
 - Resurrection from those skill tree nodes were reseted for each fight.
+Info Menu:
+- On Android, a bug of camera happened when switching from menu, to info, to game scene back again.
 
 ----------------------------------------------------------------------------------------------------------------
 
