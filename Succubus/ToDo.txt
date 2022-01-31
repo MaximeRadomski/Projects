@@ -26,6 +26,11 @@ In Progress:
 - Copyright change login music
 - Remove Baccheres score
 - Test SpecialOketiPoketi on DOG
+- Which Hat - Tattoo removing a block from pieces and adding 1 damage
+- Handle Cache.HeightLimiter with Cache.LineBreakCount
+- Action on popup ends
+- Loot box -> special always no cooldown
+- Oketi Poketi drop ghodt mid air
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -35,18 +40,24 @@ In Progress:
 Nerfed The Pop:
 - Cooldown 12 -> 14.
 Nerfed Watcher:
-- Cooldown 3 -> 4.
+- Cooldown 3 -> 6.
+nefred Truthful Truth:
+- Cooldown 5 -> 6.
 Nerfed Lower Throne:
-- Cooldown 4 -> 5.
+- Cooldown 4 -> 6.
 Nerfed Shield of Light:
 - HP 500 -> 400.
+Nerfed Cherub:
+- Cooldown 5 -> 7.
 Nerfed Angel:
 - HP 500 -> 400.
+- Cooldown 5 -> 7.
 Nerfed Kinky Angel:
 - HP 400 -> 350.
+- Cooldown 3 -> 6.
 Nerfed Duality Angel:
 - HP 350 -> 300.
-- Cooldown 4 -> 5.
+- Cooldown 4 -> 6.
 Nerfed Harambe:
 - HP 800 -> 500.
 Nerfed Prophet Raptor:
@@ -60,17 +71,29 @@ Opponent Cooldowns:
 Air Pieces:
 - opacity 15% -> 10%.
 
+[OPPONENTS]
+New Opponent:
+- Heaven's reject
+
 [ITEMS]
 Buffed Death Scythe:
 - Favorable percents during ascension = 20 -> 50.
+Nerfed Moon Gun:
+- playfield height malus for 20 pieces -> 40 pieces.
 
 [TATTOOS]
 Buffed Trinity:
 - Bonus damage 10% -> 15%.
 Buffed Eclipse Glasses:
 - Now also reduces the number of pieces needed by Intoxication and Mirror attacks.
+Buffed Pentagram:
+- percent additional block 10% -> 5%.
+Buffed No Ragrets:
+- Fixed 60 damage -> 69 damage.
 
 [FIXED BUGS]
+Ascension Attack:
+- Was ascending Dark, Light and Line-Break Rows.
 Lore Scene:
 - Wasn't triggering when you started an endless new ascension, but after the first boss of the first level of Hell.
 Dialogs:
