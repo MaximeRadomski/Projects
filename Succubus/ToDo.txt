@@ -25,12 +25,14 @@ In Progress:
 - Attack drone, attack drone, attack drone
 - Copyright change login music
 - Remove Baccheres score
-- Test SpecialOketiPoketi on DOG
-- Which Hat - Tattoo removing a block from pieces and adding 1 damage
-- Handle Cache.HeightLimiter with Cache.LineBreakCount
-- Action on popup ends
-- Loot box -> special always no cooldown
-- Oketi Poketi drop ghodt mid air
+
+- Which Hat LOGO
+? Test SpecialOketiPoketi with Devil's Contract
+? Test SpecialOketiPoketi tout court (le invokenextframe)
+	- Oketi Poketi drop ghost mid air
+	- Replace ExecuteAfter(0.0f) by InvokeNextFrame
+? Test Loot box -> special always no cooldown
+? Test OnAcceptGiveUp
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -82,8 +84,15 @@ Nerfed Moon Gun:
 - playfield height malus for 20 pieces -> 40 pieces.
 
 [TATTOOS]
+Buffed Tribal:
+- Bonus damage: 10% -> 15%
+- Max Level 5 -> 4;
 Buffed Trinity:
-- Bonus damage 10% -> 15%.
+- Bonus damage 10% -> 25%.
+- Max Level 5 -> 4;
+Buffed Heavy Weight:
+- Bonus damage 20% -> 25%.
+- Max Level 5 -> 4;
 Buffed Eclipse Glasses:
 - Now also reduces the number of pieces needed by Intoxication and Mirror attacks.
 Buffed Pentagram:
