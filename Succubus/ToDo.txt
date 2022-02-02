@@ -26,14 +26,6 @@ In Progress:
 - Copyright change login music
 - Remove Baccheres score
 
-- Which Hat LOGO
-? Test SpecialOketiPoketi with Devil's Contract
-? Test SpecialOketiPoketi tout court (le invokenextframe)
-	- Oketi Poketi drop ghost mid air
-	- Replace ExecuteAfter(0.0f) by InvokeNextFrame
-? Test Loot box -> special always no cooldown
-? Test OnAcceptGiveUp
-
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.06.004]
@@ -79,7 +71,7 @@ New Opponent:
 
 [ITEMS]
 Buffed Death Scythe:
-- Favorable percents during ascension = 20 -> 50.
+- Favorable percent during ascension = 20 -> 50.
 Nerfed Moon Gun:
 - playfield height malus for 20 pieces -> 40 pieces.
 
@@ -115,6 +107,8 @@ Life Roulette & Repentance:
 - Resurrection from those skill tree nodes were reseted for each fight.
 Info Menu:
 - On Android, a bug of camera happened when switching from menu, to info, to game scene back again.
+Special Oketi Poketi:
+- A bug was happening when you had Devil's Contract in your tattoos.
 
 ----------------------------------------------------------------------------------------------------------------
 
