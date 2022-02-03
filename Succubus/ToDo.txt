@@ -26,6 +26,24 @@ In Progress:
 - Copyright change login music
 - Remove Baccheres score
 
+- effects : sides pondering (comparer ce que j'ai fait avec tetr.io et tester avec Heavy Weight)
+
+- more stuff around specials and realm tree stuff
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.06.005]
+
+[GAME MECHANICS]
+O Piece rotation:
+- The O Piece now rotates like any other piece.
+
+[FIXED BUGS]
+Rotation point:
+- The rotation point was doing weird stuff when used with classic pieces skin.
+Saved Playfield:
+- Force quitting during training was saving the playfield for the run later.
+
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.06.004]
