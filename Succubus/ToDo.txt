@@ -24,11 +24,9 @@ In Progress:
 - Tester le D6 à fonnnnd
 - Attack drone, attack drone, attack drone
 - Copyright change login music
-- Remove Baccheres score
-
-- effects : sides pondering (comparer ce que j'ai fait avec tetr.io et tester avec Heavy Weight)
-
+- Remove Baccheres score (falsified scores)
 - more stuff around specials and realm tree stuff
+- remake coin
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -37,6 +35,22 @@ In Progress:
 [GAME MECHANICS]
 O Piece rotation:
 - The O Piece now rotates like any other piece.
+
+[ITEMS]
+Nerfed D6:
+- Cooldown 8 -> 16.
+Rethought Flipping Coin:
+25% chance of: - canceling opponent next attack. - canceling your special cooldown. - canceling your last piece. - canceling 2 random lines.
+
+[TATTOOS]
+Nerfed Heavy Weight:
+- Always pounds the playfield from now.
+New Tattoos:
+- Ugly Sneaker.
+
+[MISCELLANEOUS]
+Pounding screen:
+- There is some poundering now.
 
 [FIXED BUGS]
 Rotation point:
