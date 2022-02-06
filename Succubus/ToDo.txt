@@ -26,7 +26,7 @@ In Progress:
 - Copyright change login music
 - Remove Baccheres score (falsified scores)
 - more stuff around specials and realm tree stuff
-- remake coin
+- "Mirror of Erised" earth opponent
 
 ----------------------------------------------------------------------------------------------------------------
 
