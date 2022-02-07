@@ -1,0 +1,103 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "Accounts": {
+      "$Account":{
+        ".read": true,
+        ".write": "newData.exists()",
+        ".validate": "newData.hasChildren(['PlayerName', 'Password', 'SecretQuestion', 'SecretAnswer', 'CreationDate', 'Type', 'Checksum'])",
+        "PlayerName": {
+          ".validate": "!data.exists() || data.val() == newData.val()"
+        },
+        "SecretQuestion": {
+          ".validate": "!data.exists() || data.val() == newData.val()"
+        },
+        "SecretAnswer": {
+          ".validate": "!data.exists() || data.val() == newData.val()"
+        },
+        "Type": {
+          ".validate": "!data.exists() || data.val() == newData.val()"
+        },
+        "Checksum": {
+          ".validate": "!data.exists() || data.val() == newData.val()"
+        }
+      },
+    },
+    "HighScores": {
+      ".read": true,
+      ".indexOn": ["Score", "PlayerName"],
+      "$HighScore": {
+        ".read": true,
+        ".write": "newData.exists()",
+        ".indexOn": ["Score", "PlayerName"],
+        ".validate": "newData.hasChildren(['PlayerName', 'Score', 'CharacterId', 'Level', 'Lines', 'Pieces'])",
+        "PlayerName": {
+          ".validate" : "root.child('Accounts/' + newData.val()).exists() && !root.child('BlackList/' + newData.val()).exists()"
+        },
+        "Score": {
+          ".validate": "(data.val() == null && newData.isNumber()) || (newData.isNumber() && (newData.val() >= data.val() || (data.parent().hasChild('Falsified') && data.parent().child('Falsified').val() == 1) && newData.val() < 999999999 && newData.val() < 8000 * (newData.parent().child('Level').val() * (newData.parent().child('Level').val() + 1) / 2) )"
+        },
+        "CharacterId": {
+          ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() < 12"
+        },
+        "Level": {
+          ".validate": "newData.isNumber() && newData.val() <= 99 && (newData.val() * 10) - (newData.parent().child('Lines').val()) >= 0"
+        },
+        "Lines": {
+          ".validate": "newData.isNumber() && newData.val() <= 999"
+        },
+        "Pieces": {
+          ".validate": "newData.isNumber() && newData.val() <= 9999"
+        }
+      }
+    },
+    "HighScoresOldSchool": {
+      ".read": true,
+      ".indexOn": ["Score", "PlayerName"],
+      "$HighScore": {
+        ".read": true,
+        ".write": "newData.exists()",
+        ".indexOn": ["Score", "PlayerName"],
+        ".validate": "newData.hasChildren(['PlayerName', 'Score', 'CharacterId', 'Level', 'Lines', 'Pieces'])",
+        "PlayerName": {
+          ".validate" : "root.child('Accounts/' + newData.val()).exists() && !root.child('BlackList/' + newData.val()).exists()"
+        },
+        "Score": {
+          ".validate": "(data.val() == null && newData.isNumber()) || (newData.isNumber() && newData.val() >= data.val() && newData.val() < 999999999 && newData.val() < 8000 * (newData.parent().child('Level').val() * (newData.parent().child('Level').val() + 1) / 2) )"
+        },
+        "CharacterId": {
+          ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() < 12"
+        },
+        "Level": {
+          ".validate": "newData.isNumber() && newData.val() <= 99 && (newData.val() * 10) - (newData.parent().child('Lines').val()) >= 0"
+        },
+        "Lines": {
+          ".validate": "newData.isNumber() && newData.val() <= 999"
+        },
+        "Pieces": {
+          ".validate": "newData.isNumber() && newData.val() <= 9999"
+        }
+      }
+    },
+    "System": {
+      ".read": false,
+    	".write": false,
+      "LastUpdatedVersion": {
+        ".read": true
+      }
+    },
+    "Logs": {
+      ".read": false,
+      ".write": true
+    },
+    "Progressions": {
+      ".read": true,
+      ".write": true
+    },
+    "BlackList": {
+      ".read": false,
+      ".write": true
+    }
+  }
+}

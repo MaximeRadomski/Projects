@@ -24,9 +24,7 @@ In Progress:
 - Tester le D6 à fonnnnd
 - Attack drone, attack drone, attack drone
 - Copyright change login music
-- Remove Baccheres score (falsified scores)
 - more stuff around specials and realm tree stuff
-- "Mirror of Erised" earth opponent
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -48,6 +46,10 @@ Nerfed Heavy Weight:
 New Tattoos:
 - Ugly Sneaker.
 
+[OPPONENTS]
+New Opponents:
+- Mirror of Erised
+
 [MISCELLANEOUS]
 Pounding screen:
 - There is some poundering now.
@@ -57,6 +59,9 @@ Rotation point:
 - The rotation point was doing weird stuff when used with classic pieces skin.
 Saved Playfield:
 - Force quitting during training was saving the playfield for the run later.
+Realm Tree Lock Delay:
+- Doesn't affect Free Training anymore.
+- I might have to delete some of the scores done by some players having using this exploit... Sorry guys...
 
 ----------------------------------------------------------------------------------------------------------------
 
