@@ -21,10 +21,12 @@ New Features:
 - Linux Version
 
 In Progress:
-- Tester le D6 à fonnnnd
 - Attack drone, attack drone, attack drone
 - Copyright change login music
-- more stuff around specials and realm tree stuff
+- more stuff around specials and skill tree stuff
+- Tattoo Seed of Light : Boosts your Skill Tree bonuses by 25%.
+- Tattoo Seed of Darkness : Gives you +8 damage but negates all your Skill Tree bonuses.
+- Gatling Gun : Deals 20% of your attack every 10 locked pieces.
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -37,8 +39,9 @@ O Piece rotation:
 [ITEMS]
 Nerfed D6:
 - Cooldown 8 -> 16.
+- Increased the random range of possibilities, resulting in an increase of bad outcomes.
 Rethought Flipping Coin:
-25% chance of: - canceling opponent next attack. - canceling your special cooldown. - canceling your last piece. - canceling 2 random lines.
+- 25% chance of: - canceling opponent next attack. - canceling your special cooldown. - canceling your last piece. - canceling 2 random lines.
 
 [TATTOOS]
 Nerfed Heavy Weight:
