@@ -27,6 +27,7 @@ In Progress:
 - Tattoo Seed of Light : Boosts your Skill Tree bonuses by 25%.
 - Tattoo Seed of Darkness : Gives you +8 damage but negates all your Skill Tree bonuses.
 - Gatling Gun : Deals 20% of your attack every 10 locked pieces.
+- Tattoo +1damage + 2% crit chance + 3% crit damage
 
 ----------------------------------------------------------------------------------------------------------------
 
