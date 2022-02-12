@@ -30,6 +30,8 @@ In Progress:
 - Tattoo +1damage + 2% crit chance + 3% crit damage
 - Lower Heaven HP (once again)
 - Make air pieces more visible (one again)
+- I guess I'll nerf the overall difficulty again. My idea right now is to add 2 seconds of cooldown to every opponent in the game, and reduce the gravity by 50%.
+- I'm just wondering if it will be enough
 
 ----------------------------------------------------------------------------------------------------------------
 
