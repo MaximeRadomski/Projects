@@ -28,10 +28,9 @@ In Progress:
 - Tattoo Seed of Darkness : Gives you +8 damage but negates all your Skill Tree bonuses.
 - Gatling Gun : Deals 20% of your attack every 10 locked pieces.
 - Tattoo +1damage + 2% crit chance + 3% crit damage
+- Tattoo +1 damage, -1 gravity level
 - Lower Heaven HP (once again)
 - Make air pieces more visible (one again)
-- I guess I'll nerf the overall difficulty again. My idea right now is to add 2 seconds of cooldown to every opponent in the game, and reduce the gravity by 50%.
-- I'm just wondering if it will be enough
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -55,6 +54,10 @@ New Tattoos:
 - Ugly Sneaker.
 
 [OPPONENTS]
+Nerfed ALL Opponents:
+- Hell and Earth Cooldowns (x) -> (x + 2).
+- Heaven Cooldowns (x) -> (x + 3).
+- Gravity Levels (x) -> (x * 0.75).
 New Opponents:
 - Mirror of Erised
 
