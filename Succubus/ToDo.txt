@@ -27,9 +27,12 @@ In Progress:
 - Tattoo +1damage + 2% crit chance + 3% crit damage
 - Tattoo +1 damage, -1 gravity level
 - Lower Heaven HP (once again)
-- I can still try to nerf the attack by setting the gate one or two lines higher.
+- Lore lore lore
 - Boost tattoos canceling opponents attacks
-- Apply difficulty harder on easy
+	- Test Tattoo Kinky Boots
+- New Item: Arcade Button
+	- For the next 4 seconds, each locked piece does 10 damage.
+- character.CanDoubleJump = true; to another item
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -49,6 +52,10 @@ Rethought Flipping Coin:
 [TATTOOS]
 Nerfed Heavy Weight:
 - Always pounds the playfield from now.
+Boosted Crown Of Thorns:
+- Thorns damage percent 50% -> 100%.
+Boosted Kinky Boots:
+- Now also does 50% Thorns damage percent.
 New Tattoos:
 - Ugly Sneaker.
 
@@ -57,10 +64,18 @@ Nerfed ALL Opponents:
 - Hell and Earth Cooldowns (x) -> (x + 2).
 - Heaven Cooldowns (x) -> (x + 3).
 - Gravity Levels (x) -> (x * 0.75).
+Nerfed Stan:
+- New Weakness: Combos
 New Opponents:
 - Mirror of Erised
 
+[ATTACKS]
+Nerfed Gate Attacks:
+- Available empty lines under gate 2 -> 4.
+
 [MISCELLANEOUS]
+Reduced the increase of realms' weight:
+- Per realm +50% -> +30%.
 Pounding screen:
 - There is some poundering now.
 
