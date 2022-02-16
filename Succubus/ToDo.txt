@@ -26,10 +26,11 @@ In Progress:
 - more stuff around specials and skill tree stuff
 - Tattoo +1damage + 2% crit chance + 3% crit damage
 - Tattoo +1 damage, -1 gravity level
-- Lower Heaven HP (once again)
 - Lore lore lore
 - Boost tattoos canceling opponents attacks
 	- Test Tattoo Kinky Boots
+	- Test Tattoo Thermal Goggles
+	- Test Tattoo X-Ray Glasses
 - New Item: Arcade Button
 	- For the next 4 seconds, each locked piece does 10 damage.
 - character.CanDoubleJump = true; to another item
@@ -56,8 +57,13 @@ Boosted Crown Of Thorns:
 - Thorns damage percent 50% -> 100%.
 Boosted Kinky Boots:
 - Now also does 50% Thorns damage percent.
+Boosted X-Ray Glasses:
+- Now also gives 15% dodge chance.
+Boosted Insulating Foam:
+- Fills waste holes for 1 column -> 2 columns.
+- Max Level 8 -> 4.
 New Tattoos:
-- Ugly Sneaker.
+- Ugly Sneaker, Seed of Light, Seed of Darkness, Gatling Gun.
 
 [OPPONENTS]
 Nerfed ALL Opponents:
