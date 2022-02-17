@@ -24,24 +24,13 @@ In Progress:
 - Attack drone, attack drone, attack drone
 - Copyright change login music
 - more stuff around specials and skill tree stuff
-- Tattoo +1damage + 2% crit chance + 3% crit damage
 - Tattoo +1 damage, -1 gravity level
 - Lore lore lore
-- Boost tattoos canceling opponents attacks
-	- Test Tattoo Kinky Boots
-	- Test Tattoo Thermal Goggles
-	- Test Tattoo X-Ray Glasses
-- New Item: Arcade Button
-	- For the next 4 seconds, each locked piece does 10 damage.
-- character.CanDoubleJump = true; to another item
+- character.CanDoubleJump = true; make it way stronger and assign it to another tattoo
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.06.005]
-
-[GAME MECHANICS]
-O Piece rotation:
-- The O Piece now rotates like any other piece.
 
 [ITEMS]
 Nerfed D6:
@@ -80,10 +69,12 @@ Nerfed Gate Attacks:
 - Available empty lines under gate 2 -> 4.
 
 [MISCELLANEOUS]
+O Piece rotation:
+- The O Piece now rotates like any other piece.
 Reduced the increase of realms' weight:
 - Per realm +50% -> +30%.
 Pounding screen:
-- There is some poundering now.
+- There is some pounding now.
 
 [FIXED BUGS]
 Rotation point:
