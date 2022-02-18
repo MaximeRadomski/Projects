@@ -38,6 +38,8 @@ Nerfed D6:
 - Increased the random range of possibilities, resulting in an increase of bad outcomes.
 Rethought Flipping Coin:
 - 25% chance of: - canceling opponent next attack. - canceling your special cooldown. - canceling your last piece. - canceling 2 random lines.
+New Items:
+- Arcade Button, .
 
 [TATTOOS]
 Nerfed Heavy Weight:
@@ -52,13 +54,15 @@ Boosted Insulating Foam:
 - Fills waste holes for 1 column -> 2 columns.
 - Max Level 8 -> 4.
 New Tattoos:
-- Ugly Sneaker, Seed of Light, Seed of Darkness, Gatling Gun.
+- Ugly Sneaker, Seed of Light, Seed of Darkness, Gatling Gun, Podium, Whac-A-Mole, Dark Sign.
 
 [OPPONENTS]
 Nerfed ALL Opponents:
 - Hell and Earth Cooldowns (x) -> (x + 2).
 - Heaven Cooldowns (x) -> (x + 3).
 - Gravity Levels (x) -> (x * 0.75).
+Easier Opponents on Mobile:
+- All opponents get +2 seconds of cooldown and -4 levels of gravity.
 Nerfed Stan:
 - New Weakness: Combos
 New Opponents:
