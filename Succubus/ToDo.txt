@@ -24,7 +24,6 @@ In Progress:
 - Attack drone, attack drone, attack drone
 - Copyright change login music
 - Lore lore lore
-- Equivalent of shielded tears in Isaac
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -36,8 +35,8 @@ Nerfed D6:
 - Increased the random range of possibilities, resulting in an increase of bad outcomes.
 Rethought Flipping Coin:
 - 25% chance of: - canceling opponent next attack. - canceling your special cooldown. - canceling your last piece. - canceling 2 random lines.
-New Items:
-- Arcade Button, .
+New Item:
+- Arcade Button.
 
 [TATTOOS]
 Nerfed Heavy Weight:
@@ -65,8 +64,8 @@ Nerfed Stan:
 - New Weakness: Combos
 Nerfed Stained Glass:
 - Forced Blocks 4 -> 3
-New Opponents:
-- Mirror of Erised
+New Opponent:
+- Mirror of Erised.
 
 [ATTACKS]
 Nerfed Gate Attacks:
