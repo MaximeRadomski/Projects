@@ -23,7 +23,7 @@ New Features:
 In Progress:
 - Attack drone, attack drone, attack drone
 - Copyright change login music
-- Lore lore lore
+- Lexicon or some stuff in the how to play scene (more explainations in general)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -78,6 +78,8 @@ Reduced the increase of realms' weight:
 - Per realm +50% -> +30%.
 Pounding screen:
 - There is some pounding now.
+New Lore:
+- More dialogs and usually less verbose ones after multiple altercations with an opponent.
 
 [FIXED BUGS]
 Rotation point:
