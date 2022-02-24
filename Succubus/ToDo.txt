@@ -27,6 +27,14 @@ In Progress:
 
 ----------------------------------------------------------------------------------------------------------------
 
+-> [01.06.006]
+
+[FIXED BUGS]
+Splash screen press anything:
+- Now works by pressing anything as the title suggest, instead of just registering the selection key.
+
+----------------------------------------------------------------------------------------------------------------
+
 -> [01.06.005]
 
 [ITEMS]
