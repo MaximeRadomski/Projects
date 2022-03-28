@@ -1,0 +1,38 @@
+
+   M M M M M
+	-------
+	| | | |
+	-------
+	| | | |
+	-------
+	| | | |
+	-------
+   M M M M M
+
+- L'idéal: un deck de 54 cartes
+	- 10 cartes de mana double (food and gear)
+	- 22 cartes identiques
+
+- Chaque joueur commence avec ses 5 cartes de mana sur la table, mais retournées. N'en gagne une nouvelle qu'à chaque tour
+	- Donc premier tout -> les deux joueurs n'ont qu'1 de mana. Deuxième tour -> 2, etc...
+- Jouer une carte coute en mana (unité, sort, piège, etc)
+- Chaque autre action coute un mana (piocher, changer de mana, avancer une unité, faire attaquer une unité)
+- Les points de vie de chaque joueur sont ses points de mana. Lorsqu'un joueur en perd au moins 3, il a perdu la partie.
+- Les unités peuvent attaquer:
+	- une case devant
+	- une case en diagonale
+	- la deuxième case devant
+	- 
+
+
+FANNY:
+- Une carte de The Mind tombe sur le sol quand je mélange, elle veut savor laquelle c'est.
+- Le pendule pour me diagnostiquer, qu'elle fait à l'écart dans sa chambre.
+- Ne donne pas les résultats tout de suite, me fait faire un exercice de kiné (soit disant) et manipule les résultats de manière super arbitraire.
+- Donne le résultats du pendule juste après l'exercice de kiné, comme par hasard ça coïncide.
+- A systématiquement une raison à tout, tout le temps, sur n'importe quel domaine d'expertise.
+	- Les corps parallèles (corps physique, psychique, le chakra, toussa toussa)
+	- Nos vies antérieurs, l'hérédité et la réincarnération qui joue sur notre vie actuelle.
+	- Les ondes les ondes les ondes... Tout n'est qu'onde et magnétisme, et elle comme par hasard, est super sensible à ces ondes et ce magnétisme
+- Dit qu'elle voit plus de choses que le commun des mortels, nottemment en regardant le ciel.
+- Complotiste de ouf : on nous ment, tout nous est caché

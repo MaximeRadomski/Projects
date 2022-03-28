@@ -1,0 +1,90 @@
+#branding, #colophon, #comments, #searchform, .entry-header, .entry-meta, .assistive-text, .nav-previous, .wp-smiley, .widget, select
+{
+    display: none;
+}
+
+body {
+    margin: 0!important;
+}
+
+.main-container, .buttons-container {
+    display: flex;
+    justify-content: center;
+}
+
+img#index-main-image {
+    width: 40%;
+    margin: 9% 0px 3% 0px;
+}
+
+img.index-button-img {
+    width: 100%;
+}
+
+button.index-button {
+    margin-inline: 3%;
+    padding: 0;
+    background: transparent;
+    border: transparent;
+    width: 12%;
+}
+
+img.index-button-img:hover {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+
+img.size-full {
+    width: 100%;
+    height: auto;
+    margin: -2px 0 -2px 0;
+}
+
+.full-screen-video {
+    margin: -2px 0 -2px 0;
+}
+
+p {
+    margin: 0 0 -5px 0;
+}
+
+p a {
+    pointer-events: none;
+}
+
+.error404 {
+    background-image: url(http://radom.phpnet.org/wp-content/uploads/2022/03/404.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.coming-soon {
+    color: white;
+    font-size: 250%;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-stretch: expanded;
+    text-align: center;
+    margin-top: 20%;
+}
+
+@media (pointer:none), (pointer:coarse) {
+    .main-container, .buttons-container {
+        display: block;
+        text-align: center;
+    }
+
+    img#index-main-image {
+        width: 80%;
+        margin: 6% 0px 1% 0px;
+    }
+
+    button.index-button {
+        width: 30%;
+    }
+
+    .error404 {
+        background-size: 300%;
+    }
+}
