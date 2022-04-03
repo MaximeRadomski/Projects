@@ -29,6 +29,9 @@ In Progress:
 - I could add a menu after the skill tree to let you spend some surplus into bonuses
 - A cool thing could be a new kind of step, like a shop, available only if you reach a certain amount of resources, giving bonuses for the current run only. Like the friendly NPCs in Hades for example.
 - Horizontal mode mirrorable
+- Maybe there could be another NPC that would be a tattoo artist, and he would let you choose one of 3 tattoos to gain in exchange for something
+- android horizontal mode bug when returning from options
+- link settings to an account
 
 - Test Lurker Mechanic and possible coffin swap
 
