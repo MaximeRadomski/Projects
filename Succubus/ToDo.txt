@@ -32,6 +32,8 @@ In Progress:
 - Maybe there could be another NPC that would be a tattoo artist, and he would let you choose one of 3 tattoos to gain in exchange for something
 - android horizontal mode bug when returning from options
 - link settings to an account
+- Map tattoo still having issues? Damn...
+- Winning while Rhythm Mania halves music even after fight
 
 - Test Lurker Mechanic and possible coffin swap
 
