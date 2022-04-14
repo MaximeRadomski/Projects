@@ -54,6 +54,8 @@ Resources everywhere:
 - You now drops Resources whenever can't loot anything on a step, or choose not to.
 Tattoo consent:
 - You can now refuse to receive a tattoo. Resulting in a Resource drop.
+New Crit effect:
+- The same effect as Rhythm Mania one appears when you crit, in order to make it more obvious.
 
 [FIXED BUGS]
 Splash screen press anything:
