@@ -34,8 +34,10 @@ In Progress:
 - link settings to an account
 - Map tattoo still having issues? Damn...
 - Winning while Rhythm Mania halves music even after fight
+- Tattoo: Your weaker opponents start the fight with 10% less hp
+- something along the lines of "+2 damage but pieces have 5% chance of being old" or "Hell pieces deal +1 damage when clearing a line, +5% chance of pieces being from Hell instead of your regular type"
 
-- Test Lurker Mechanic and possible coffin swap
+- Finish Lurker Shop
 
 ----------------------------------------------------------------------------------------------------------------
 
