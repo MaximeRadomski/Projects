@@ -26,18 +26,12 @@ In Progress:
 - Lexicon or some stuff in the how to play scene (more explainations in general)
 - Show player stats (crit chance, etc, full list of bonuses colorcoded based on source)
 - I just died while I was in the menu. I wanted to switch to window mode, but when I came back, before I could press 'resume', I heard the death sound and got the message telling me my chance of rare stuff had increased. Here's the items I had, if it helps. The piece that was on screen when I paused was a 6 block arrow shaped piece, with +1 block from Pentagram and +1 block from the last enemy's attack (some angel because it was the Seed of Light tattoo encounter)
-- I could add a menu after the skill tree to let you spend some surplus into bonuses
-- A cool thing could be a new kind of step, like a shop, available only if you reach a certain amount of resources, giving bonuses for the current run only. Like the friendly NPCs in Hades for example.
 - Horizontal mode mirrorable
-- Maybe there could be another NPC that would be a tattoo artist, and he would let you choose one of 3 tattoos to gain in exchange for something
-- android horizontal mode bug when returning from options
 - link settings to an account
 - Map tattoo still having issues? Damn...
 - Winning while Rhythm Mania halves music even after fight
 - Tattoo: Your weaker opponents start the fight with 10% less hp
 - something along the lines of "+2 damage but pieces have 5% chance of being old" or "Hell pieces deal +1 damage when clearing a line, +5% chance of pieces being from Hell instead of your regular type"
-
-- Finish Lurker Shop
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -58,6 +52,9 @@ Tattoo consent:
 - You can now refuse to receive a tattoo. Resulting in a Resource drop.
 New Crit effect:
 - The same effect as Rhythm Mania one appears when you crit, in order to make it more obvious.
+Lurker Shop:
+- New Shop, appearing on the origin of each second level in a realm.
+- Here, you can upgrade a tattoo, remove a tattoo, trade resources, get a random boost, get a haircut, and clean your playield!
 
 [FIXED BUGS]
 Splash screen press anything:
@@ -68,6 +65,8 @@ Line Break + Perfect Clears:
 - Doing a Perfect Clear during a Line Break Attack was creating a weird overlapping of blocks.
 Non-Euclidean Coin:
 - The game was freezing if the item was used in an empty playfield.
+Android Horizontal mode:
+- When returning from options, the pause menu was out of focus.
 
 ----------------------------------------------------------------------------------------------------------------
 
