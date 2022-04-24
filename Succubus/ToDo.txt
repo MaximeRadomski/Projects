@@ -28,10 +28,11 @@ In Progress:
 - I just died while I was in the menu. I wanted to switch to window mode, but when I came back, before I could press 'resume', I heard the death sound and got the message telling me my chance of rare stuff had increased. Here's the items I had, if it helps. The piece that was on screen when I paused was a 6 block arrow shaped piece, with +1 block from Pentagram and +1 block from the last enemy's attack (some angel because it was the Seed of Light tattoo encounter)
 - Horizontal mode mirrorable
 - link settings to an account
-- Map tattoo still having issues? Damn...
 - Winning while Rhythm Mania halves music even after fight
 - Tattoo: Your weaker opponents start the fight with 10% less hp
 - something along the lines of "+2 damage but pieces have 5% chance of being old" or "Hell pieces deal +1 damage when clearing a line, +5% chance of pieces being from Hell instead of your regular type"
+
+- Map tattoo still having issues? Damn...
 
 ----------------------------------------------------------------------------------------------------------------
 
