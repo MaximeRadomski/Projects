@@ -1,4 +1,4 @@
-
+	
 [TODO]
 
 - Add Jonas into credits
@@ -31,8 +31,14 @@ In Progress:
 - Winning while Rhythm Mania halves music even after fight
 - Tattoo: Your weaker opponents start the fight with 10% less hp
 - something along the lines of "+2 damage but pieces have 5% chance of being old" or "Hell pieces deal +1 damage when clearing a line, +5% chance of pieces being from Hell instead of your regular type"
-
 - Map tattoo still having issues? Damn...
+
+- Scanline keyboard buttons do not work as intended
+
+To Test:
+- Uppercase in lurker haircut messages
+- Total resources wrongly calculated
+- More visible invisible blocks
 
 ----------------------------------------------------------------------------------------------------------------
 
