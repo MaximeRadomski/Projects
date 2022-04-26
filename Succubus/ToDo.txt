@@ -28,17 +28,11 @@ In Progress:
 - I just died while I was in the menu. I wanted to switch to window mode, but when I came back, before I could press 'resume', I heard the death sound and got the message telling me my chance of rare stuff had increased. Here's the items I had, if it helps. The piece that was on screen when I paused was a 6 block arrow shaped piece, with +1 block from Pentagram and +1 block from the last enemy's attack (some angel because it was the Seed of Light tattoo encounter)
 - Horizontal mode mirrorable
 - link settings to an account
-- Winning while Rhythm Mania halves music even after fight
 - Tattoo: Your weaker opponents start the fight with 10% less hp
 - something along the lines of "+2 damage but pieces have 5% chance of being old" or "Hell pieces deal +1 damage when clearing a line, +5% chance of pieces being from Hell instead of your regular type"
-- Map tattoo still having issues? Damn...
-
-- Scanline keyboard buttons do not work as intended
 
 To Test:
-- Uppercase in lurker haircut messages
-- Total resources wrongly calculated
-- More visible invisible blocks
+- Map tattoo still having issues? Damn...
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -62,6 +56,8 @@ New Crit effect:
 Lurker Shop:
 - New Shop, appearing on the origin of each second level in a realm.
 - Here, you can upgrade a tattoo, remove a tattoo, trade resources, get a random boost, get a haircut, and clean your playield!
+Air Pieces:
+- More visible pieces (from 15% to 20%).
 
 [FIXED BUGS]
 Splash screen press anything:
@@ -74,6 +70,10 @@ Non-Euclidean Coin:
 - The game was freezing if the item was used in an empty playfield.
 Android Horizontal mode:
 - When returning from options, the pause menu was out of focus.
+Keyboard Menu Input System:
+- Rework of the origin system in order to prevent bugs and fantom buttons clicks.
+Rhythm Mania:
+- Winning while Rhythm Mania halved music even after fight.
 
 ----------------------------------------------------------------------------------------------------------------
 
