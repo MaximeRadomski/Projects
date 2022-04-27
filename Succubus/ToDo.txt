@@ -26,13 +26,16 @@ In Progress:
 - Lexicon or some stuff in the how to play scene (more explainations in general)
 - Show player stats (crit chance, etc, full list of bonuses colorcoded based on source)
 - I just died while I was in the menu. I wanted to switch to window mode, but when I came back, before I could press 'resume', I heard the death sound and got the message telling me my chance of rare stuff had increased. Here's the items I had, if it helps. The piece that was on screen when I paused was a 6 block arrow shaped piece, with +1 block from Pentagram and +1 block from the last enemy's attack (some angel because it was the Seed of Light tattoo encounter)
-- Horizontal mode mirrorable
 - link settings to an account
-- Tattoo: Your weaker opponents start the fight with 10% less hp
-- something along the lines of "+2 damage but pieces have 5% chance of being old" or "Hell pieces deal +1 damage when clearing a line, +5% chance of pieces being from Hell instead of your regular type"
 
 To Test:
 - Map tattoo still having issues? Damn...
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.06.007]
+
+[]
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -41,10 +44,16 @@ To Test:
 [UI]
 More visible Crits:
 - Added some exclamation points near your character when you do crits.
+Horizontal mode orientation:
+- On Android, you can now choose the orientation of the Horizontal mode!
 
 [OPPONENTS]
 Nerfed Gate Attack:
 - Now updates its position on every piece locked, in order to keep a constant distance with your highest block.
+
+[TATTOOS]
+Gamegirl:
+- You deal +2 base damage, but 5% of your pieces are Old School ones.
 
 [MISCELLANEOUS]
 Resources everywhere:
