@@ -7,7 +7,7 @@
 
 [IN PROGRESS]
 
-Bug:
+Old but maybe still present bugs:
 ? looks like the bug where harddropping and bring up menu at the same time causes the game to not pause is still there
 ? Mobile only: In input on the left side, if you set something to the top-middle and go back, it'll disappear. I've not tested top-left or top-right. You have to set it again for it to stay.
 ? I think theres the bug with when you lock a piece in then pause the game it still plays in the background
@@ -20,7 +20,7 @@ New Features:
 - New songs
 - Linux Version
 
-In Progress:
+ToDo List:
 - Attack drone, attack drone, attack drone
 - Copyright change login music
 - Lexicon or some stuff in the how to play scene (more explainations in general)
@@ -28,14 +28,23 @@ In Progress:
 - I just died while I was in the menu. I wanted to switch to window mode, but when I came back, before I could press 'resume', I heard the death sound and got the message telling me my chance of rare stuff had increased. Here's the items I had, if it helps. The piece that was on screen when I paused was a 6 block arrow shaped piece, with +1 block from Pentagram and +1 block from the last enemy's attack (some angel because it was the Seed of Light tattoo encounter)
 - link settings to an account
 
+In Progress:
+- Lurker shop messing with resources value if none
+
 To Test:
 - Map tattoo still having issues? Damn...
+- StairwayToHeaven tattoo
 
 ----------------------------------------------------------------------------------------------------------------
 
 -> [01.06.007]
 
-[]
+[FIXED BUGS]
+Offline mode fucking up the buttons:
+- When you were playing offline, you would receive a popup at the very start of the game, messing with the inputs layer order.
+Lurker Shop Trading:
+- It was possible to create 1 resource from 0 resource.
+
 
 ----------------------------------------------------------------------------------------------------------------
 
