@@ -37,7 +37,21 @@ To Test:
 
 ----------------------------------------------------------------------------------------------------------------
 
+-> [01.06.008]
+
+[FIXED BUGS]
+Wisdom Special:
+- Now properly has an explosion sound on explosion.
+Lurker Shop:
+- An input bug was locking the Lurker Shop inside a dialog.
+
+----------------------------------------------------------------------------------------------------------------
+
 -> [01.06.007]
+
+[TATTOOS]
+Stairway To Heaven:
+- Gives you +2 lives, but you don't get to refuse loot or choose which step to go to anymore.
 
 [FIXED BUGS]
 Offline mode fucking up the buttons:
