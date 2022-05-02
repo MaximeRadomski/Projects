@@ -29,11 +29,10 @@ ToDo List:
 - link settings to an account
 
 In Progress:
-- Lurker shop messing with resources value if none
+- New musics ?
 
 To Test:
 - Map tattoo still having issues? Damn...
-- StairwayToHeaven tattoo
 
 ----------------------------------------------------------------------------------------------------------------
 
