@@ -45,6 +45,9 @@ Wisdom Special:
 - Now properly has an explosion sound on explosion.
 Lurker Shop:
 - An input bug was locking the Lurker Shop inside a dialog.
+- Removing a tattoo wasn't removing its effects.
+- Removing a tattoo had chances to clean the wrong body parts, allowing for multiple tattoos to be inked on the same body part.
+- Upgrading a tattoo wasn't applying its effects.
 
 ----------------------------------------------------------------------------------------------------------------
 
