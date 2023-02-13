@@ -31,9 +31,18 @@ ToDo List:
 
 In Progress:
 - New musics ?
+- After 5% chance old school, newt piece (after old school) doesn't have a shadow
 
 To Test:
 - Map tattoo still having issues? Damn...
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.06.009]
+
+[FIXED BUGS]
+Pieces Ghosts:
+- The first pieces after some effects like Intoxication or Old School attacks weren't having a ghost.
 
 ----------------------------------------------------------------------------------------------------------------
 
