@@ -28,21 +28,58 @@ ToDo List:
 - cutscene looping on new game
 - Bug android equalizers (ViPER4Android, ): causes the equalizer to "flicker" in a way, turning off then on.
 - map icon on the steps that contain NPCs
+- Also, bass demon's attack makes no visual sense to a new player, and had I seen him as my first enemy, I would've been frustrated and prolly quit
+- In addition, slide mode feels great but it's unclear how to stash a piece
 
 In Progress:
 - New musics ?
-- After 5% chance old school, newt piece (after old school) doesn't have a shadow
 
 To Test:
 - Map tattoo still having issues? Damn...
 
 ----------------------------------------------------------------------------------------------------------------
 
--> [01.06.009]
+-> [01.07.001]
 
 [FIXED BUGS]
+Steps Icons:
+- They now provide the correct information about what's inside a step.
 Pieces Ghosts:
 - The first pieces after some effects like Intoxication or Old School attacks weren't having a ghost.
+Swipe Inputs:
+- On mobile, using the one handed control scheme, soft dropping old school pieces didn't work.
+Intoxication Attack:
+- After its effect, now resets the previous gravity properly, taking into accounts actives and passives altering it.
+Old School + Small Paradise:
+- Small Paradise cancels gravity, Old School attacks prevent soft drops, resulting an impossibility to drop pieces. The combo now re-implement gravity for the Old School pieces only.
+Attacks effects:
+- Some effects were overlapping themselves and creating issues.
+Lore Scene:
+- Select input wasn't properly switching to the next lore text/image.
+Performance issues addressed:
+- It should run a little bit smoother.
+
+[ITEMS]
+Death Scythe:
+- Reworked the item. You now gain 7% in your favor for each opponent's death. You keep the item after activation.
+
+[ATTACKS]
+Nerfed Drone Attack:
+- Opponents with Drone attack cannot put their drone on a columns reaching the Game Over row if other lower columns exists.
+
+[OPPONENTS]
+Buffed Giant Spider:
+- Her attacks now triggers continuously more waste up to 4 rows before looping from 1 again.
+
+[UI]
+Big menu buttons:
+- The middle line under the button's text is now cropped out of text.
+
+[GAMEPLAY]
+Sonic Drop:
+- There is now a button to Sonic Drop. If (and only if) the button isn't set, then double press of the Down button does a Sonic Drop.
+Skins:
+- Added a new way to unlock skins.
 
 ----------------------------------------------------------------------------------------------------------------
 
