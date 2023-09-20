@@ -27,9 +27,7 @@ ToDo List:
 - link settings to an account
 - cutscene looping on new game
 - Bug android equalizers (ViPER4Android, ): causes the equalizer to "flicker" in a way, turning off then on.
-- map icon on the steps that contain NPCs
 - Also, bass demon's attack makes no visual sense to a new player, and had I seen him as my first enemy, I would've been frustrated and prolly quit
-- In addition, slide mode feels great but it's unclear how to stash a piece
 
 In Progress:
 - New musics ?
@@ -58,6 +56,10 @@ Lore Scene:
 - Select input wasn't properly switching to the next lore text/image.
 Performance issues addressed:
 - It should run a little bit smoother.
+Vibrations on mobile:
+- You no longer have to restart the app for the vibration option to be taken into consideration.
+Zaphkiel's special :
+- Fixed the special "Sky Down" which interacted with blocks that shouldn't be altered by gravity (like the ones from Gate attacks).
 
 [ITEMS]
 Death Scythe:
@@ -74,12 +76,18 @@ Buffed Giant Spider:
 [UI]
 Big menu buttons:
 - The middle line under the button's text is now cropped out of text.
+Map Origin:
+- An icon now shows the origin of the map in the Steps Scene.
+Swipe tips:
+- Stashing and Dropping is now explained for the Swipe gameplay in the Input Settings menu.
 
 [GAMEPLAY]
 Sonic Drop:
 - There is now a button to Sonic Drop. If (and only if) the button isn't set, then double press of the Down button does a Sonic Drop.
 Skins:
 - Added a new way to unlock skins.
+Training Free Level:
+- You can now choose which level to start from.
 
 ----------------------------------------------------------------------------------------------------------------
 
