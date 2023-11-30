@@ -28,6 +28,9 @@ ToDo List:
 - cutscene looping on new game
 - Bug android equalizers (ViPER4Android, ): causes the equalizer to "flicker" in a way, turning off then on.
 - Also, bass demon's attack makes no visual sense to a new player, and had I seen him as my first enemy, I would've been frustrated and prolly quit
+- Altered Score
+- Full Screen
+- New Tattoos, new Opponents
 
 In Progress:
 - New musics ?
@@ -50,16 +53,29 @@ Intoxication Attack:
 - After its effect, now resets the previous gravity properly, taking into accounts actives and passives altering it.
 Old School + Small Paradise:
 - Small Paradise cancels gravity, Old School attacks prevent soft drops, resulting an impossibility to drop pieces. The combo now re-implement gravity for the Old School pieces only.
+Zaphkiel's special:
+- Fixed the special "Sky Down" which interacted with blocks that shouldn't be altered by gravity (like the ones from Gate attacks).
+Map + Stairway to Heaven:
+- Fixed how the map would display when those two tattoos are combined.
 Attacks effects:
 - Some effects were overlapping themselves and creating issues.
+Moon Gun:
+- The item was destroying already existing height limiter if present while recasting.
 Lore Scene:
 - Select input wasn't properly switching to the next lore text/image.
-Performance issues addressed:
-- It should run a little bit smoother.
+- Now properly redirects to skill tree if it is unlocked.
 Vibrations on mobile:
 - You no longer have to restart the app for the vibration option to be taken into consideration.
-Zaphkiel's special :
-- Fixed the special "Sky Down" which interacted with blocks that shouldn't be altered by gravity (like the ones from Gate attacks).
+Performance issues addressed:
+- It should run a little bit smoother.
+Minor bugs:
+- Fixed some background issues.
+I'm French, sorry:
+- Fixed typos.
+
+[CHARACTERS]
+- Diabolus Vult (Sir Vixid's special attack) now moves up your piece if it's stuck in the waste lines it creates.
+- Belias special attack's cooldown: 14s -> 12s.
 
 [ITEMS]
 Death Scythe:
@@ -88,6 +104,10 @@ Skins:
 - Added a new way to unlock skins.
 Training Free Level:
 - You can now choose which level to start from.
+Opponents' randomizer:
+- Improved the random regarding the frequency of apparition of opponents. It now works with a bag of already encountered opponents less likely to resurface in order to encounter more different opponents per realm.
+Resources:
+- Resources now has 20% chances of being a step's loot instead of 25%.
 
 ----------------------------------------------------------------------------------------------------------------
 
