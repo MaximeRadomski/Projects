@@ -61,6 +61,8 @@ Attacks effects:
 - Some effects were overlapping themselves and creating issues.
 Moon Gun:
 - The item was destroying already existing height limiter if present while recasting.
+Smoke Bomb:
+- No longer clean your playfield if used against a boss.
 Lore Scene:
 - Select input wasn't properly switching to the next lore text/image.
 - Now properly redirects to skill tree if it is unlocked.
@@ -101,7 +103,7 @@ Swipe tips:
 Sonic Drop:
 - There is now a button to Sonic Drop. If (and only if) the button isn't set, then double press of the Down button does a Sonic Drop.
 Skins:
-- Added a new way to unlock skins.
+- Added a new (secret) way to unlock skins.
 Training Free Level:
 - You can now choose which level to start from.
 Opponents' randomizer:
