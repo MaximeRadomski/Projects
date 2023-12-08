@@ -34,6 +34,8 @@ ToDo List:
 
 In Progress:
 - New musics ?
+- Test why steps -1 on endless ascension before dog
+- New ascension background + cross animation
 
 To Test:
 - Map tattoo still having issues? Damn...
@@ -61,6 +63,8 @@ Attacks effects:
 - Some effects were overlapping themselves and creating issues.
 Moon Gun:
 - The item was destroying already existing height limiter if present while recasting.
+Bloodlust Blade:
+- Was saying it shrinked playfield by 1 line, but was shrinking it by 2...
 Smoke Bomb:
 - No longer clean your playfield if used against a boss.
 Lore Scene:
@@ -70,10 +74,20 @@ Vibrations on mobile:
 - You no longer have to restart the app for the vibration option to be taken into consideration.
 Performance issues addressed:
 - It should run a little bit smoother.
+Nope:
+- Tattoos were applied even if refused by answering "Nope!" in the loot popup...
 Minor bugs:
 - Fixed some background issues.
 I'm French, sorry:
 - Fixed typos.
+
+[TATTOOS]
+Ace of Clubs:
+- 10 bonus damage -> 20 bonus damage.
+King of Clubs:
+- New Tattoo: each twist now does 100% of your attack. upgradable 4 times.
+Brobot:
+- New Tattoo: combos stun your opponent for 1 second. upgradable 3 times.
 
 [CHARACTERS]
 - Diabolus Vult (Sir Vixid's special attack) now moves up your piece if it's stuck in the waste lines it creates.
@@ -86,6 +100,10 @@ Death Scythe:
 [ATTACKS]
 Nerfed Drone Attack:
 - Opponents with Drone attack cannot put their drone on a columns reaching the Game Over row if other lower columns exists.
+Line Break:
+- Now reduces the maximum height of the Line Break limit line by taking into account any supposed height limiter.
+Rhythm Mania:
+- After 4 misses, no longer adds empty rows under your playfield. Having no rhythm shouldn't be that disabling, sorry.
 
 [OPPONENTS]
 Buffed Giant Spider:
@@ -98,6 +116,8 @@ Map Origin:
 - An icon now shows the origin of the map in the Steps Scene.
 Swipe tips:
 - Stashing and Dropping is now explained for the Swipe gameplay in the Input Settings menu.
+Better attack details:
+- Click on your attack in the character's info to visualise the details of how it's calculated.
 
 [GAMEPLAY]
 Sonic Drop:
