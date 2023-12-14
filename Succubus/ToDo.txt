@@ -27,15 +27,12 @@ ToDo List:
 - link settings to an account
 - cutscene looping on new game
 - Bug android equalizers (ViPER4Android, ): causes the equalizer to "flicker" in a way, turning off then on.
-- Also, bass demon's attack makes no visual sense to a new player, and had I seen him as my first enemy, I would've been frustrated and prolly quit
 - Altered Score
 - Full Screen
 - New Tattoos, new Opponents
 
 In Progress:
 - New musics ?
-- Test why steps -1 on endless ascension before dog
-- New ascension background + cross animation
 
 To Test:
 - Map tattoo still having issues? Damn...
@@ -85,9 +82,11 @@ I'm French, sorry:
 Ace of Clubs:
 - 10 bonus damage -> 20 bonus damage.
 King of Clubs:
-- New Tattoo: each twist now does 100% of your attack. upgradable 4 times.
+- New Tattoo: Each twist now does 100% of your attack. upgradable 4 times.
 Brobot:
-- New Tattoo: combos stun your opponent for 1 second. upgradable 3 times.
+- New Tattoo: Combos stun your opponent for 1 second. upgradable 3 times.
+Raccoon:
+- New Tattoo: You deal +5 base damage but your playfield isn't cleared by beating a boss or by the lurker anymore.
 
 [CHARACTERS]
 - Diabolus Vult (Sir Vixid's special attack) now moves up your piece if it's stuck in the waste lines it creates.
