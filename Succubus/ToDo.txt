@@ -30,12 +30,28 @@ ToDo List:
 - Altered Score
 - Full Screen
 - New Tattoos, new Opponents
+- Continue Free play save
+- Bugs listed on Discord and the one on Reddit as well
 
 In Progress:
 - New musics ?
 
 To Test:
 - Map tattoo still having issues? Damn...
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.07.002]
+
+[FIXED BUGS]
+Old School & Partition attacks:
+- Shouldn't trigger conflicts between themselves anymore.
+Shift Attack:
+- Was having issues with shrinked playfields.
+
+[FEATURE]
+Delete Progression:
+- Added a corner button which deletes your progress (after a double confirmation).
 
 ----------------------------------------------------------------------------------------------------------------
 
