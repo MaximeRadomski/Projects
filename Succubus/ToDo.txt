@@ -41,6 +41,22 @@ To Test:
 
 ----------------------------------------------------------------------------------------------------------------
 
+-> [01.07.003]
+
+[Quality of Life]
+Menu title clicking:
+- Added a delay after which you can close the popup, in order to prevent closing too fast.
+
+[OPPONENTS]
+Abject:
+- He's new, and lethal.
+
+[FEATURE]
+Delete Progression:
+- Added a corner button which deletes your progress (after a double confirmation).
+
+----------------------------------------------------------------------------------------------------------------
+
 -> [01.07.002]
 
 [FIXED BUGS]
