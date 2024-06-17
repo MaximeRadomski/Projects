@@ -32,6 +32,7 @@ ToDo List:
 - New Tattoos, new Opponents
 - Continue Free play save
 - Bugs listed on Discord and the one on Reddit as well
+- More explanations (see the big post on discord)
 
 In Progress:
 - New musics ?
@@ -43,17 +44,32 @@ To Test:
 
 -> [01.07.003]
 
-[Quality of Life]
+[GAMEPLAY]
+Controller support:
+- It "should" work. Technically.
+
+[QUALITY OF LIFE]
 Menu title clicking:
 - Added a delay after which you can close the popup, in order to prevent closing too fast.
+Long Press:
+- Android: You can now long press gameplay buttons while binding them to see their function.
+Pacts:
+- Android: The button linked to a canceled action is now a "locked" button.
+- A popping text with an audio feedback happens near your character when you try to use a canceled action.
 
 [OPPONENTS]
 Abject:
-- He's new, and lethal.
+- He's new, and irritating.
 
-[FEATURE]
-Delete Progression:
-- Added a corner button which deletes your progress (after a double confirmation).
+[MISCELLANEOUS]
+Sheet Music:
+- Renamed "Partition" to "Sheet Music".
+Input Binding:
+- The input "Back/Pause" got split into a "Back" and a "Pause" input. It felt weird otherwise with a controller.
+
+[FIXED BUGS]
+Scoring system:
+- The score verification used to bug when you started from a level other than the first.
 
 ----------------------------------------------------------------------------------------------------------------
 
