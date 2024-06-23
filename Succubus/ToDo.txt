@@ -51,11 +51,15 @@ Controller support:
 [QUALITY OF LIFE]
 Menu title clicking:
 - Added a delay after which you can close the popup, in order to prevent closing too fast.
-Long Press:
+Buttons meanings:
 - Android: You can now long press gameplay buttons while binding them to see their function.
+Attacks meanings:
+- You can now click on text containing attack names to see their description.
 Pacts:
 - Android: The button linked to a canceled action is now a "locked" button.
 - A popping text with an audio feedback happens near your character when you try to use a canceled action.
+Steps Scene:
+- The cursor now properly centers to your position.
 
 [OPPONENTS]
 Abject:
