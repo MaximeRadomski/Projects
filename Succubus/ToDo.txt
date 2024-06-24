@@ -53,8 +53,9 @@ Menu title clicking:
 - Added a delay after which you can close the popup, in order to prevent closing too fast.
 Buttons meanings:
 - Android: You can now long press gameplay buttons while binding them to see their function.
-Attacks meanings:
-- You can now click on text containing attack names to see their description.
+Attacks, Weaknesses and Immunities meanings:
+- You can now click on text containing an attack, a weakness or an immunity name to see its description.
+
 Pacts:
 - Android: The button linked to a canceled action is now a "locked" button.
 - A popping text with an audio feedback happens near your character when you try to use a canceled action.
@@ -74,6 +75,8 @@ Input Binding:
 [FIXED BUGS]
 Scoring system:
 - The score verification used to bug when you started from a level other than the first.
+Level select in Training Free:
+- It was altering some stats numbers and Old School gameplay.
 
 ----------------------------------------------------------------------------------------------------------------
 
