@@ -72,6 +72,10 @@ Sheet Music:
 Input Binding:
 - The input "Back/Pause" got split into a "Back" and a "Pause" input. It felt weird otherwise with a controller.
 
+[TATTOOS]
+Penrose Triangle:
+- New Tattoo: 
+
 [FIXED BUGS]
 Scoring system:
 - The score verification used to bug when you started from a level other than the first.
