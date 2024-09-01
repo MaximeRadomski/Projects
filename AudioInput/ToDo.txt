@@ -9,6 +9,12 @@ Currently working on:
 
 
 --------------------------------------------------------------------------
+1.3.6
+- Added peaks' hz texts on the spectrum analyser.
+- Added a way to order your audio inputs in the Keybinding tab.
+- Better peak registering precision and removed the possibility to have doublons when registering peaks.
+- Added a setting to set your popup registering frequencies as locked when opened.
+- Added hover tips on the Reset and Lock buttons from the popup registering frequencies.
 
 1.3.2
 - Fixed some Hover Help visuals
