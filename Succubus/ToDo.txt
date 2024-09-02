@@ -42,6 +42,23 @@ To Test:
 
 ----------------------------------------------------------------------------------------------------------------
 
+-> [01.07.004]
+
+[QUALITY OF LIFE]
+Screen Rotation (Android Only):
+- You can now, when entering the splash screen, rotate your screen the way you want the game to be played for the rest of your session. Clicking anywhere will put you in the Main Menu and prevent you to make any rotation.
+
+[FIXED BUGS]
+Gravity Falls:
+- Dark Sign was applied every time you would alter the gravity of a game (like with "Whac-a-Mole" for example).
+
+[ITEMS]
+Reworked Hierophant:
+- Now prevents the lock delay to be shortened, and when a piece isn't locked by a hard drop, it spawns again.
+- Cooldown 8 -> 16.
+
+----------------------------------------------------------------------------------------------------------------
+
 -> [01.07.003]
 
 [GAMEPLAY]
@@ -74,7 +91,7 @@ Input Binding:
 
 [TATTOOS]
 Penrose Triangle:
-- New Tattoo: 
+- New Tattoo: your damage fluctuates between -100% and +300% after each attack.
 
 [FIXED BUGS]
 Scoring system:
