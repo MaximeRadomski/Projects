@@ -39,6 +39,33 @@ In Progress:
 
 To Test:
 - Map tattoo still having issues? Damn...
+- Ohhhh interesting. If you erase a tattoo, even Full Black or Black Hole it "should" erase it. I'll make a fix
+- Make Phill less like Bill, like, come on
+
+----------------------------------------------------------------------------------------------------------------
+
+Easter Eggs:
+	- 666 Clicks to unlock all skins
+	- Land x back to back 4Lines on Fill unlocks a new dialog altering reality, and the game is now a shmup
+		- If you die in the shmup, you get back to the classic game
+
+----------------------------------------------------------------------------------------------------------------
+
+-> [01.07.004]
+
+[MISCELLANEOUS]
+Sins rewards:
+- Balanced how the Booby Prize works. Now gives you 1 Sin flat.
+- Fixed the Sins reward by difficulty:
+	- Easy: 1
+	- Normal: 2
+	- Hard: 3
+	- Infernal: 4
+	- Divine and over: 5
+
+[FIXED BUGS]
+Unsavorious prayer:
+- Removed god.
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -56,6 +83,10 @@ Gravity Falls:
 Reworked Hierophant:
 - Now prevents the lock delay to be shortened, and when a piece isn't locked by a hard drop, it spawns again.
 - Cooldown 8 -> 16.
+
+[HARDWARE]
+Android:
+- Compatibility with 64-bit architecture devices.
 
 ----------------------------------------------------------------------------------------------------------------
 
